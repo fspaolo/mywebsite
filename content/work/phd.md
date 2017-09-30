@@ -8,11 +8,11 @@ title: Ph.D. Dissertation
 
 **Abstract**. Antarctica's ice shelves, the floating extensions of the ice sheet, exert an important dynamic constraint on the flow of ice from the grounded ice sheet to the ocean, and hence on changes in global sea level. Thinning of an ice shelf reduces its ability to restrain the ice discharge from the grounded ice-sheet interior. Since the grounded ice sheet responds to perturbations in the ice shelves, predicting sea-level rise requires that we understand the processes that determine ice-shelf response to climate variability. Our understanding of these processes is, however, still too rudimentary to allow prediction of ice-sheet change under projected future climate states. This dissertation presents improved procedures to construct 18-year time series (1994--2012) of ice-shelf height around the entire Antarctic continent by merging data from multiple overlapping satellite radar altimeter missions (ERS-1, ERS-2, and Envisat). The resulting data set has a temporal resolution of 3 months and a spatial resolution of ~30 km. Improved procedures for trend analysis are introduced, and a more accurate alternative for uncertainty estimation to the standard error propagation approach is proposed. Ice-shelf height variability is analyzed using orthogonal-component decomposition of multivariate time series, spectral estimation and background-noise statistical tests. The derived data set and method allow to estimate, reliably and with defined formal uncertainties, the temporal progression and spatial structure of changes in ice-shelf height and volume in Antarctica between 1994 and 2012. The results reveal that, overall, Antarctic ice-shelf volume loss is accelerating. Furthermore, significant interannual variability in the Amundsen Sea ice shelves is strongly correlated with the low-frequency mode of El Niño-Southern Oscillation. These findings may ultimately allow us to understand the processes driving ice-shelf changes sufficiently to improve our models for predicting future ice loss.
 
-![Iche shelf change](http://fspaolo.net/work/ishelf_change2.png)
+![Iche shelf change](/img/ishelf_change2.png)
 
 [TeX and PDF of the Dissertation](https://github.com/fspaolo/phd-thesis)
 
-My Ph.D. Dissertation rendered 3 publications:
+Three publications from My Ph.D. Dissertation:
 
 (Chapter 2: Time series of ice-shelf height)  
 **Paolo F.S**, H.A. Fricker, L. Padman, Constructing improved decadal records of Antarctic ice-shelf height change from multiple satellite radar altimeters, *Remote Sensing of Environment*, vol.177 (2016). [[DOI]](http://dx.doi.org/10.1016/j.rse.2016.01.026)

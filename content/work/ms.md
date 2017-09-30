@@ -7,11 +7,11 @@ title: M.S. Thesis
 
 **Abstract**. The integration of satellite altimetry data with shipborne gravity surveys has been key for the accurate determination of the gravity field over the ocean. This approach has been used extensively due to the high density and availability of data derived from space-borne sensors. Currently, an open problem is the representation of the gravity field elements with high resolution along the coastal regions, where the altimeter measurement suffers from degradation due to increased variability in the sea surface and presence of the coastline. In this thesis, marine gravity data, from the U.S. National Geophysical Data Center and Brazilian national surveys, were integrated with sea-surface gradients (slopes) derived from satellite altimetry geodetic missions (Geosat/GM and ERS-1/GM). Using the least-squares collocation (LSC) method, for combining data of different types with heterogeneous distribution, models of free-air gravity anomaly and geoid height were calculated for the entire Brazilian coast, with a resolution of 2 x 2 deg. The integration of these two types of data (satellite and shipborne) showed better statistics along the coastal regions compared to using satellite data only, suggesting an improvement over the global models. An assessment of the computational feasibility of the LSC method for integrating large data sets was also conducted. The LSC method proved feasible in terms of processing time, being the natural choice for integrating the diverse geodetic information available in regions of ocean-continent transition.
 
-![Gravity Anomaly](http://fspaolo.net/work/grav_anom.png)
+![Gravity Anomaly](/img/gravity_anom.png)
 
 [PDF of the Thesis](http://www.iag.usp.br/pos/sites/default/files/m_fernando_s_paolo.pdf) (in Portuguese!)
 
-My M.S. Thesis rendered 1 publication:
+One publication from my M.S. Thesis:
 
 **Paolo F.S.**, E.C. Molina, Integrated marine gravity field along the Brazilian coast from altimeter-derived sea-surface gradient and shipborne gravity, *Journal of Geodynamics*, vol.50 (2010). [[DOI]](http://dx.doi.org/10.1016/j.jog.2010.04.003)
 
