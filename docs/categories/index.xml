@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Fernando Paolo</title>
+    <link>http://fspaolo.net/categories/</link>
+    <description>Recent content in Categories on Fernando Paolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="http://fspaolo.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Features</title>
+      <link>http://fspaolo.net/categories/features/</link>
+      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://fspaolo.net/categories/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>http://fspaolo.net/categories/typography/</link>
+      <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://fspaolo.net/categories/typography/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

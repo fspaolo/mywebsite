@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fernando Paolo</title>
+    <link>http://fspaolo.net/tags/</link>
+    <description>Recent content in Tags on Fernando Paolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 May 2017 12:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://fspaolo.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example</title>
+      <link>http://fspaolo.net/tags/example/</link>
+      <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://fspaolo.net/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature</title>
+      <link>http://fspaolo.net/tags/feature/</link>
+      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://fspaolo.net/tags/feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://fspaolo.net/tags/lorem-ipsum/</link>
+      <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://fspaolo.net/tags/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Menu</title>
+      <link>http://fspaolo.net/tags/menu/</link>
+      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://fspaolo.net/tags/menu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

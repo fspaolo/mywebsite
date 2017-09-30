@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features on Fernando Paolo</title>
+    <link>http://fspaolo.net/categories/features/</link>
+    <description>Recent content in Features on Fernando Paolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 20 May 2017 12:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://fspaolo.net/categories/features/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Press / media</title>
+      <link>http://fspaolo.net/work/press/</link>
+      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://fspaolo.net/work/press/</guid>
+      <description>On the Larsen C giant iceberg Veja Magazine
+Por que é preciso falar sobre o iceberg gigante da Antártida? [Why is it necesary to talk about the gian Antarctic iceberg?]
+Appearance in a commercial for Scripps English version
+Spanish version
+Our Larsen C paper in the news The Washington Post
+This ice shelf is nearly the size of Scotland - and it could be at &amp;lsquo;imminent risk&amp;rsquo;
+The Guardian</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://fspaolo.net/work/research/</link>
+      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://fspaolo.net/work/research/</guid>
+      <description>Geophysical Data Analysis Large-scale processing, statistical modeling and time series analysis applied to Earth observations.
+I work primarily with observations (i.e. data). I am interested in the large-scale monitoring of the Earth&amp;rsquo;s surface. My past and current work include the mapping and change detection of Earth&amp;rsquo;s topography, bathymetry and gravity field, as observed by radars, lidars, imagery, sonars and gravimeters, among others. The following technologies constitute the core of our tools.</description>
+    </item>
+    
+  </channel>
+</rss>
