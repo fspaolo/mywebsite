@@ -13,7 +13,7 @@ I work primarily with observations (i.e. data). I am interested in the large-sca
 
 Check out our Python library on GitHub: [AltimPy](https://github.com/fspaolo/altimpy.git)
 
-![Time Series Analysis](work/time_series.png)
+![Time Series Analysis](http://fspaolo.net/work/time_series.png)
 
 Constructing height-change time series from multiple satellite altimeters, and modeling the variability and trend.
 
@@ -26,7 +26,7 @@ Antarctica's ice shelves exert a significant dynamic constraint on the flow of i
 
 Check out our paper in *Science*: [sciencemag.org](http://www.sciencemag.org/content/348/6232/327.abstract)
 
-![Antarctic ice shelves](work/ice_shelf_change.png)
+![Antarctic ice shelves](http://fspaolo.net/work/ice_shelf_change.png)
 
 Eighteen years of changes in the Antarctic ice shelves. Color map is rate of thickness change, circles are percentage thickness gained or lost, time series are total volume change over 18 years.
 
@@ -39,6 +39,6 @@ Sea surface gradients (slopes), derived from the Geosat and ERS-1 satellite alti
 
 Check out our paper in *J. Geodyn.*: [sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S0264370710000803)
 
-![Gravity and Geoid Brazil](work/gravity_geoid.png)
+![Gravity and Geoid Brazil](http://fspaolo.net/work/gravity_geoid.png)
 
 Integrated gravity models constructed using sea surface gradients (slopes) and marine gravity data along the Brazilian coast: (left) free-air gravity anomaly and (right) geoid height.

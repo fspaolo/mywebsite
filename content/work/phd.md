@@ -12,7 +12,7 @@ title: Ph.D. Dissertation
 
 [TeX and PDF of the Dissertation](https://github.com/fspaolo/phd-thesis)
 
-Three publications out of my Ph.D. Dissertation:
+My Ph.D. Dissertation rendered 3 publications:
 
 (Chapter 2: Time series of ice-shelf height)  
 **Paolo F.S**, H.A. Fricker, L. Padman, Constructing improved decadal records of Antarctic ice-shelf height change from multiple satellite radar altimeters, *Remote Sensing of Environment*, vol.177 (2016). [[DOI]](http://dx.doi.org/10.1016/j.rse.2016.01.026)
