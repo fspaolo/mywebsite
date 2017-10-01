@@ -10,19 +10,5 @@
 	<atom:link href="http://fspaolo.net/about/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>About</title>
-      <link>http://fspaolo.net/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://fspaolo.net/about/about/</guid>
-      <description>cv
-profile
-contact
-code
-notes
-Short bio I first became interested in polar research during my undergraduate years while participating in an expedition to Antarctica for over a month. Seeking a multidisciplinary Earth Science education I studied Oceanography at the University of Sao Paulo, Brazil, where I had the opportunity to participate in several scientific cruises in the South Atlantic Ocean. During my Masters in Geophysics I gained experience in space geodesy, combining satellite altimetry and shipborne measurements to improve the derivation of the Earth&amp;rsquo;s gravity field using an inverse approach.</description>
-    </item>
-    
   </channel>
 </rss>

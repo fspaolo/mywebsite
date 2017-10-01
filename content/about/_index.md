@@ -3,11 +3,11 @@ title: About
 menu: main
 ---
 
-[cv](https://github.com/fspaolo/cv/blob/master/paolo_cv.pdf)  
-[profile](https://science.jpl.nasa.gov/people/Serrano%20Paolo)  
-[contact](mailto:fspaolo@gmail.com)  
-[code](https://github.com/fspaolo/)  
-[notes](https://gist.github.com/fspaolo/)  
+[cv](https://github.com/fspaolo/cv/blob/master/paolo_cv.pdf) / 
+[profile](https://science.jpl.nasa.gov/people/Serrano%20Paolo) /
+[contact](mailto:fspaolo@gmail.com) / 
+[code](https://github.com/fspaolo/) / 
+[notes](https://gist.github.com/fspaolo/) 
 
 
 # Short bio
