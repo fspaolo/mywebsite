@@ -11,7 +11,7 @@ title: M.S. Thesis
 
 [PDF of the Thesis](http://www.iag.usp.br/pos/sites/default/files/m_fernando_s_paolo.pdf) (in Portuguese!)
 
-One publication from my M.S. Thesis:
+My M.S. Thesis rendered one publication:
 
 **Paolo F.S.**, E.C. Molina, Integrated marine gravity field along the Brazilian coast from altimeter-derived sea-surface gradient and shipborne gravity, *Journal of Geodynamics*, vol.50 (2010). [[DOI]](http://dx.doi.org/10.1016/j.jog.2010.04.003)
 
