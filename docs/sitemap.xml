@@ -64,10 +64,6 @@
   </url>
   
   <url>
-    <loc>http://fspaolo.net/think/</loc>
-  </url>
-  
-  <url>
     <loc>http://fspaolo.net/tags/lorem-ipsum/</loc>
     <lastmod>2017-05-19T12:00:00+06:00</lastmod>
     <priority>0</priority>
@@ -119,6 +115,10 @@
   
   <url>
     <loc>http://fspaolo.net/think/python/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fspaolo.net/think/</loc>
   </url>
   
   <url>
