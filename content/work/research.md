@@ -15,7 +15,7 @@ Check out our Python library on GitHub: [AltimPy](https://github.com/fspaolo/alt
 
 ![Time Series Analysis](/img/time_series.png)
 
-Constructing height-change time series from multiple satellite altimeters, and modeling the variability and trend.
+**Figure:** Constructing height-change time series from multiple satellite altimeters, and modeling the variability and trend.
 
 
 ## Satellite Altimetry and Ice Shelf Change
@@ -28,7 +28,7 @@ Check out our paper in *Science*: [sciencemag.org](http://www.sciencemag.org/con
 
 ![Antarctic ice shelves](/img/ishelf_change.png)
 
-Eighteen years of changes in the Antarctic ice shelves. Color map is rate of thickness change, circles are percentage thickness gained or lost, time series are total volume change over 18 years.
+**Figure:** Eighteen years of changes in the Antarctic ice shelves. Color map is rate of thickness change, circles are percentage thickness gained or lost, time series are total volume change over 18 years.
 
 
 ## Satellite Altimetry and Marine Gravity
@@ -41,4 +41,4 @@ Check out our paper in *J. Geodyn.*: [sciencedirect.com](http://www.sciencedirec
 
 ![Gravity and Geoid Brazil](/img/gravity_geoid.png)
 
-Integrated gravity models constructed using sea surface gradients (slopes) and marine gravity data along the Brazilian coast: (left) free-air gravity anomaly and (right) geoid height.
+**Figure:** Integrated gravity models constructed using sea surface gradients (slopes), derived from satellite altimetry, and marine gravity data along the Brazilian coast: (left) free-air gravity anomaly and (right) geoid height.
