@@ -5,9 +5,10 @@ menu: main
 
 [CV](https://github.com/fspaolo/cv/blob/master/paolo_cv.pdf) / 
 [Profile](https://science.jpl.nasa.gov/people/Serrano%20Paolo) /
-[Contact](mailto:fspaolo@gmail.com) / 
+[LinkedIn](//linkedin.com/in/fspaolo) /
 [Code](https://github.com/fspaolo/) / 
-[Notes](https://gist.github.com/fspaolo/) 
+[Notes](https://gist.github.com/fspaolo/) /
+[Contact](mailto:fspaolo@gmail.com)
 
 
 ## Short bio

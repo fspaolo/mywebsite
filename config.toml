@@ -11,7 +11,7 @@ title               = "Fernando Paolo"
 pygmentsuseclasses  = true
 #disqusshortname    = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
-googleAnalytics     = "UA-123-45"
+#googleAnalytics     = "UA-123-45"
 
 [permalinks]
 #blog  = "blog/:slug/"
@@ -41,14 +41,14 @@ cachebuster            = true                          # add the current unix ti
 dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
 description            = "Personal website"
-email                  = "fspaolo@gmail.com"
+##email                  = "fspaolo@gmail.com"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 faviconfile            = "img/leaf.ico"
-github                 = "//github.com/fspaolo"
-highlightjs            = true
+##github                 = "//github.com/fspaolo"
+#highlightjs            = true
 #instagram              = "//instagram.com/you"
 lang                   = "en"
-linkedin               = "//linkedin.com/in/fspaolo"
+##linkedin               = "//linkedin.com/in/fspaolo"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
 selfintro              = ""                            # appears in the site header when set to a non-empty string
 #twitter                = "//twitter.com/you"
