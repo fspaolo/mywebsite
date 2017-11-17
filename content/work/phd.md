@@ -23,5 +23,5 @@ Publications from my Ph.D. Dissertation:
 **Paolo F.S.**, H.A. Fricker, L. Padman, Volume loss from Antarctic ice shelves is accelerating, *Science*, vol.348 (2015). [[DOI]](http://dx.doi.org/10.1126/science.aaa0940)
 
 *(Chapter 4: Variability analysis of ice-shelf height)*  
-**Paolo F.S**, L. Padman, H.A. Fricker, *and others*, Response of Antarctic Pacific sector ice shelves to ENSO variability, 1994--2017 (in review)
+**Paolo F.S**, L. Padman, H.A. Fricker, S. Adusumilli, S. Howard, M.R. Siegfried, Response of Pacific-sector Antarctic ice shelves to the El Niño/Southern Oscillation, *Nature Geoscience* (accepted)
 
