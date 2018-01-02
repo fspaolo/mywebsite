@@ -7,7 +7,7 @@ tags = ["example", "Lorem Ipsum"]
 
 ## Journals
 
-F.S. Paolo, L. Padman, H.A. Fricker, S. Adusumilli, S. Howard, M.R. Siegfried, **Response of Pacific-sector Antarctic ice shelves to the El Niño/Southern Oscillation**, *Nature Geoscience* (accepted)
+F.S. Paolo, L. Padman, H.A. Fricker, S. Adusumilli, S. Howard, M.R. Siegfried, **Response of Pacific-sector Antarctic ice shelves to the El Niño/Southern Oscillation**, *Nature Geoscience* (in press)
 
 F.S. Paolo, H.A. Fricker, L. Padman, **Developing improved decadal records of Antarctic ice-shelf height change from multiple satellite radar altimeters**, *Remote Sens. Environ.* (2016). [web](http://authors.elsevier.com/a/1Sd~57qzSbrdi) | [pdf](https://www.dropbox.com/s/0i9nhqyuu0qvrsv/AltimetryTimeSeriesRSE2016.pdf?dl=0)
 
