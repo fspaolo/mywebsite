@@ -8,6 +8,5 @@ title: The investment of societies
 
 > In fact, a wise man is afire, alive, aflame. He would like rather to die than to be enslaved.
 
-> ---[Rajneesh](href="http://en.wikipedia.org/wiki/Rajneesh)
-
+> --- [Rajneesh](href="http://en.wikipedia.org/wiki/Rajneesh)
 

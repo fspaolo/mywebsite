@@ -18,4 +18,4 @@ weight: -50
  
 > As a humanist I accept to defend the internationalization of the world. So as long as the world treats me as a Brazilian, I will fight so that our Amazon Region will be ours. Only ours.
 
-> ---[Cristovam Buarque](http://en.wikipedia.org/wiki/Cristovam_Buarque)
+> --- [Cristovam Buarque](http://en.wikipedia.org/wiki/Cristovam_Buarque)

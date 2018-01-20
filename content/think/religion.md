@@ -6,6 +6,5 @@ title: The purpose of religion
  
 > Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards --- in heaven if not on earth --- all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of all mortal sins.
 
-> ---[Paul Dirac](http://en.wikipedia.org/wiki/Paul_Dirac)
-
+> --- [Paul Dirac](http://en.wikipedia.org/wiki/Paul_Dirac)
 

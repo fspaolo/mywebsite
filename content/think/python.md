@@ -24,4 +24,4 @@ Long time Pythoneer Tim Peters succinctly channels the [BDFL](https://docs.pytho
 - If the implementation is easy to explain, it may be a good idea.
 - Namespaces are one honking great idea - let's do more of those!  
 
----[Tim Peters](http://c2.com/cgi/wiki?TimPeters)
+--- [Tim Peters](http://c2.com/cgi/wiki?TimPeters)
