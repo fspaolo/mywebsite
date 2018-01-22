@@ -9,9 +9,9 @@ tags: ["feature", "menu"]
 
 ## Our ENSO/ice-shelf [Nature Geosc.](https://www.nature.com/articles/s41561-017-0033-0) paper in the news
 
-* [Video interview for the Carbon Brief](https://www.youtube.com/watch?v=uYQA58FcJsI)
-* [Video of the study's official press release](https://www.youtube.com/watch?v=FUXzQv7Qg_o)
-* [TV appearance on CBC News Network](https://www.dropbox.com/s/c92ibvu6n4ba8qo/cbcnn_newsnetwork_2018-01-08_17_35_39.mp4?dl=0)
+* [Video interview for Carbon Brief](https://www.youtube.com/watch?v=uYQA58FcJsI)
+* [Video from the press release](https://www.youtube.com/watch?v=FUXzQv7Qg_o)
+* [TV appearance on CBC News](https://www.dropbox.com/s/c92ibvu6n4ba8qo/cbcnn_newsnetwork_2018-01-08_17_35_39.mp4?dl=0)
 
 [BBC News](http://www.bbc.com/news/science-environment-42614412)  
 El Nino's long reach to Antarctic ice
