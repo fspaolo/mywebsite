@@ -11,7 +11,7 @@ title: M.S. Thesis
 
 **Figure:** Comparison of high-frequency noise content in free-air gravity-anomaly global models (left and midle columns) and integrated model from this work (right column). From top to bottom, total models, residual component w/spherical harmonics n > 360, and residual component w/spherical harmonics n > 1440.
 
-[PDF of the Thesis](http://www.iag.usp.br/pos/sites/default/files/m_fernando_s_paolo.pdf) (in Portuguese!)
+[PDF of my Thesis](http://www.iag.usp.br/pos/sites/default/files/m_fernando_s_paolo.pdf) (in Portuguese!)
 
 Publication from my M.S. Thesis:
 

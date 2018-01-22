@@ -12,7 +12,11 @@ title: Ph.D. Dissertation
 
 **Figure:** Maps of rate and acceleration of Antarctic ice-shelf height change (red = loss, blue = gain), derived from integrating 18 years of continuous satellite altimetry measurements.
 
-[TeX and PDF of the Dissertation](https://github.com/fspaolo/phd-thesis)
+[TeX and PDF of my Dissertation](https://github.com/fspaolo/phd-thesis)
+
+[Slides of my PhD Defense](https://www.slideshare.net/FernandoPaolo/phd-defense-52967892)
+
+[Slides of my PhD Qualifying](https://www.slideshare.net/FernandoPaolo/qual-presentation-22226910)
 
 Publications from my Ph.D. Dissertation:
 
