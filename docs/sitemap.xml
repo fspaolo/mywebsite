@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://fspaolo.net/</loc>
-    <lastmod>2017-05-20T12:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://fspaolo.net/think/amazonia/</loc>
   </url>
   
@@ -34,6 +29,11 @@
   <url>
     <loc>http://fspaolo.net/work/phd/</loc>
     <lastmod>2017-05-18T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://fspaolo.net/</loc>
+    <lastmod>2017-05-20T12:00:00+06:00</lastmod>
   </url>
   
   <url>

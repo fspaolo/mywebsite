@@ -5,6 +5,51 @@ categories: ["Features"]
 tags: ["feature", "menu"]
 ---
 
+(Many of the stories include exclusive interviews given)
+
+## Our ENSO/ice-shelf [Nature Geosc.](https://www.nature.com/articles/s41561-017-0033-0) paper in the news
+
+* [Video interview for the Carbon Brief](https://www.youtube.com/watch?v=uYQA58FcJsI)
+* [Video of the study's official press release](https://www.youtube.com/watch?v=FUXzQv7Qg_o)
+* [TV appearance on CBC News Network](https://www.dropbox.com/s/c92ibvu6n4ba8qo/cbcnn_newsnetwork_2018-01-08_17_35_39.mp4?dl=0)
+
+[BBC News](http://www.bbc.com/news/science-environment-42614412)  
+El Nino's long reach to Antarctic ice
+
+[Carbon Brief](https://www.carbonbrief.org/el-nino-causes-west-antarcticas-ice-shelves-gain-height-yet-lose-mass)  
+El Niño causes West Antarctica’s ice shelves to gain height yet lose mass  
+
+[Scripps News (official press release)](https://scripps.ucsd.edu/news/new-study-reveals-strong-el-ni%C3%B1o-events-cause-large-changes-antarctic-ice-shelves?hash=Mgub6wrWNSGIPJ3dTa9DKUpBvuCr4qQFjhbxr0hWfVY)  
+New Study Reveals Strong El Niño Events Cause Large Changes in Antarctic Ice Shelves
+
+[Newsweek](http://www.newsweek.com/antarctica-melting-below-and-getting-worse-773963)  
+Antarctica is melting from below -- and it's getting worse
+
+[Earther](https://earther.com/future-el-ninos-could-spell-trouble-for-antarcticas-mos-1821871261)  
+Future El Niños Could Spell Trouble For the West Antarctic Ice Sheet
+
+[E&E News](https://www.eenews.net/climatewire/stories/1060070419/search?keyword=antarctica)  
+More snow makes icy pole look bigger. But it's shrinking
+
+[EurekAlert](https://www.eurekalert.org/pub_releases/2018-01/uoc--nsr010418.php)  
+New study reveals strong El Niño events cause large changes in Antarctic ice shelves
+
+[DailyMail](http://www.dailymail.co.uk/sciencetech/article-5239625/El-Nino-causes-ice-shelves-melt-shrink-size.html)  
+El Niño is causing the Antarctic ice shelf to melt up to ten inches every year, according to 23-year Nasa study
+
+[Phys.org](https://phys.org/news/2018-01-reveals-strong-el-nino-events.html)  
+New study reveals strong El Nino events cause large changes in Antarctic ice shelves
+
+[EuropaPress](http://www.europapress.es/ciencia/habitat-y-clima/noticia-fuertes-eventos-nino-alteran-plataformas-hielo-antartida-20180108171726.html)  
+Fuertes eventos de El Niño alteran plataformas de hielo en la Antártida
+
+[Environmental Research Web](http://environmentalresearchweb.org/cws/article/yournews/70876)  
+New study reveals strong El Niño events cause large changes in Antarctic ice shelves
+
+[International Business Times](http://www.ibtimes.com/antarctic-ice-shelves-affected-greatly-strong-el-nino-study-finds-2639014)  
+Antarctic Ice Shelves Affected Greatly By Strong El Niño, Study Finds
+
+
 ## On the Larsen C giant iceberg
 
 [Veja Magazine](http://veja.abril.com.br/ciencia/por-que-e-preciso-falar-sobre-o-iceberg-gigante-da-antartida/)  
@@ -13,8 +58,8 @@ Por que é preciso falar sobre o iceberg gigante da Antártida? *[Why is it nece
 
 ## Appearance in a commercial for [Scripps](https://scripps.ucsd.edu/)
 
-[English version](https://www.youtube.com/watch?list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&t=54&v=jN-231KVKNY)  
-[Spanish version](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
+* [Video (English version)](https://www.youtube.com/watch?v=jN-231KVKNY&index=25&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7)  
+* [Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
 
 
 ## Our [Larsen C](http://www.the-cryosphere.net/9/1005/2015/tc-9-1005-2015.html) paper in the news 
@@ -34,7 +79,7 @@ The ABCs of Antarctic Ice Shelf Melting
 [YAHOO News](http://news.yahoo.com/breakup-fears-massive-antarctic-ice-shelf-study-232941608.html)  
 Breakup fears for massive Antarctic ice shelf: study
 
-[The Carbon Brief](http://www.carbonbrief.org/blog/2015/05/antarctic-larsen-c-ice-shelf-at-risk-of-collapse-study-warns/)  
+[Carbon Brief](http://www.carbonbrief.org/blog/2015/05/antarctic-larsen-c-ice-shelf-at-risk-of-collapse-study-warns/)  
 Antarctic Larsen-C ice shelf at risk of collapse, study warns
 
 [EuroNews](http://www.euronews.com/2015/05/14/larsen-c-ice-shelf-in-antarctic-poses-threat-to-the-oceans/)  
@@ -62,7 +107,7 @@ Scientists find large Antarctic ice shelves closer to collapse than they thought
 Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse
 
 
-## Massive press coverage of our [Science](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) ice shelves paper 
+## Massive press coverage of our ice shelves [Science](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) paper 
 
 [Science/AAAS News](http://news.sciencemag.org/climate/2015/03/antarctica-rapidly-losing-its-edge)  
 Antarctica is rapidly losing its edge
@@ -88,10 +133,10 @@ Antarctic ice shelves melting 70% faster, study shows
 [The Guardian](http://www.theguardian.com/environment/2015/mar/26/collapse-antarcticas-glaciers-ice-melt-sooner-than-thought-scientists-warn)  
 Antarctic ice shelves are melting dramatically, study finds
 
-[Scripps News](https://scripps.ucsd.edu/news/antarctic-ice-shelves-rapidly-thinning?hash=eMh064tFrhj7yoOT2AN8e-L52mPYSl8h0SdUL4ZkKdE)  
+[Scripps News (official press release)](https://scripps.ucsd.edu/news/antarctic-ice-shelves-rapidly-thinning?hash=eMh064tFrhj7yoOT2AN8e-L52mPYSl8h0SdUL4ZkKdE)  
 Antarctic Ice Shelves Rapidly Thinning
 
-[The Carbon Brief](http://www.carbonbrief.org/blog/2015/03/antarctic-ice-shelf-thinning-is-accelerating-reveals-new-study/)  
+[Carbon Brief](http://www.carbonbrief.org/blog/2015/03/antarctic-ice-shelf-thinning-is-accelerating-reveals-new-study/)  
 Antarctic ice shelf thinning is accelerating, reveals new study
 
 [New Scientist](http://www.newscientist.com/article/dn27247-major-antarctic-ice-survey-reveals-dramatic-melting.html#.VRXgEDvF_tK)  
@@ -191,4 +236,4 @@ Climate: The Earth loses its freezer
 SDSC Supercomputers Assist in Scripps' Thinning Antarctic Ice Study
 
 [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2015/06/16/mais-finas-e-quebradicas/)  
-Mais finas e quebradicas (*Thinner and brittle*), [pdf](https://www.dropbox.com/s/dg0kdw39e75vvih/062-063_Ant%C3%A1rtica_232.pdf?dl=0)
+Mais finas e quebradicas (*Thinner and brittle*) - [[PDF]](https://www.dropbox.com/s/dg0kdw39e75vvih/062-063_Ant%C3%A1rtica_232.pdf?dl=0)

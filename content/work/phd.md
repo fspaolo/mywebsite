@@ -17,11 +17,11 @@ title: Ph.D. Dissertation
 Publications from my Ph.D. Dissertation:
 
 *(Chapter 2: Time series of ice-shelf height)*  
-**Paolo F.S**, H.A. Fricker, L. Padman, Constructing improved decadal records of Antarctic ice-shelf height change from multiple satellite radar altimeters, *Remote Sensing of Environment*, vol.177 (2016). [[DOI]](http://dx.doi.org/10.1016/j.rse.2016.01.026)
+**Paolo F.S**, H.A. Fricker, L. Padman, Constructing improved decadal records of Antarctic ice-shelf height change from multiple satellite radar altimeters, *Remote Sensing of Environment* 177 (2016). [[DOI]](http://doi.org/10.1016/j.rse.2016.01.026)
 
 *(Chapter 3: Trend analysis of ice-shelf height)*   
-**Paolo F.S.**, H.A. Fricker, L. Padman, Volume loss from Antarctic ice shelves is accelerating, *Science*, vol.348 (2015). [[DOI]](http://dx.doi.org/10.1126/science.aaa0940)
+**Paolo F.S.**, H.A. Fricker, L. Padman, Volume loss from Antarctic ice shelves is accelerating, *Science* 348 (2015). [[DOI]](http://doi.org/10.1126/science.aaa0940)
 
 *(Chapter 4: Variability analysis of ice-shelf height)*  
-**Paolo F.S**, L. Padman, H.A. Fricker, S. Adusumilli, S. Howard, M.R. Siegfried, Response of Pacific-sector Antarctic ice shelves to the El Niño/Southern Oscillation, *Nature Geoscience* (accepted)
+**Paolo F.S**, L. Padman, H.A. Fricker, S. Adusumilli, S. Howard, M.R. Siegfried, Response of Pacific-sector Antarctic ice shelves to the El Niño/Southern Oscillation, *Nature Geoscience* (2018) [[DOI]](http://doi.org/10.1038/s41561-017-0033-0)
 
