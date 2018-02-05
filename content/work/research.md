@@ -1,9 +1,7 @@
-+++
-date = "2017-05-20T12:00:00+06:00"
-title = "Research"
-categories = ["Features"]
-tags = ["feature"]
-+++
+---
+date: "2017-05-20T12:00:00+06:00"
+title: Research
+---
 
 ## Geophysical Data Analysis
 

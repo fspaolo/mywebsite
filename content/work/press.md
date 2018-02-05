@@ -1,13 +1,13 @@
 ---
 date: "2017-05-20T12:00:00+06:00"
 title: Press / media
-categories: ["Features"]
-tags: ["feature", "menu"]
 ---
 
 (Many of the stories include exclusive interviews given)
 
 ## Our ENSO/ice-shelf [Nature Geosc.](https://www.nature.com/articles/s41561-017-0033-0) paper in the news
+
+![Nature Geoscience Cover](/img/natgeo_feb2018.png)
 
 * [Video interview for Carbon Brief](https://www.youtube.com/watch?v=uYQA58FcJsI)
 * [Video from the press release](https://www.youtube.com/watch?v=FUXzQv7Qg_o)
@@ -108,6 +108,8 @@ Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse
 
 
 ## Massive press coverage of our ice shelves [Science](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) paper 
+
+![Science Cover](/img/science_apr2015.gif)
 
 [Science/AAAS News](http://news.sciencemag.org/climate/2015/03/antarctica-rapidly-losing-its-edge)  
 Antarctica is rapidly losing its edge
