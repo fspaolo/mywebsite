@@ -5,12 +5,18 @@ title: Press / media
 
 (Many of the stories include exclusive interviews given)
 
-## Our ENSO/ice-shelf [Nature Geosc.](https://www.nature.com/articles/s41561-017-0033-0) paper in the news
+## Outside comment on [PNAS](http://www.pnas.org/content/early/2018/02/06/1717312115) sea-level paper
+
+[Neewsweek](http://www.newsweek.com/sea-level-rise-has-rapidly-accelerated-1992-melting-ice-and-its-not-803326)  
+Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals
+
+
+## Our [Nature Geo.](https://www.nature.com/articles/s41561-017-0033-0) ENSO/ice-shelf paper in the news
 
 ![Nature Geoscience Cover](/img/natgeo_feb2018.png)
 
 * [Video interview for Carbon Brief](https://www.youtube.com/watch?v=uYQA58FcJsI)
-* [Video from the press release](https://www.youtube.com/watch?v=FUXzQv7Qg_o)
+* [Video for the press release](https://www.youtube.com/watch?v=FUXzQv7Qg_o)
 * [TV appearance on CBC News](https://www.dropbox.com/s/c92ibvu6n4ba8qo/cbcnn_newsnetwork_2018-01-08_17_35_39.mp4?dl=0)
 
 [BBC News](http://www.bbc.com/news/science-environment-42614412)  
@@ -50,6 +56,12 @@ New study reveals strong El Niño events cause large changes in Antarctic ice sh
 Antarctic Ice Shelves Affected Greatly By Strong El Niño, Study Finds
 
 
+## Outside comment on [Sci. Adv.](http://advances.sciencemag.org/content/3/11/e1701681) Totten ice-shelf paper
+
+[ScienceNews](https://www.sciencenews.org/article/wind-may-be-driving-melting-east-antarctica-totten-glacier)  
+Wind may be driving the melting of East Antarctica’s largest glacier
+
+
 ## On the Larsen C giant iceberg
 
 [Veja Magazine](http://veja.abril.com.br/ciencia/por-que-e-preciso-falar-sobre-o-iceberg-gigante-da-antartida/)  
@@ -62,7 +74,7 @@ Por que é preciso falar sobre o iceberg gigante da Antártida? *[Why is it nece
 * [Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
 
 
-## Our [Larsen C](http://www.the-cryosphere.net/9/1005/2015/tc-9-1005-2015.html) paper in the news 
+## Our [Cryosphere](http://www.the-cryosphere.net/9/1005/2015/tc-9-1005-2015.html) Larsen-C paper in the news 
 
 [The Washington Post](http://www.washingtonpost.com/news/energy-environment/wp/2015/05/12/this-ice-shelf-is-nearly-the-size-of-scotland-and-scientists-are-worried-about-its-stability/?tid=sm_fb)  
 This ice shelf is nearly the size of Scotland - and it could be at 'imminent risk'
@@ -107,7 +119,7 @@ Scientists find large Antarctic ice shelves closer to collapse than they thought
 Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse
 
 
-## Massive press coverage of our ice shelves [Science](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) paper 
+## Massive press coverage of our [Science](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) ice-shelves paper 
 
 ![Science Cover](/img/science_apr2015.gif)
 
