@@ -5,7 +5,7 @@ title: Press / media
 
 (Many of the stories include exclusive interviews given)
 
-## Outside comment on [PNAS](http://www.pnas.org/content/early/2018/02/06/1717312115) sea-level paper
+## Outside comment on [PNAS](http://www.pnas.org/content/early/2018/02/06/1717312115) sea-level rise paper
 
 [Neewsweek](http://www.newsweek.com/sea-level-rise-has-rapidly-accelerated-1992-melting-ice-and-its-not-803326)  
 Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals
