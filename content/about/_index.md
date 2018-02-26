@@ -15,7 +15,8 @@ menu: main
 
 I first became interested in polar research during my undergraduate years while participating in an expedition to Antarctica for over a month. Seeking a multidisciplinary Earth Science education I studied Oceanography at the University of Sao Paulo, Brazil, where I had the opportunity to participate in several scientific cruises in the South Atlantic Ocean. During my Masters in Geophysics I gained experience in space geodesy, combining measurements from satellite altimetry and shipborne gravimetry to improve the derivation of the Earth's gravity field using inverse methods. I then moved to California/USA, where I obtained my Ph.D. degree in Geophysics from the University of California, San Diego. During my doctoral work, I developed statistical methods and change-detection algorithms to quantify trends and variability in the volume of the Antarctic Ice Sheet using multi-mission satellite (radar and laser) data. I currently work at NASA's Jet Propulsion Laboratory / Caltech, where I use high-performance computing to integrate and analyze over 25 years of ice elevation and velocity measurements, derived from multiple satellites and airborne campaigns, over the Greenland and Antarctic ice sheets; with the goal of understanding the ice-climate interaction and improving sea-level projections over the next century ;)
 
-![me, myself, I](/img/portrait.jpeg)
+![me, myself, I](/img/portrait.jpeg)  
+“May your search through nature... lead you to yourself”
 
 
 ## About this site
