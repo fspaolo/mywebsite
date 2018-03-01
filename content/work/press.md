@@ -55,6 +55,9 @@ New study reveals strong El Niño events cause large changes in Antarctic ice sh
 [International Business Times](http://www.ibtimes.com/antarctic-ice-shelves-affected-greatly-strong-el-nino-study-finds-2639014)  
 Antarctic Ice Shelves Affected Greatly By Strong El Niño, Study Finds
 
+[Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2018/02/15/el-nino-e-o-derretimento-silencioso-da-antartida/?cat=notas)  
+El Niño e o derretimento silencioso da Antártida (*El Niño and the silent melting of Antarctica*) - [[PDF](https://www.dropbox.com/s/fa126h3fjma2c2z/012-017_notas_264.pdf?dl=0)]
+
 
 ## Outside comment on [Sci. Adv.](http://advances.sciencemag.org/content/3/11/e1701681) Totten ice-shelf paper
 
@@ -250,4 +253,4 @@ Climate: The Earth loses its freezer
 SDSC Supercomputers Assist in Scripps' Thinning Antarctic Ice Study
 
 [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2015/06/16/mais-finas-e-quebradicas/)  
-Mais finas e quebradicas (*Thinner and brittle*) - [[PDF]](https://www.dropbox.com/s/dg0kdw39e75vvih/062-063_Ant%C3%A1rtica_232.pdf?dl=0)
+Mais finas e quebradicas (*Thinner and brittle*) - [[PDF](https://www.dropbox.com/s/dg0kdw39e75vvih/062-063_Ant%C3%A1rtica_232.pdf?dl=0)]
