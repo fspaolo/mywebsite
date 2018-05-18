@@ -3,6 +3,19 @@ date: "2017-05-20T12:00:00+06:00"
 title: Research
 ---
 
+## Climate variability and ice-shelf change 
+
+*Investigating how the Antarctic ice shelves respond to climate variability such as the El Niño/Southern Oscillation.*
+
+Satellite observations over the past two decades have revealed increasing loss of grounded ice in West Antarctica, associated with floating ice shelves that have been thinning. Thinning reduces an ice shelf’s ability to restrain grounded-ice discharge, yet our understanding of the climate processes that drive mass changes is limited. Here, we use ice-shelf height data from four satellite altimeter missions (1994–2017) to show a direct link between ice-shelf height variability in the Antarctic Pacific sector and changes in regional atmospheric circulation driven by the El Niño/Southern Oscillation. This link is strongest from the Dotson to Ross ice shelves and weaker elsewhere. During intense El Niño years, height increase by accumulation exceeds the height decrease by basal melting, but net ice-shelf mass declines as basal ice loss exceeds ice gain by lower-density snow. Our results demonstrate a substantial response of Amundsen Sea ice shelves to global and regional climate variability, with rates of change in height and mass on interannual timescales that can be comparable to the longer-term trend, and with mass changes from surface accumulation offsetting a significant fraction of the changes in basal melting. This implies that ice-shelf height and mass variability will increase as interannual atmospheric variability increases in a warming climate.
+
+Check out our paper in *Nature Geoscience*: [nature.com](https://www.nature.com/articles/s41561-017-0033-0)
+
+![ENSO influence](/img/enso_influence.png)
+
+**Figure:** Relative influence of ENSO along the Antarctic Pacific margin. (a) Regional variation of the similarity index (size and color of squares) between ice-shelf height-anomaly records and the time-integrated Oceanic Niño Index (ONI). (b) 12-month running integral of ONI (that is, ENSO) lagged by ~6 months (top plot) and 12-month running means of ice-shelf height anomalies for the combined Amundsen (AMU) ice shelves and six individual ice shelves; the shaded area highlights the large height change resulting from the 1997–2001 El Niño-to-La Niña transition.
+
+
 ## Multi-satellite data fusion 
 
 *Constructing long-term continous time series of ice-shelf height change from multiple satellite altimeters.*
@@ -22,14 +35,12 @@ Check out our paper in *Remote Sens. Environ.*: [sciencedirect.com](https://www.
 
 I work primarily with observations (i.e. data). I am interested in the large-scale monitoring of the Earth's surface. My past and current work include the mapping and change detection of Earth's topography, bathymetry and gravity field, as observed by radars, lidars, imagery, sonars and gravimeters, among others. The following technologies constitute the core of our tools. We use high-performance computing (HPC) to process large-scale satellite data on dedicated clusters ([San Diego Supercomputer Center](https://www.sdsc.edu/News%20Items/PR20150420_antarctic_ice.html)) or on a local computing grid ([assembled by myself](https://gist.github.com/fspaolo/5942163)) for smaller jobs. For parallelization, we have used MPI ([mpi4py](https://bitbucket.org/mpi4py/mpi4py)) and Python libraries such as [Joblib](https://pythonhosted.org/joblib/) and [Dask](http://dask.pydata.org/en/latest/) for simpler data workloads. We store and manage information using the [HDF5](https://www.hdfgroup.org/HDF5/) and [NetCDF4](http://www.unidata.ucar.edu/software/netcdf/) data models. For visualization we have used [ParaView](http://www.paraview.org/), [Mayavi](http://docs.enthought.com/mayavi/mayavi/), [Matplotlib](http://matplotlib.org/) and [GMT](http://gmt.soest.hawaii.edu/) (all open source!). Examples of signal detection and analysis methods we use routinely are: Gaussian Process Regression (interpolation), Multivariate Singular Spectrum Analysis (signal decomposition and reconstruction), Multi-taper and Maximum-entropy methods (spectral density estimation), Stationary Bootstrapping (variance and confidence interval estimation), Hodrick-Prescott and LOWESS filtering (trend and cycle extraction), Least Squares Collocation and Kalman filters (heterogeneous data integration and space-time modeling), etc.
 
-Check out our Python library on GitHub: [AltimPy](https://github.com/fspaolo/altimpy.git)
+![Time Series Analysis](/img/oscil_modes.png)
 
-![Time Series Analysis](/img/time_series.png)
-
-**Figure:** Constructing height-change time series from multiple satellite altimeters, and modeling the variability and trend.
+**Figure:** Modes of oscillation in the ice-shelf height time series. (left) The empirical orthogonal functions paired as EOFs 1–2, 3–4 (interannual components) and 5–6 (annual component). Note the phase quadrature (∼π/2 shift) between pairs. (right) The reconstruction of each pair of modes in the time domain. This is equivalent to filtering the original time series (in gray) with respect to particular frequencies.
 
 
-## Satellite Altimetry and Ice Shelf Change
+## Satellite Altimetry and Ice Shelf Trends 
 
 *Multi-mission satellite altimetry to investigate long-term trends and variability in Antarctic ice-shelf thickness.*
 
