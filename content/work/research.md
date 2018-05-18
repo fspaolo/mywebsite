@@ -3,6 +3,19 @@ date: "2017-05-20T12:00:00+06:00"
 title: Research
 ---
 
+## Multi-satellite data fusion 
+
+*Constructing long-term continous time series of ice-shelf height change from multiple satellite altimeters.*
+
+Antarctica's ice shelves, the floating extensions of the ice sheet, exert an important dynamic constraint on the flow of ice from the grounded ice sheet to the ocean and, therefore, on changes in global sea level. Thinning of an ice shelf reduces its ability to restrain the ice discharge from the grounded ice sheet. However, our understanding of how ice shelf processes couple ice-sheet changes to climate variability is still rudimentary. In part, this is due to the brevity and low temporal resolution of surveys of ice shelf thickness relative to the broad range of time scales on which ice-sheet mass fluctuates. Here, we present improved procedures to construct 18-year (1994–2012) time series of Antarctic ice-shelf surface height at high spatial resolution (~30 km) by merging data from three overlapping satellite radar altimeter missions (ERS-1, ERS-2, and Envisat). We apply an averaging scheme to enhance the signal-to-noise ratio of height changes over the floating ice shelves, and extract low-order polynomial trends using a robust approach (regularized regression with cross-validation) that accounts for both bias and variance in the fit. We construct formal confidence intervals by bootstrap resampling of the residuals of the fit. The largest source of height error arises from the interaction of the radar signal with the snow and firn surface; on annual time scales, changes in surface and sub-surface scattering and radar penetration lead to apparent height changes that are larger than the true surface-height change arising from densification. Our 18-year time series of surface height provide an insight into how ice shelves respond to the changing atmospheric and oceanic conditions. Our methods could also be applied to grounded portions of the ice sheets, both in Antarctica and Greenland.
+
+Check out our paper in *Remote Sens. Environ.*: [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0034425716300268)
+
+![Time Series Analysis](/img/tseries_matrix.png)
+
+**Figure:** Representation of the multi-reference time series approach. (Left) individual time series of cumulative change. (Right) diagram representing the matrix formed with the time series on the left (one time series per row). From top to bottom is depicted the process of forming single-grid-cell average time series.
+
+
 ## Geophysical Data Analysis
 
 *Large-scale processing, statistical modeling and time series analysis applied to Earth observations.*
