@@ -3,9 +3,9 @@ date: "2017-05-20T12:00:00+06:00"
 title: Research
 ---
 
-## Climate variability and ice-shelf change 
+## Climate Variability and Ice-shelf Change 
 
-*Investigating how the Antarctic ice shelves respond to climate variability such as the El Niño/Southern Oscillation.*
+*Investigating how the Antarctic ice shelves respond to climate variability such as El Niño/Southern Oscillation.*
 
 Satellite observations over the past two decades have revealed increasing loss of grounded ice in West Antarctica, associated with floating ice shelves that have been thinning. Thinning reduces an ice shelf’s ability to restrain grounded-ice discharge, yet our understanding of the climate processes that drive mass changes is limited. Here, we use ice-shelf height data from four satellite altimeter missions (1994–2017) to show a direct link between ice-shelf height variability in the Antarctic Pacific sector and changes in regional atmospheric circulation driven by the El Niño/Southern Oscillation. This link is strongest from the Dotson to Ross ice shelves and weaker elsewhere. During intense El Niño years, height increase by accumulation exceeds the height decrease by basal melting, but net ice-shelf mass declines as basal ice loss exceeds ice gain by lower-density snow. Our results demonstrate a substantial response of Amundsen Sea ice shelves to global and regional climate variability, with rates of change in height and mass on interannual timescales that can be comparable to the longer-term trend, and with mass changes from surface accumulation offsetting a significant fraction of the changes in basal melting. This implies that ice-shelf height and mass variability will increase as interannual atmospheric variability increases in a warming climate.
 
@@ -16,7 +16,7 @@ Check out our paper in *Nature Geoscience*: [nature.com](https://www.nature.com/
 **Figure:** Relative influence of ENSO along the Antarctic Pacific margin. (a) Regional variation of the similarity index (size and color of squares) between ice-shelf height-anomaly records and the time-integrated Oceanic Niño Index (ONI). (b) 12-month running integral of ONI (that is, ENSO) lagged by ~6 months (top plot) and 12-month running means of ice-shelf height anomalies for the combined Amundsen (AMU) ice shelves and six individual ice shelves; the shaded area highlights the large height change resulting from the 1997–2001 El Niño-to-La Niña transition.
 
 
-## Multi-satellite data fusion 
+## Multi-satellite Data Fusion 
 
 *Constructing long-term continous time series of ice-shelf height change from multiple satellite altimeters.*
 
@@ -40,7 +40,7 @@ I work primarily with observations (i.e. data). I am interested in the large-sca
 **Figure:** Modes of oscillation in the ice-shelf height time series. (left) The empirical orthogonal functions paired as EOFs 1–2, 3–4 (interannual components) and 5–6 (annual component). Note the phase quadrature (∼π/2 shift) between pairs. (right) The reconstruction of each pair of modes in the time domain. This is equivalent to filtering the original time series (in gray) with respect to particular frequencies.
 
 
-## Satellite Altimetry and Ice Shelf Trends 
+## Ice-shelf thickness change from Satellite Altimetry
 
 *Multi-mission satellite altimetry to investigate long-term trends and variability in Antarctic ice-shelf thickness.*
 
@@ -53,7 +53,7 @@ Check out our paper in *Science*: [sciencemag.org](http://www.sciencemag.org/con
 **Figure:** Eighteen years of changes in the Antarctic ice shelves. Color map is rate of thickness change, circles are percentage thickness gained or lost, time series are total volume change over 18 years.
 
 
-## Satellite Altimetry and Marine Gravity
+## Marine Gravity Field from Satellite Altimetry
 
 *Satellite altimeter-derived sea surface gradient and shipborne gravity for an integrated marine gravity field.*
 
