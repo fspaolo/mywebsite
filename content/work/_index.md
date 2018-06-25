@@ -1,3 +1,3 @@
 ---
-title: Work stuff
+title: My work
 ---
