@@ -27,11 +27,11 @@ name                   = "Code"
 weight                 = -120
 identifier             = "code"
 url                    = "https://github.com/fspaolo"
-[[menu.main]]
-name                   = "Think"
-weight                 = -110
-identifier             = "think"
-url                    = "/think/"
+#[[menu.main]]
+#name                   = "Think"
+#weight                 = -110
+#identifier             = "think"
+#url                    = "/think/"
 
 [params]
 #latestpostscount       = 5                             # how many posts to display on the home page
