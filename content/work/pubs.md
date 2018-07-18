@@ -36,7 +36,7 @@ Padman L., F.S. PAOLO, H.A. Fricker, **Shrinking of Antarctic ice shelves is acc
 
 Padman L., F.S. PAOLO, H.A. Fricker, **Confused about ice shelf decay and sea ice increase?** *Scripps Institution of Oceanography* (2015). [web](http://glaciology.weebly.com/articles.html)
 
-PAOLO F.S., E.C. Molina, **Sera que todo o gelo da Antartica pode derreter? [Could all the ice of Antarctica melt?]**, *Ciencia Hoje* (2015). [web](http://chc.cienciahoje.uol.com.br/multimidia/revistas/reduzidas//268/?revista=268#8) | [pdf](https://www.dropbox.com/s/v3j38c5kgik6zyp/Degelo.pdf?dl=0)
+PAOLO F.S., E.C. Molina, **Sera que todo o gelo da Antartica pode derreter? [Could all the ice of Antarctica melt?]**, *Ciencia Hoje* (2015). [web](http://chc.cienciahoje.uol.com.br/multimidia/revistas/reduzidas//268/?revista=268#8) | [pdf](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0)
 
 
 ## Theses

@@ -13,7 +13,7 @@ Sea levels are surging at faster and faster rates as Antarctica and Greenland me
 
 ## Our [Nature Geo.](https://www.nature.com/articles/s41561-017-0033-0) ENSO/ice-shelf paper in the news
 
-![Nature Geoscience Cover](/img/natgeo_feb2018.png)
+<img src="/img/natgeo_feb2018.png" alt="Nature Geoscience Cover" width="340px"/>
 
 * [Video interview for Carbon Brief](https://www.youtube.com/watch?v=uYQA58FcJsI)
 * [Video for the press release](https://www.youtube.com/watch?v=FUXzQv7Qg_o)
@@ -65,10 +65,18 @@ El Niño e o derretimento silencioso da Antártida (*El Niño and the silent mel
 Wind may be driving the melting of East Antarctica’s largest glacier
 
 
-## On the Larsen C giant iceberg
+## Article on the Larsen C giant iceberg
 
 [Veja Magazine](http://veja.abril.com.br/ciencia/por-que-e-preciso-falar-sobre-o-iceberg-gigante-da-antartida/)  
 Por que é preciso falar sobre o iceberg gigante da Antártida? *[Why is it necesary to talk about the gian Antarctic iceberg?]*
+
+
+## Featured on the cover of a science magazine for kids
+
+<img src="/img/chc268_2015.png" alt="CHC Cover" width="340px"/>
+
+[Ciencia Hoje [Today's Science]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0)  
+Sera que todo o gelo da Antartica pode derreter? [Could all the ice of Antarctica melt?]
 
 
 ## Appearance in a commercial for [Scripps](https://scripps.ucsd.edu/)
@@ -124,7 +132,7 @@ Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse
 
 ## Massive press coverage of our [Science](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) ice-shelves paper 
 
-![Science Cover](/img/science_apr2015.gif)
+<img src="/img/science_apr2015.gif" alt="Science Cover" width="340px"/>
 
 [Science/AAAS News](http://news.sciencemag.org/climate/2015/03/antarctica-rapidly-losing-its-edge)  
 Antarctica is rapidly losing its edge
@@ -253,4 +261,4 @@ Climate: The Earth loses its freezer
 SDSC Supercomputers Assist in Scripps' Thinning Antarctic Ice Study
 
 [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2015/06/16/mais-finas-e-quebradicas/)  
-Mais finas e quebradicas (*Thinner and brittle*) - [[PDF](https://www.dropbox.com/s/dg0kdw39e75vvih/062-063_Ant%C3%A1rtica_232.pdf?dl=0)]
+Mais finas e quebradicas [Thinner and brittle] - [[PDF](https://www.dropbox.com/s/dg0kdw39e75vvih/062-063_Ant%C3%A1rtica_232.pdf?dl=0)]
