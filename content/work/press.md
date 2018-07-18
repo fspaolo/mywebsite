@@ -56,7 +56,7 @@ New study reveals strong El Niño events cause large changes in Antarctic ice sh
 Antarctic Ice Shelves Affected Greatly By Strong El Niño, Study Finds
 
 [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2018/02/15/el-nino-e-o-derretimento-silencioso-da-antartida/?cat=notas)  
-El Niño e o derretimento silencioso da Antártida (*El Niño and the silent melting of Antarctica*) - [[PDF](https://www.dropbox.com/s/fa126h3fjma2c2z/012-017_notas_264.pdf?dl=0)]
+El Niño e o derretimento silencioso da Antártida [El Niño and the silent melting of Antarctica] - [[PDF](https://www.dropbox.com/s/fa126h3fjma2c2z/012-017_notas_264.pdf?dl=0)]
 
 
 ## Outside comment on [Sci. Adv.](http://advances.sciencemag.org/content/3/11/e1701681) Totten ice-shelf paper
@@ -68,7 +68,7 @@ Wind may be driving the melting of East Antarctica’s largest glacier
 ## Article on the Larsen C giant iceberg
 
 [Veja Magazine](http://veja.abril.com.br/ciencia/por-que-e-preciso-falar-sobre-o-iceberg-gigante-da-antartida/)  
-Por que é preciso falar sobre o iceberg gigante da Antártida? *[Why is it necesary to talk about the gian Antarctic iceberg?]*
+Por que é preciso falar sobre o iceberg gigante da Antártida? [Why is it necesary to talk about the gian Antarctic iceberg?]
 
 
 ## Featured on the cover of a science magazine for kids
@@ -76,7 +76,7 @@ Por que é preciso falar sobre o iceberg gigante da Antártida? *[Why is it nece
 <img src="/img/chc268_2015.png" alt="CHC Cover" width="340px"/>
 
 [Ciencia Hoje [Today's Science]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0)  
-Sera que todo o gelo da Antartica pode derreter? [Could all the ice of Antarctica melt?]
+Antartica: O que pode acontecer se o gelo derreter? [Antarctica: What could happen if the ice melts?]
 
 
 ## Appearance in a commercial for [Scripps](https://scripps.ucsd.edu/)
