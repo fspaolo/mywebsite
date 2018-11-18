@@ -1,38 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Works on Fernando S. Paolo</title>
+    <title>Work on Fernando S. Paolo</title>
     <link>http://fspaolo.net/work/</link>
-    <description>Recent content in Works on Fernando S. Paolo</description>
+    <description>Recent content in Work on Fernando S. Paolo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Fernando Paolo</copyright>
-    <lastBuildDate>Sat, 20 May 2017 12:00:00 +0600</lastBuildDate>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://fspaolo.net/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Media coverage</title>
+      <link>http://fspaolo.net/work/media/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://fspaolo.net/work/media/</guid>
+      <description>Many of the stories include exclusive interviews given
+ Outside comment on PNAS sea-level rise paper Neewsweek &amp;ndash; Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals
+Our Nature Geoscience ENSO/ice-shelf paper in the news  Video interview for Carbon Brief Video for the press release TV appearance on CBC News  BBC News &amp;ndash; El Nino&amp;rsquo;s long reach to Antarctic ice</description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>http://fspaolo.net/work/research/</link>
-      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://fspaolo.net/work/research/</guid>
       <description>Climate Variability and Ice-shelf Change Investigating how the Antarctic ice shelves respond to climate variability such as El Niño/Southern Oscillation.
 Satellite observations over the past two decades have revealed increasing loss of grounded ice in West Antarctica, associated with floating ice shelves that have been thinning. Thinning reduces an ice shelf’s ability to restrain grounded-ice discharge, yet our understanding of the climate processes that drive mass changes is limited. Here, we use ice-shelf height data from four satellite altimeter missions (1994–2017) to show a direct link between ice-shelf height variability in the Antarctic Pacific sector and changes in regional atmospheric circulation driven by the El Niño/Southern Oscillation.</description>
-    </item>
-    
-    <item>
-      <title>Media coverage</title>
-      <link>http://fspaolo.net/work/media/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://fspaolo.net/work/media/</guid>
-      <description>(Many of the stories include exclusive interviews given)
-Outside comment on PNAS sea-level rise paper Neewsweek
-Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals
-Our Nature Geo. ENSO/ice-shelf paper in the news  Video interview for Carbon Brief Video for the press release TV appearance on CBC News  BBC News
-El Nino&amp;rsquo;s long reach to Antarctic ice
-Carbon Brief</description>
     </item>
     
     <item>
