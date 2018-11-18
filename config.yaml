@@ -1,17 +1,16 @@
 baseURL: http://fspaolo.net/
-footnoteReturnLinkContents: ↩
 publishDir: docs
 theme: hugo-paper
-title: Fernando{Paolo}
+title: Fernando S. Paolo
 copyright: Fernando Paolo 
-latestPostsCount: 3        # not working
-summaryLength: 10          # not working
+summaryLength: 7
+paginate: 3
 
 params:
     authorName: Fernando Paolo
     description: Fernando's Awesome Hugo Site
     gitHubUser: fspaolo
-    baseURL: http://fspaolo.net/
+    truncateSummaryForMetaDescription: 10
 
 permalinks:
     post: /:year/:month/:title/
