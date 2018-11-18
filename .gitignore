@@ -3,3 +3,4 @@ old
 *.bak
 .hyde_deps
 .DS_Store
+.gitignore

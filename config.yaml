@@ -1,0 +1,35 @@
+baseURL: http://fspaolo.net/
+footnoteReturnLinkContents: ↩
+publishDir: docs
+theme: hugo-paper
+title: Fernando{Paolo}
+copyright: Fernando Paolo 
+latestPostsCount: 3        # not working
+summaryLength: 10          # not working
+
+params:
+    authorName: Fernando Paolo
+    description: Fernando's Awesome Hugo Site
+    gitHubUser: fspaolo
+    baseURL: http://fspaolo.net/
+
+permalinks:
+    post: /:year/:month/:title/
+
+menu:
+    main:
+    - name: My Work
+      identifier: work
+      url: /work/
+      weight: -130
+
+    - name: My Code
+      identifier: code
+      url: https://github.com/fspaolo
+      weight: -120
+
+    - name: To Reflect
+      identifier: reflect
+      url: /think/
+      weight: -110
+
