@@ -1,38 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fernando Paolo</title>
+    <title>Fernando S. Paolo</title>
     <link>http://fspaolo.net/</link>
-    <description>Recent content on Fernando Paolo</description>
+    <description>Recent content on Fernando S. Paolo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <copyright>Fernando Paolo</copyright>
     <lastBuildDate>Sat, 20 May 2017 12:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://fspaolo.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Internationalization of Amazonia</title>
-      <link>http://fspaolo.net/think/amazonia/</link>
+      <title>I&#39;m Fernando, a researcher @NASA Jet Propulsion Lab. I code, analyze data, and study the Earth’s climate.</title>
+      <link>http://fspaolo.net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://fspaolo.net/think/amazonia/</guid>
-      <description>During a recent discussion, in the United States, someone asked my opinion regarding the internationalization of the Amazon Region. The youngster asserted that he expected a response of a humanist and not of a Brazilian.
-This was the first time anyone had established the humanist viewpoint as the starting point for my response. In fact, as a Brazilian I would have responded simply against internationalization of the Amazon Region. Even if our governments have not given the attention that this treasure deserves, it is ours.</description>
-    </item>
-    
-    <item>
-      <title>Press / media</title>
-      <link>http://fspaolo.net/work/press/</link>
-      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
-      
-      <guid>http://fspaolo.net/work/press/</guid>
-      <description>(Many of the stories include exclusive interviews given)
-Outside comment on PNAS sea-level rise paper Neewsweek
-Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals
-Our Nature Geo. ENSO/ice-shelf paper in the news  Video interview for Carbon Brief Video for the press release TV appearance on CBC News  BBC News
-El Nino&amp;rsquo;s long reach to Antarctic ice
-Carbon Brief</description>
+      <guid>http://fspaolo.net/</guid>
+      <description>Climate change is happening here, is happening now</description>
     </item>
     
     <item>
@@ -43,6 +28,20 @@ Carbon Brief</description>
       <guid>http://fspaolo.net/work/research/</guid>
       <description>Climate Variability and Ice-shelf Change Investigating how the Antarctic ice shelves respond to climate variability such as El Niño/Southern Oscillation.
 Satellite observations over the past two decades have revealed increasing loss of grounded ice in West Antarctica, associated with floating ice shelves that have been thinning. Thinning reduces an ice shelf’s ability to restrain grounded-ice discharge, yet our understanding of the climate processes that drive mass changes is limited. Here, we use ice-shelf height data from four satellite altimeter missions (1994–2017) to show a direct link between ice-shelf height variability in the Antarctic Pacific sector and changes in regional atmospheric circulation driven by the El Niño/Southern Oscillation.</description>
+    </item>
+    
+    <item>
+      <title>Media coverage</title>
+      <link>http://fspaolo.net/work/media/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://fspaolo.net/work/media/</guid>
+      <description>(Many of the stories include exclusive interviews given)
+Outside comment on PNAS sea-level rise paper Neewsweek
+Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals
+Our Nature Geo. ENSO/ice-shelf paper in the news  Video interview for Carbon Brief Video for the press release TV appearance on CBC News  BBC News
+El Nino&amp;rsquo;s long reach to Antarctic ice
+Carbon Brief</description>
     </item>
     
     <item>
@@ -112,6 +111,16 @@ PAOLO F.S, L. Padman, H.</description>
       
       <guid>http://fspaolo.net/think/states/</guid>
       <description>Traditional indicators of noncompetitive performance still apply: corruption (the most seductive activity humans can consummate while clothed); the absence of sound, equitably enforced laws; civil strife; or government attempts to overmanage a national economy. As change has internationalized and accelerated, however, new predictive tools have emerged. They are as simple as they are fundamental, and they are rooted in culture. The greater the degree to which a state &amp;mdash; or an entire civilization &amp;mdash; succumbs to these &amp;ldquo;seven deadly sins&amp;rdquo; of collective behavior, the more likely that entity is to fail to progress or even to maintain its position in the struggle for a share of the world&amp;rsquo;s wealth and power.</description>
+    </item>
+    
+    <item>
+      <title>The Internationalization of Amazonia</title>
+      <link>http://fspaolo.net/think/amazonia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fspaolo.net/think/amazonia/</guid>
+      <description>During a recent discussion, in the United States, someone asked my opinion regarding the internationalization of the Amazon Region. The youngster asserted that he expected a response of a humanist and not of a Brazilian.
+This was the first time anyone had established the humanist viewpoint as the starting point for my response. In fact, as a Brazilian I would have responded simply against internationalization of the Amazon Region. Even if our governments have not given the attention that this treasure deserves, it is ours.</description>
     </item>
     
     <item>
@@ -214,6 +223,16 @@ Then they came for the Jews, and I did not speak out—
 Because I was not a Jew.
 Then they came for me—
 and there was no one left to speak for me.</description>
+    </item>
+    
+    <item>
+      <title>Who&#39;s Fernando?</title>
+      <link>http://fspaolo.net/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fspaolo.net/about/about/</guid>
+      <description>I&amp;rsquo;m Fernando Paolo, a postdoctoral scholar @ NASA Jet Propulsion Laboratory, Caltech. I develop algorithms for remote-sensing applications and large-scale data analysis, to study the Earth’s changing climate&amp;hellip;
+ Short bio I first became interested in polar research during my undergraduate years while participating in an expedition to Antarctica for over a month. Seeking a multidisciplinary Earth Science education I studied Oceanography at the University of Sao Paulo, Brazil, where I had the opportunity to participate in several scientific cruises in the South Atlantic Ocean.</description>
     </item>
     
   </channel>

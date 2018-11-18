@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>To reflect on Fernando Paolo</title>
+    <title>Thinks on Fernando S. Paolo</title>
     <link>http://fspaolo.net/think/</link>
-    <description>Recent content in To reflect on Fernando Paolo</description>
+    <description>Recent content in Thinks on Fernando S. Paolo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <copyright>Fernando Paolo</copyright>
     
 	<atom:link href="http://fspaolo.net/think/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Internationalization of Amazonia</title>
-      <link>http://fspaolo.net/think/amazonia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://fspaolo.net/think/amazonia/</guid>
-      <description>During a recent discussion, in the United States, someone asked my opinion regarding the internationalization of the Amazon Region. The youngster asserted that he expected a response of a humanist and not of a Brazilian.
-This was the first time anyone had established the humanist viewpoint as the starting point for my response. In fact, as a Brazilian I would have responded simply against internationalization of the Amazon Region. Even if our governments have not given the attention that this treasure deserves, it is ours.</description>
-    </item>
     
     <item>
       <title>Consumerism and life time</title>
@@ -58,6 +48,16 @@ This was the first time anyone had established the humanist viewpoint as the sta
       
       <guid>http://fspaolo.net/think/states/</guid>
       <description>Traditional indicators of noncompetitive performance still apply: corruption (the most seductive activity humans can consummate while clothed); the absence of sound, equitably enforced laws; civil strife; or government attempts to overmanage a national economy. As change has internationalized and accelerated, however, new predictive tools have emerged. They are as simple as they are fundamental, and they are rooted in culture. The greater the degree to which a state &amp;mdash; or an entire civilization &amp;mdash; succumbs to these &amp;ldquo;seven deadly sins&amp;rdquo; of collective behavior, the more likely that entity is to fail to progress or even to maintain its position in the struggle for a share of the world&amp;rsquo;s wealth and power.</description>
+    </item>
+    
+    <item>
+      <title>The Internationalization of Amazonia</title>
+      <link>http://fspaolo.net/think/amazonia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fspaolo.net/think/amazonia/</guid>
+      <description>During a recent discussion, in the United States, someone asked my opinion regarding the internationalization of the Amazon Region. The youngster asserted that he expected a response of a humanist and not of a Brazilian.
+This was the first time anyone had established the humanist viewpoint as the starting point for my response. In fact, as a Brazilian I would have responded simply against internationalization of the Amazon Region. Even if our governments have not given the attention that this treasure deserves, it is ours.</description>
     </item>
     
     <item>

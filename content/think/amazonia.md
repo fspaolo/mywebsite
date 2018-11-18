@@ -1,6 +1,5 @@
 ---
 title: The Internationalization of Amazonia
-weight: -50
 ---
 
 > During a recent discussion, in the United States, someone asked my opinion regarding the internationalization of the Amazon Region. The youngster asserted that he expected a response of a humanist and not of a Brazilian.
