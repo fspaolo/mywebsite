@@ -15,5 +15,5 @@ title: M.S. Thesis
 
 Publication from my M.S. Thesis:
 
-**Paolo F.S.**, E.C. Molina, Integrated marine gravity field along the Brazilian coast from altimeter-derived sea-surface gradient and shipborne gravity, *Journal of Geodynamics*, vol.50 (2010). [[DOI]](http://dx.doi.org/10.1016/j.jog.2010.04.003)
+**Paolo F.S.**, E.C. Molina, Integrated marine gravity field along the Brazilian coast from altimeter-derived sea-surface gradient and shipborne gravity, *Journal of Geodynamics*, vol.50 (2010). [[doi]](http://dx.doi.org/10.1016/j.jog.2010.04.003)
 
