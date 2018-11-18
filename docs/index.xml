@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fernando S. Paolo</title>
+    <title>I&#39;m Fernando, a researcher @NASA Jet Propulsion Lab. I code, analyze data, and study the Earth’s climate. on Fernando S. Paolo</title>
     <link>http://fspaolo.net/</link>
-    <description>Recent content on Fernando S. Paolo</description>
+    <description>Recent content in I&#39;m Fernando, a researcher @NASA Jet Propulsion Lab. I code, analyze data, and study the Earth’s climate. on Fernando S. Paolo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 10 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://fspaolo.net/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>I&#39;m Fernando, a researcher @NASA Jet Propulsion Lab. I code, analyze data, and study the Earth’s climate.</title>
-      <link>http://fspaolo.net/</link>
-      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://fspaolo.net/</guid>
-      <description>Climate change is happening here, is happening now</description>
-    </item>
     
     <item>
       <title>Media coverage</title>
