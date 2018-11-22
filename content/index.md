@@ -1,7 +1,7 @@
 ---
 title: I'm Fernando, a researcher @NASA Jet Propulsion Lab. I code, analyze data, and study the Earth’s climate.
 weight: -100
-autor: UN
+author: UN
 date: 2004-09-23
 ---
 
