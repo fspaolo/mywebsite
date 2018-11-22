@@ -4,12 +4,17 @@
   
   <url>
     <loc>http://fspaolo.net/</loc>
-    <lastmod>2018-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2004-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://fspaolo.net/work/media/</loc>
     <lastmod>2018-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://fspaolo.net/work/projs/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -48,7 +53,7 @@
   
   <url>
     <loc>http://fspaolo.net/</loc>
-    <lastmod>2018-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2004-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
