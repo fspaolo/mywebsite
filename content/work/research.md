@@ -1,6 +1,6 @@
 ---
 title: Research
-author: Fernando Paolo
+author: FSP
 date: 2017-05-20
 summary: 10
 ---
