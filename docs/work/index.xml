@@ -6,10 +6,21 @@
     <description>Recent content in Works on Fernando S. Paolo</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Fernando Paolo</copyright>
-    <lastBuildDate>Sat, 17 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://fspaolo.net/work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>http://fspaolo.net/work/projs/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://fspaolo.net/work/projs/</guid>
+      <description>UNDER CONSTRUCTION! MEaSUREs ITS-LIVE Inter-mission Time Series of Land Ice Velocity and Elevation (ITS-LIVE)
+We will accelerate ice sheet and glacier change research by producing a globally-comprehensive and temporally dense multi-sensor record of land ice and ice shelf velocity and elevation, updated in near-real time as new data become available. Such a record is not presently available to the community, slowing scientific discovery from these information-rich data streams.
+PI: Gardner (JPL), Co-I&amp;rsquo;s: Agram, Hua, Linick, Nilsson, Paolo, Walker (JPL), Scambos (U.</description>
+    </item>
     
     <item>
       <title>Media coverage</title>
@@ -20,30 +31,6 @@
       <description>Many of the stories include exclusive interviews given
  Outside comment on PNAS sea-level rise paper Neewsweek &amp;ndash; Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals
 Our Nature Geoscience ENSO/ice-shelf paper in the news  Video interview for Carbon Brief Video for the press release TV appearance on CBC News  BBC News &amp;ndash; El Nino&amp;rsquo;s long reach to Antarctic ice</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://fspaolo.net/work/projs/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://fspaolo.net/work/projs/</guid>
-      <description>NASA ICESat-2 Mission NASA&amp;rsquo;s Ice, Cloud and Elevation Satellite 2 Mission.
-Abstract.
-Link http://#
-Figure: ???
-NASA ITS LIVE Subheading.
-Abstract.
-Link http://#
-Figure: ???
-NASA-JPL ECCO Subheading.
-Abstract.
-Link http://#
-Figure: ???
-NOAA CPT Subheading.
-Abstract.
-Link http://#
-Figure: ???</description>
     </item>
     
     <item>
