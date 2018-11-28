@@ -22,7 +22,7 @@ I started this site as a place to keep information, source code and documentatio
 
 ## Why a minimal design?
 
-In a visually striking and polluted world, a minimalistic layout recovers the beauty of simplicity and sophistication. The aesthetics of modern design is clean and focuses on the contents' essential, reducing the (usually complex) subject to its fundamental features, and nothing more...
+In a visually striking and polluted world, a minimalistic layout recovers the beauty of simplicity and sophistication. The aesthetics of modern design is clean and focuses on the contents' essential, reducing the subject to its fundamental features, and nothing more...
 
 > In anything at all, perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away, when a body has been stripped down to its nakedness.  
 --- Antoine de Saint Exupéry  
