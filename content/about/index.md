@@ -33,10 +33,10 @@ In a visually striking and polluted world, a minimalistic layout recovers the be
 
 ## Resources
 
-[CV](https://github.com/fspaolo/cv/blob/master/paolo_cv.pdf) · 
-[Profile](https://science.jpl.nasa.gov/people/Serrano%20Paolo) ·
-[LinkedIn](//linkedin.com/in/fspaolo) ·
-[GitHub](https://github.com/fspaolo/) · 
-[Gists](https://gist.github.com/fspaolo/) ·
+[CV](https://github.com/fspaolo/cv/blob/master/paolo_cv.pdf) &middot; 
+[Profile](https://science.jpl.nasa.gov/people/Serrano%20Paolo) &middot;
+[Linkedin](//linkedin.com/in/fspaolo) &middot;
+[GitHub](https://github.com/fspaolo/) &middot;
+[Gists](https://gist.github.com/fspaolo/) &middot;
 [Contact](mailto:fspaolo@gmail.com)
 

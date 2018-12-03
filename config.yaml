@@ -3,13 +3,13 @@ publishDir: docs
 theme: hugo-paper
 title: Fernando S. Paolo
 copyright: Fernando Paolo 
-summarylength: 30
+summaryLength: 10
 
 params:
     authorName: Fernando Paolo
-    description: Fernando's Awesome Hugo Site
+    description: Fernando's awesome website 
     gitHubUser: fspaolo
-    summarylength: 30
+    summaryLength: 10
 
 permalinks:
     post: /:year/:month/:title/

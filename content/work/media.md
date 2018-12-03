@@ -1,6 +1,6 @@
 ---
 title: Media coverage
-author: Fernando Paolo
+author: updated
 date: 2018-11-17
 ---
 
@@ -14,7 +14,7 @@ date: 2018-11-17
 
 ## Our [*Nature Geoscience*](https://www.nature.com/articles/s41561-017-0033-0) ENSO/ice-shelf paper in the news  
 
-<img src="/img/natgeo_feb2018.png" alt="Nature Geoscience Cover" width="70%"/>
+![Image](/img/natgeo_feb2018.png)
 
 * [Video interview for Carbon Brief](https://www.youtube.com/watch?v=uYQA58FcJsI)
 * [Video for the press release](https://www.youtube.com/watch?v=FUXzQv7Qg_o)
@@ -59,7 +59,7 @@ date: 2018-11-17
 
 ## Featured on the cover of a science magazine for kids
 
-<img src="/img/chc268_2015.png" alt="CHC Cover" width="70%"/>
+![Image](/img/chc268_2015.png)
 
 [Ciencia Hoje [Today's Science]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0) -- Antartica: O que pode acontecer se o gelo derreter? [Antarctica: What could happen if the ice melts?]
 
@@ -103,7 +103,7 @@ date: 2018-11-17
 
 ## Massive press coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) ice-shelves paper 
 
-<img src="/img/science_apr2015.gif" alt="Science Cover" width="70%"/>
+![Image](/img/science_apr2015.gif)
 
 [Science/AAAS News](http://news.sciencemag.org/climate/2015/03/antarctica-rapidly-losing-its-edge) -- Antarctica is rapidly losing its edge
 

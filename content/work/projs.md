@@ -1,6 +1,6 @@
 ---
 title: Projects 
-author: Updated
+author: updated
 date: 2018-11-23
 ---
 
