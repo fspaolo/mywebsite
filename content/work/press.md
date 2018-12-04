@@ -1,5 +1,5 @@
 ---
-title: Media coverage
+title: Press 
 author: updated
 date: 2018-11-17
 ---
