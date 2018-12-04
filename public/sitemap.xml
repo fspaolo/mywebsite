@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2014-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/work/projs/</loc>
+    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/work/media/</loc>
+    <lastmod>2018-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/work/research/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/work/pubs/</loc>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/work/ms/</loc>
+    <lastmod>2017-05-18T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/work/phd/</loc>
+    <lastmod>2017-05-18T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/consumerism/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/efficiency/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/generations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/states/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/amazonia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/denial/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/simplicity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/societies/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/religion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/regrets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/reason/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/uncopyright/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2014-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/think/persecution/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/work/</loc>
+    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
