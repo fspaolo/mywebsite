@@ -16,17 +16,17 @@ permalinks:
 
 menu:
     main:
-    - name: My Work
+    - name: Work
       identifier: work
       url: /work/
       weight: -130
 
-    - name: My Code
+    - name: Code
       identifier: code
       url: https://github.com/fspaolo
       weight: -120
 
-    - name: To Reflect
+    - name: Think
       identifier: reflect
       url: /think/
       weight: -110

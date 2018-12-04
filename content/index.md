@@ -5,4 +5,4 @@ date: 2014-09-23
 weight: -100
 ---
 
-There’s one issue that will define the contours of this century more dramatically than any other, and that is the urgent and growing threat of a changing climate
+"There’s one issue that will define the contours of this century more dramatically than any other, and that is the urgent and growing threat of a changing climate"
