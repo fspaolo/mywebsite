@@ -1,5 +1,7 @@
 log
 old
+themes
+add
 *.bak
 .hyde_deps
 .DS_Store
