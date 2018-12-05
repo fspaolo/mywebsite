@@ -260,12 +260,12 @@ pre, code {
   line-height: 1;
 }
 .first-entry .post-title {
-  font-size: 55px;
+  font-size: 50px;
   transform: translateX(-3px);
   font-weight: 300;
   line-height: 1.2;
-  /*font-family: 'Zilla Slab';*/
-  color:#fefefe;
+  font-family: 'Zilla Slab';
+  color: #fefefe;
   padding-right: 10px;
 }
 @media (max-width: 767px) {
