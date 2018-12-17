@@ -17,9 +17,15 @@
       <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>http://fspaolo.net/work/projs/</guid>
-      <description>UNDER CONSTRUCTION! MEaSUREs ITS-LIVE Inter-mission Time Series of Land Ice Velocity and Elevation (ITS-LIVE)
-We will accelerate ice sheet and glacier change research by producing a globally-comprehensive and temporally dense multi-sensor record of land ice and ice shelf velocity and elevation, updated in near-real time as new data become available. Such a record is not presently available to the community, slowing scientific discovery from these information-rich data streams.
-PI: Gardner (JPL), Co-I&amp;rsquo;s: Agram, Hua, Linick, Nilsson, Paolo, Walker (JPL), Scambos (U.</description>
+      <description>PAGE UNDER CONSTRUCTION Altimetry Data Fusion A Greatly Improved 25-year Record of Ice Shelf Elevation at High Temporal and Spatial Resolution
+Satellites: ERS-1 + ERS-2 + Envisat + CryoSat-2 (+ ICESat + ICESat-2 coming)
+Time span: 1992-present (26+ years)
+Temporal resolution: 3 months
+Spatial resolution: 3-5 km
+Grid posting: 1 km
+Goal:: Invert for high-resolution ice-shelf melt time series
+Authors: Paolo, Nilsson, Gardner (JPL).
+MEaSUREs ITS_LIVE NASA MEaSUREs Inter-mission Time Series of Land Ice Velocity and Elevation (ITS_LIVE)</description>
     </item>
     
     <item>
