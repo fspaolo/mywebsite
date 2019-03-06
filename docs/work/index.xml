@@ -6,7 +6,7 @@
     <description>Recent content in Works on Fernando S. Paolo</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Fernando Paolo</copyright>
-    <lastBuildDate>Fri, 23 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://fspaolo.net/work/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,16 @@
     <item>
       <title>Projects</title>
       <link>http://fspaolo.net/work/projs/</link>
-      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://fspaolo.net/work/projs/</guid>
       <description>PAGE UNDER CONSTRUCTION Altimetry Data Fusion A Greatly Improved 25-year Record of Ice Shelf Elevation at High Temporal and Spatial Resolution
+Goal: Construct highest-resolution-to-date ice-shelf melt time series
 Satellites: ERS-1 + ERS-2 + Envisat + CryoSat-2 (+ ICESat + ICESat-2 coming)
 Time span: 1992-present (26+ years)
 Temporal resolution: 3 months
 Spatial resolution: 3-5 km
 Grid posting: 1 km
-Goal:: Invert for high-resolution ice-shelf melt time series
 Authors: Paolo, Nilsson, Gardner (JPL).
 MEaSUREs ITS_LIVE NASA MEaSUREs Inter-mission Time Series of Land Ice Velocity and Elevation (ITS_LIVE)</description>
     </item>
