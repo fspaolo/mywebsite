@@ -1,10 +1,15 @@
 ---
 title: Press 
 author: updated
-date: 2018-11-17
+date: 2019-05-08
 ---
 
 > Many of the stories include exclusive interviews given
+
+
+## Outside comment on [*Nature Geoscience*](https://doi.org/10.1038/s41561-019-0356-0) Ross Ice Shelf papper  
+
+[Eos/AGU](https://doi.org/10.1029/2019EO123031) -- Warm water is rapidly eroding Antarctica’s Ross Ice Shelf  
 
 
 ## Outside comment on [*PNAS*](http://www.pnas.org/content/early/2018/02/06/1717312115) sea-level rise paper
