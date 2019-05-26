@@ -21,6 +21,14 @@ I work primarily with observations (i.e. data). I am interested in the large-sca
 **Grid posting:** 1 km  
 **Authors:** Paolo, Nilsson, Gardner (JPL).
 
+## Ice-sheet mass change
+
+*Integration of nearly 30 years of disparate satellite altimetry observations of the Antarctic ice sheet, 1985-present*
+
+![Image](/img/ice_sheet_change.png)
+
+State-of-the-art surface elevation-change time series for the majority of the Antarctic Ice Sheet since 1985 to present, estimated from six satellite missions (Geosat, ERS-1, ERS-2, Envisat, ICESat and CryoSat-2). This allows us to study decadal and multi-decadal trends as well as short-term variability at fine spatial resolution; roviding an invaluable dataset for advancing ice-sheet data assimilation efforts into climate models and for disentangling the causal mechanisms responsible for ice-sheet mass change.
+
 
 ## MEaSUREs ITS_LIVE 
 
@@ -50,22 +58,25 @@ The ICESat-2 will measure the height of a changing Earth, one laser pulse at a t
 
 Our planet's frozen and icy areas, called the cryosphere, are a key focus of NASA's Earth science research. ICESat-2 will help scientists investigate why, and how much, our cryosphere is changing in a warming climate. The satellite will also measure heights across Earth's temperate and tropical regions, and take stock of the vegetation in forests worldwide.
 
+Read [more](https://icesat-2.gsfc.nasa.gov/)
+
 
 ## JPL ECCO 
 
-*Comming...*
+*Estimating the Circulation and Climate of the Ocean (ECCO)*
 
+![Image](/img/ecco.png)
 
-## NOAA CPT 
+The ECCO consortium is directed at making the best possible estimates of ocean circulation and its role in climate. Solutions are obtained by combining state-of-the-art ocean circulation models with nearly complete global ocean data sets in a physically and statistically consistent manner. Products are being utilized to understanding ocean variability, biological cycles, coastal physics, and geodesy, and are available for general applications.
 
-*Comming...*
+Read [more](https://ecco.jpl.nasa.gov//)
 
 
 ## Climate Variability and Ice-shelf Change 
 
 *Investigating how the Antarctic ice shelves respond to climate variability such as El Niño/Southern Oscillation.*
 
-![ENSO influence](/img/enso_influence.png)
+<img src="/img/enso_influence.png" width=10 />
 
 **Figure:** Relative influence of ENSO along the Antarctic Pacific margin. (a) Regional variation of the similarity index (size and color of squares) between ice-shelf height-anomaly records and the time-integrated Oceanic Niño Index (ONI). (b) 12-month running integral of ONI (that is, ENSO) lagged by ~6 months (top plot) and 12-month running means of ice-shelf height anomalies for the combined Amundsen (AMU) ice shelves and six individual ice shelves; the shaded area highlights the large height change resulting from the 1997–2001 El Niño-to-La Niña transition.
 
@@ -76,7 +87,7 @@ Check out our paper in [*Nature Geoscience*](https://www.nature.com/articles/s41
 
 *Multi-sensor analyses of Antarctic ice shelf response to climate variability*
 
-![Image](/img/image.png)
+![Image](/img/ice_shelf_cartoon.png)
 
 **Goal:** Develop a detailed history of Antarctic ice-shelf mass and stress changes on seasonal-to-interannual time scales and small spatial scales; improve our understanding of the environmental processes that cause these changes; and assess whether proxies for variability of the ice-shelf mass budget can be obtained from coarse-grid global climate models (GCMs). Our main data sources for this study are: ICESat laser altimeter data (2003-2009); Operation IceBridge (OIB) airborne laser altimeter and radio echo sounding (RES) ice thickness data (2009-present); CryoSat-2 radar altimeter (RA) data (2010-present); and European Space Agency (ESA) RA satellites ERS-1, ERS-2 and Envisat (1992-2012). **Authors:** PI: Padman (ESR), Co-I: Fricker (Scripps). **Budget:** $637k, 2013–2016; $385k, 2017–2019.  
 
