@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Works on Fernando S. Paolo</title>
+    <title>Work - Fernando Paolo</title>
     <link>http://fspaolo.net/work/</link>
-    <description>Recent content in Works on Fernando S. Paolo</description>
+    <description>Recent content in Work on Fernando Paolo</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <copyright>Fernando Paolo</copyright>
     <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://fspaolo.net/work/index.xml" rel="self" type="application/rss+xml" />
-    
+        <atom:link href="http://fspaolo.net/work/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Press</title>
@@ -17,67 +16,35 @@
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
       
       <guid>http://fspaolo.net/work/press/</guid>
-      <description>Many of the stories include exclusive interviews given
- Outside comment on Nature Geoscience Ross Ice Shelf papper Eos/AGU &amp;ndash; Warm water is rapidly eroding Antarctica’s Ross Ice Shelf
-Outside comment on PNAS sea-level rise paper Neewsweek &amp;ndash; Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals
-Our Nature Geoscience ENSO/ice-shelf paper in the news  Video interview for Carbon Brief Video for the press release TV appearance on CBC News  BBC News &amp;ndash; El Nino&amp;rsquo;s long reach to Antarctic ice</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://fspaolo.net/work/projs/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://fspaolo.net/work/projs/</guid>
-      <description>PAGE UNDER CONSTRUCTION Altimetry Data Fusion A Greatly Improved 25-year Record of Ice Shelf Elevation at High Temporal and Spatial Resolution
-Goal: Construct highest-resolution-to-date ice-shelf melt time series
-Satellites: ERS-1 + ERS-2 + Envisat + CryoSat-2 (+ ICESat + ICESat-2 coming)
-Time span: 1992-present (26+ years)
-Temporal resolution: 3 months
-Spatial resolution: 3-5 km
-Grid posting: 1 km
-Authors: Paolo, Nilsson, Gardner (JPL).
-MEaSUREs ITS_LIVE NASA MEaSUREs Inter-mission Time Series of Land Ice Velocity and Elevation (ITS_LIVE)</description>
-    </item>
-    
-    <item>
+      <description>Media coverage of my work and interviews given to the press</description>
+    </item><item>
       <title>Research</title>
       <link>http://fspaolo.net/work/research/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://fspaolo.net/work/research/</guid>
-      <description>Climate Variability and Ice-shelf Change Investigating how the Antarctic ice shelves respond to climate variability such as El Niño/Southern Oscillation.
-Satellite observations over the past two decades have revealed increasing loss of grounded ice in West Antarctica, associated with floating ice shelves that have been thinning. Thinning reduces an ice shelf’s ability to restrain grounded-ice discharge, yet our understanding of the climate processes that drive mass changes is limited. Here, we use ice-shelf height data from four satellite altimeter missions (1994–2017) to show a direct link between ice-shelf height variability in the Antarctic Pacific sector and changes in regional atmospheric circulation driven by the El Niño/Southern Oscillation.</description>
-    </item>
-    
-    <item>
+      <description>My research interests and projects I collaborate(d) with</description>
+    </item><item>
       <title>Publications</title>
       <link>http://fspaolo.net/work/pubs/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://fspaolo.net/work/pubs/</guid>
-      <description>Journals Adusumilli S., H.A. Fricker, M.R. Siegfried, L. Padman, F.S. Paolo, S.R.M. Ligtenberg, Variable Basal Melt Rates of Antarctic Peninsula Ice Shelves, 1994–2016, Geophysical Research Letters (2018). [doi]
-Minchew B.M., G.H. Gudmundsson, A.S. Gardner, F.S. Paolo, H.A. Fricker, Modeling the dynamic response of outlet glaciers to observed ice-shelf thinning in the Bellingshausen Sea Sector, West Antarctica, Journal of Glaciology 64 (2018). [doi]
-Paolo F.S, L. Padman, H.A. Fricker, S. Adusumilli, S.</description>
-    </item>
-    
-    <item>
+      <description>Peer-reviewed papers and general-audience articles</description>
+    </item><item>
       <title>M.S. Thesis</title>
       <link>http://fspaolo.net/work/ms/</link>
       <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
       
       <guid>http://fspaolo.net/work/ms/</guid>
-      <description>Satellite altimetry and shipborne gravimetry on the integrated representation of the gravity field along the Brazilian coast Abstract. The integration of satellite altimetry data with shipborne gravity surveys has proven essential for the accurate determination of the gravity field over the ocean. This approach has been used extensively due to the high density and availability of data derived from space-borne sensors. Currently, an open problem is the representation of the gravity field elements with high resolution along coastal regions, where the altimeter measurement suffers from degradation due to increased variability in sea-surface height and the presence of the coastline.</description>
-    </item>
-    
-    <item>
+      <description>Satellite altimetry and shipborne gravimetry on the integrated representation of the gravity field along the Brazilian coast</description>
+    </item><item>
       <title>Ph.D. Dissertation</title>
       <link>http://fspaolo.net/work/phd/</link>
       <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
       
       <guid>http://fspaolo.net/work/phd/</guid>
-      <description>Interannual and decadal variations of Antarctic ice shelves using multi-mission satellite radar altimetry, and links with oceanic and atmospheric forcings Abstract. Antarctica&amp;rsquo;s ice shelves, the floating extensions of the ice sheet, exert an important dynamic constraint on the flow of ice from the grounded ice sheet to the ocean, and hence on changes in global sea level. Thinning of an ice shelf reduces its ability to restrain the ice discharge from the grounded ice-sheet interior.</description>
+      <description>Interannual and decadal variations of Antarctic ice shelves using multi-mission satellite radar altimetry, and links with oceanic and atmospheric forcings</description>
     </item>
-    
   </channel>
 </rss>

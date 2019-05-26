@@ -1,23 +1,25 @@
 ---
 title: Press 
-author: updated
+description: Media coverage of my work and interviews given to the press
 date: 2019-05-08
+displayInMenu: false
+displayInList: true
 ---
 
-> Many of the stories include exclusive interviews given
+*Many of the stories include exclusive interviews given*
 
 
-## Outside comment on [*Nature Geoscience*](https://doi.org/10.1038/s41561-019-0356-0) Ross Ice Shelf papper  
+## Outside comment on [*Nature Geoscience*](https://doi.org/10.1038/s41561-019-0356-0) papper  
 
-[Eos/AGU](https://doi.org/10.1029/2019EO123031) -- Warm water is rapidly eroding Antarctica’s Ross Ice Shelf  
+[EOS/AGU](https://doi.org/10.1029/2019EO123031) -- Warm water is rapidly eroding Antarctica’s Ross Ice Shelf  
 
 
-## Outside comment on [*PNAS*](http://www.pnas.org/content/early/2018/02/06/1717312115) sea-level rise paper
+## Outside comment on [*PNAS*](http://www.pnas.org/content/early/2018/02/06/1717312115) paper
 
 [Neewsweek](http://www.newsweek.com/sea-level-rise-has-rapidly-accelerated-1992-melting-ice-and-its-not-803326) -- Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals   
 
 
-## Our [*Nature Geoscience*](https://www.nature.com/articles/s41561-017-0033-0) ENSO/ice-shelf paper in the news  
+## Our [*Nature Geoscience*](https://www.nature.com/articles/s41561-017-0033-0) paper in the news  
 
 ![Image](/img/natgeo_feb2018.png)
 
@@ -52,7 +54,7 @@ date: 2019-05-08
 [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2018/02/15/el-nino-e-o-derretimento-silencioso-da-antartida/?cat=notas) -- El Niño e o derretimento silencioso da Antártida [El Niño and the silent melting of Antarctica] - [[pdf](https://www.dropbox.com/s/fa126h3fjma2c2z/012-017_notas_264.pdf?dl=0)]
 
 
-## Outside comment on [*Science Advances*](http://advances.sciencemag.org/content/3/11/e1701681) Totten ice-shelf paper
+## Outside comment on [*Science Advances*](http://advances.sciencemag.org/content/3/11/e1701681) paper
 
 [ScienceNews](https://www.sciencenews.org/article/wind-may-be-driving-melting-east-antarctica-totten-glacier) -- Wind may be driving the melting of East Antarctica’s largest glacier
 
@@ -75,7 +77,7 @@ date: 2019-05-08
 * [Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
 
 
-## Our [*The Cryosphere*](http://www.the-cryosphere.net/9/1005/2015/tc-9-1005-2015.html) Larsen-C paper in the news 
+## Our [*The Cryosphere*](http://www.the-cryosphere.net/9/1005/2015/tc-9-1005-2015.html) paper in the news 
 
 [The Washington Post](http://www.washingtonpost.com/news/energy-environment/wp/2015/05/12/this-ice-shelf-is-nearly-the-size-of-scotland-and-scientists-are-worried-about-its-stability/?tid=sm_fb) -- This ice shelf is nearly the size of Scotland - and it could be at 'imminent risk'
 
@@ -106,7 +108,7 @@ date: 2019-05-08
 [Scientific American](http://www.scientificamerican.com/article/massive-antarctic-ice-shelf-faces-imminent-risk-of-collapse/) -- Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse
 
 
-## Massive press coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) ice-shelves paper 
+## Massive press coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) paper 
 
 ![Image](/img/science_apr2015.gif)
 

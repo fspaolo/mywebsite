@@ -1,5 +1,8 @@
 ---
 title: The zen of Python
+displayInMenu: false
+displayInList: true
+dropCap: false
 ---
 
 Long time Pythoneer Tim Peters succinctly channels the [BDFL](https://docs.python.org/3.3/glossary.html#term-bdfl)'s guiding principles for Python's design into 20 aphorisms, only 19 of which have been written down.

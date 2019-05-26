@@ -1,0 +1,19 @@
+baseURL = "http://fspaolo.net/"
+publishDir = "docs"
+languageCode = "en"
+title = "Fernando Paolo"
+theme = "aether"
+copyright = "Fernando Paolo"
+
+[params]
+brand = "> cd /fernando/paolo"
+description = "Fernando's personal website"
+homeimg = "https://themes.gohugo.io/theme/aether/img/grey-cloud.jpg"
+bgimg = "https://themes.gohugo.io/theme/aether/img/ignasi_pattern_s.png"
+gitHubUser = "fspaolo"
+
+[menu]
+[[menu.main]]
+name = "Code" 
+identifier = "code"
+url = "https://github.com/fspaolo"

@@ -1,5 +1,6 @@
 ---
 title: Publications
+description: "Peer-reviewed papers and general-audience articles"
 date: 2017-05-19
 ---
 
