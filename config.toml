@@ -6,7 +6,7 @@ theme = "aether"
 copyright = "Fernando Paolo"
 
 [params]
-brand = "> cd /fernando/paolo"
+brand = "@fspaolo"
 description = "Fernando's personal website"
 homeimg = "https://themes.gohugo.io/theme/aether/img/grey-cloud.jpg"
 bgimg = "https://themes.gohugo.io/theme/aether/img/ignasi_pattern_s.png"
