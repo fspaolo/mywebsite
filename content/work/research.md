@@ -1,6 +1,6 @@
 ---
 title: Research
-description: My research interests and projects I collaborate(d) with 
+description: My research work and the projects I collaborate(d) with 
 date: 2017-05-20
 ---
 
@@ -13,13 +13,8 @@ I work primarily with observations (i.e. data). I am interested in the large-sca
 
 ![Image](/img/Paolo_etal_AGU18.png)
 
-**Goal:** Construct highest-resolution-to-date ice-shelf melt time series  
-**Satellites:** ERS-1 + ERS-2 + Envisat + CryoSat-2 (+ ICESat + ICESat-2 coming)  
-**Time span:** 1992-present (26+ years)  
-**Temporal resolution:** 3 months  
-**Spatial resolution:** 3-5 km  
-**Grid posting:** 1 km  
-**Authors:** Paolo, Nilsson, Gardner (JPL).
+Constructing ice-shelf melt-rate time series  (meltwater production) at unprecedented spatiotemporal resolution. **Satellites:** ERS-1 + ERS-2 + Envisat + CryoSat-2 + ICESat + ICESat-2. **Time span:** 1992-present (27+ years). **Temporal resolution:** 3 months. **Spatial resolution:** 3-5 km. **Grid posting:** 1 km. **Authors:** Paolo, Nilsson, Gardner (JPL).
+
 
 ## Ice-sheet mass change
 
@@ -27,7 +22,7 @@ I work primarily with observations (i.e. data). I am interested in the large-sca
 
 ![Image](/img/ice_sheet_change.png)
 
-State-of-the-art surface elevation-change time series for the majority of the Antarctic Ice Sheet since 1985 to present, estimated from six satellite missions (Geosat, ERS-1, ERS-2, Envisat, ICESat and CryoSat-2). This allows us to study decadal and multi-decadal trends as well as short-term variability at fine spatial resolution; roviding an invaluable dataset for advancing ice-sheet data assimilation efforts into climate models and for disentangling the causal mechanisms responsible for ice-sheet mass change.
+State-of-the-art surface elevation-change time series for the majority of the Antarctic Ice Sheet since 1985 to present, estimated from six satellite missions (Geosat, ERS-1, ERS-2, Envisat, ICESat and CryoSat-2). This allows us to study decadal and multi-decadal trends as well as short-term variability at fine spatial resolution; providing an invaluable dataset for advancing ice-sheet data assimilation efforts into climate models and for disentangling the causal mechanisms responsible for ice-sheet mass change.
 
 
 ## MEaSUREs ITS_LIVE 
@@ -36,7 +31,7 @@ State-of-the-art surface elevation-change time series for the majority of the An
 
 ![Image](/img/measures_itslive.png)
 
-**Goal:** We will accelerate ice sheet and glacier change research by producing a globally-comprehensive and temporally dense multi-sensor record of land ice and ice shelf velocity and elevation, updated in near-real time as new data become available. Such a record is not presently available to the community, slowing scientific discovery from these information-rich data streams. **Authors:** PI: Gardner (JPL), Co-I's: Agram, Hua, Linick, Nilsson, Paolo, Walker (JPL), Scambos (U.Colorado), Fahnestock, Meyer (U.Alaska). **Budget:** $4.2M, 2018-2023.  
+We will accelerate ice sheet and glacier change research by producing a globally-comprehensive and temporally dense multi-sensor record of land ice and ice shelf velocity and elevation, updated in near-real time as new data become available. Such a record is not presently available to the community, slowing scientific discovery from these information-rich data streams. **Authors:** PI: Gardner (JPL), Co-I's: Agram, Hua, Linick, Nilsson, Paolo, Walker (JPL), Scambos (U.Colorado), Fahnestock, Meyer (U.Alaska). **Budget:** $4.2M, 2018-2023.  
 
 
 ## CAP-Toolkit Package
@@ -45,7 +40,7 @@ State-of-the-art surface elevation-change time series for the majority of the An
 
 ![Image](/img/cap-toolkit.png)
 
-**Goal:** Set of Python tools for processing and integrating multi-satellite and airborne altimetry data. **Authors:** [Fernando Paolo](https://science.jpl.nasa.gov/people/Serrano%20Paolo/) (Lead developer), [Johan Nilsson](https://science.jpl.nasa.gov/people/Nilsson/) (Core developer), [Alex Gardner](https://science.jpl.nasa.gov/people/AGardner/) (Project PI).
+Set of Python tools for processing and integrating multi-satellite and airborne altimetry data. **Authors:** [F.S. Paolo](https://science.jpl.nasa.gov/people/Serrano%20Paolo/) (Lead developer), [J. Nilsson](https://science.jpl.nasa.gov/people/Nilsson/) (Core developer), [A. Gardner](https://science.jpl.nasa.gov/people/AGardner/) (Project PI).
 
 
 ## ICESat-2 Mission 
