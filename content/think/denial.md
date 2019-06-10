@@ -1,5 +1,6 @@
 ---
 title: The danger of science denial 
+description: ''
 displayInMenu: false
 displayInList: true
 dropCap: false

@@ -1,5 +1,6 @@
 ---
 title: The essence of simplicity
+description: ''
 displayInMenu: false 
 displayInList: true
 dropCap: false

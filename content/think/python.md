@@ -1,5 +1,6 @@
 ---
 title: The zen of Python
+description: ''
 displayInMenu: false
 displayInList: true
 dropCap: false

@@ -1,5 +1,6 @@
 ---
 title: The investment of societies
+description: ''
 displayInMenu: false 
 displayInList: true
 dropCap: false

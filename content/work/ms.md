@@ -2,8 +2,8 @@
 title: M.S. Thesis
 description: Satellite altimetry and shipborne gravimetry on the integrated representation of the gravity field along the Brazilian coast
 date: "2017-05-18T12:00:00+06:00"
-displayInMenu: false
-displayInList: true
+displayInMenu: true
+displayInList: false
 ---
 
 ## Satellite altimetry and shipborne gravimetry on the integrated representation of the gravity field along the Brazilian coast

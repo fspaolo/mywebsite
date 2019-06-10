@@ -1,5 +1,6 @@
 ---
 title: Consumerism and life time
+description: ''
 displayInMenu: false
 displayInList: true
 dropCap: false

@@ -1,5 +1,6 @@
 ---
 title: Message to future generations
+description: ''
 displayInMenu: false
 displayInList: true
 dropCap: false

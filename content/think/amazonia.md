@@ -1,5 +1,6 @@
 ---
 title: The Internationalization of Amazonia
+description: ''
 displayInMenu: false
 displayInList: true
 dropCap: false

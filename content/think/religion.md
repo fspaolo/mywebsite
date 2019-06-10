@@ -1,5 +1,6 @@
 ---
 title: The purpose of religion
+description: ''
 displayInMenu: false 
 displayInList: true
 dropCap: false

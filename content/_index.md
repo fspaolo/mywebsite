@@ -1,4 +1,4 @@
 ---
-title: ">Fernando"
-description: "climate science / data analysis / code development"
+title: "Fernando"
+description: "observe, question, analyze, question... "
 ---

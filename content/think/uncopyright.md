@@ -1,5 +1,6 @@
 ---
 title: The uncopyright mindset
+description: ''
 displayInMenu: false 
 displayInList: true
 dropCap: false

@@ -31,20 +31,6 @@
       
       <guid>http://fspaolo.net/work/pubs/</guid>
       <description>Peer-reviewed papers and general-audience articles</description>
-    </item><item>
-      <title>M.S. Thesis</title>
-      <link>http://fspaolo.net/work/ms/</link>
-      <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
-      
-      <guid>http://fspaolo.net/work/ms/</guid>
-      <description>Satellite altimetry and shipborne gravimetry on the integrated representation of the gravity field along the Brazilian coast</description>
-    </item><item>
-      <title>Ph.D. Dissertation</title>
-      <link>http://fspaolo.net/work/phd/</link>
-      <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
-      
-      <guid>http://fspaolo.net/work/phd/</guid>
-      <description>Interannual and decadal variations of Antarctic ice shelves using multi-mission satellite radar altimetry, and links with oceanic and atmospheric forcings</description>
     </item>
   </channel>
 </rss>

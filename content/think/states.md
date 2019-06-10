@@ -1,5 +1,6 @@
 ---
 title: Seven signs of non-competitive states
+description: ''
 displayInMenu: false 
 displayInList: true
 dropCap: false
