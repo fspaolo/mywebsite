@@ -1,4 +1,4 @@
 ---
-title: "@fspaolo"
-description: "climate scientist / data analyst / developer"
+title: ">Fernando"
+description: "climate science / data analysis / code development"
 ---
