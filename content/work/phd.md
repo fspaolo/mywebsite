@@ -1,5 +1,5 @@
 ---
-title: Ph.D. Dissertation 
+title: Ph.D. Thesis  
 description: Interannual and decadal variations of Antarctic ice shelves using multi-mission satellite radar altimetry, and links with oceanic and atmospheric forcings
 date: "2017-05-18T12:00:00+06:00"
 displayInMenu: true

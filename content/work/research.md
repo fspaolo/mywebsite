@@ -18,11 +18,11 @@ Constructing ice-shelf melt-rate time series  (meltwater production) at unpreced
 
 ## Ice-sheet mass change
 
-*Integration of nearly 30 years of disparate satellite altimetry observations of the Antarctic ice sheet, 1985-present*
+*Integration of 16+ years of satellite laser altimetry measurements over Antarctica and Greenland*
 
 ![Image](/img/ice_sheet_change.png)
 
-State-of-the-art surface elevation-change time series for the majority of the Antarctic Ice Sheet since 1985 to present, estimated from six satellite missions (Geosat, ERS-1, ERS-2, Envisat, ICESat and CryoSat-2). This allows us to study decadal and multi-decadal trends as well as short-term variability at fine spatial resolution; providing an invaluable dataset for advancing ice-sheet data assimilation efforts into climate models and for disentangling the causal mechanisms responsible for ice-sheet mass change.
+State-of-the-art ice-sheet surface elevation change for Antarctica and Greenland since 2003, estimated from two NASA satellite laser altimetry missions (ICESat, 2003-2009; and ICESat-2, 2018-present). These very precise laser measurements allows us to study decadal and multi-decadal trends at unprecedented spatial resolution; providing an invaluable dataset for advancing ice-sheet data assimilation efforts into climate models and for disentangling the causal mechanisms responsible for ice-sheet mass change and consequent sea-level rise.
 
 
 ## MEaSUREs ITS_LIVE 
