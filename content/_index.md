@@ -1,4 +1,4 @@
 ---
 title: "Fernando"
-description: "observe, question, analyze... question"
+description: "questioning everything all the time..."
 ---
