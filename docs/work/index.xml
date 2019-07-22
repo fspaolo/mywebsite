@@ -1,36 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Work - Fernando Paolo</title>
+    <title>Work on Fernando Paolo</title>
     <link>http://fspaolo.net/work/</link>
     <description>Recent content in Work on Fernando Paolo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Fernando Paolo</copyright>
-    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://fspaolo.net/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://fspaolo.net/work/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Press</title>
-      <link>http://fspaolo.net/work/press/</link>
-      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://fspaolo.net/work/press/</guid>
-      <description>Media coverage of my work and interviews given to the press</description>
-    </item><item>
       <title>Research</title>
       <link>http://fspaolo.net/work/research/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://fspaolo.net/work/research/</guid>
-      <description>My research work and the projects I collaborate(d) with</description>
-    </item><item>
+      <description>I work primarily with observations (i.e. data). I am interested in the large-scale monitoring of the Earth&amp;rsquo;s surface and climate. My past and current work include the mapping and change detection of Earth&amp;rsquo;s topography, bathymetry and gravity field, as observed by radars, lidars, imagery, sonars and gravimeters, among others. I develop algorithms for remote-sensing applications and use high-performance computing (clusters) to process large-scale satellite measurements. I am a strong advocate of open source and open data!</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>http://fspaolo.net/work/pubs/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://fspaolo.net/work/pubs/</guid>
-      <description>Peer-reviewed papers and general-audience articles</description>
+      <description>Journals Adusumilli S., H.A. Fricker, M.R. Siegfried, L. Padman, F.S. Paolo, S.R.M. Ligtenberg, Variable Basal Melt Rates of Antarctic Peninsula Ice Shelves, 1994–2016, Geophysical Research Letters (2018). [doi]
+Minchew B.M., G.H. Gudmundsson, A.S. Gardner, F.S. Paolo, H.A. Fricker, Modeling the dynamic response of outlet glaciers to observed ice-shelf thinning in the Bellingshausen Sea Sector, West Antarctica, Journal of Glaciology 64 (2018). [doi]
+Paolo F.S, L. Padman, H.A. Fricker, S. Adusumilli, S.</description>
     </item>
+    
+    <item>
+      <title>M.S. Thesis</title>
+      <link>http://fspaolo.net/work/ms/</link>
+      <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://fspaolo.net/work/ms/</guid>
+      <description>Satellite altimetry and shipborne gravimetry on the integrated representation of the gravity field along the Brazilian coast The integration of satellite altimetry data with shipborne gravity surveys has proven essential for the accurate determination of the gravity field over the ocean. This approach has been used extensively due to the high density and availability of data derived from space-borne sensors. Currently, an open problem is the representation of the gravity field elements with high resolution along coastal regions, where the altimeter measurement suffers from degradation due to increased variability in sea-surface height and the presence of the coastline.</description>
+    </item>
+    
+    <item>
+      <title>Ph.D. Thesis</title>
+      <link>http://fspaolo.net/work/phd/</link>
+      <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://fspaolo.net/work/phd/</guid>
+      <description>Interannual and decadal variations of Antarctic ice shelves using multi-mission satellite radar altimetry, and links with oceanic and atmospheric forcings Antarctica&amp;rsquo;s ice shelves, the floating extensions of the ice sheet, exert an important dynamic constraint on the flow of ice from the grounded ice sheet to the ocean, and hence on changes in global sea level. Thinning of an ice shelf reduces its ability to restrain the ice discharge from the grounded ice-sheet interior.</description>
+    </item>
+    
+    <item>
+      <title>Press</title>
+      <link>http://fspaolo.net/work/press/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fspaolo.net/work/press/</guid>
+      <description>Many of the stories include exclusive interviews given
+Outside comment Comment on Nature Geoscience papper in EOS/AGU &amp;ndash; Warm water is rapidly eroding Antarctica’s Ross Ice Shelf
+Outside comment Comment on PNAS paper in Neewsweek &amp;ndash; Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals
+Our paper in the news Media coverage of our Nature Geoscience paper about the impact of El Nino and La Nina on West Antarctic ice shelves</description>
+    </item>
+    
   </channel>
 </rss>

@@ -2,18 +2,35 @@ baseURL = "http://fspaolo.net/"
 publishDir = "docs"
 languageCode = "en"
 title = "Fernando Paolo"
-theme = "aether"
 copyright = "Fernando Paolo"
+theme = "sam"
 
 [params]
-brand = "@fspaolo"
-description = "Fernando's personal website"
-homeimg = "https://themes.gohugo.io/theme/aether/img/grey-cloud.jpg"
-bgimg = "https://themes.gohugo.io/theme/aether/img/ignasi_pattern_s.png"
-gitHubUser = "fspaolo"
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "back to main"
+    footerText           = ""
 
-[menu]
-[[menu.main]]
-name = "Code" 
-identifier = "code"
-url = "https://github.com/fspaolo"
+[[params.mainMenu]]
+    link = "/work/press"
+    text = "press"
+
+[[params.mainMenu]]
+    link = "/work/research"
+    text = "research"
+
+[[params.mainMenu]]
+    link = "/work/pubs"
+    text = "publications"
+
+[[params.mainMenu]]
+    link = "/think"
+    text = "reflection"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "who's fernando?"
+
+[imaging]
+    quality = 75

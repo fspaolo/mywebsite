@@ -1,0 +1,13 @@
+Install Hugo extended:
+
+    brew install hugo
+
+Download and Install Node.js and npm:
+
+    https://nodejs.org/en/
+
+Install npm dependencies:
+
+    cd  ~/mywebsite
+    npm install stopcss-cli
+    npm install autoprefixer
