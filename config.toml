@@ -13,12 +13,12 @@ theme = "sam"
     footerText           = ""
 
 [[params.mainMenu]]
-    link = "/work/press"
-    text = "press"
-
-[[params.mainMenu]]
     link = "/work/research"
     text = "research"
+
+[[params.mainMenu]]
+    link = "/work/press"
+    text = "press"
 
 [[params.mainMenu]]
     link = "/work/pubs"

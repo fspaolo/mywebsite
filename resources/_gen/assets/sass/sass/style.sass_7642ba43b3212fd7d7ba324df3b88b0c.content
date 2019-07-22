@@ -128,7 +128,7 @@ hr {
   line-height: 1.5em; }
 
 #title {
-  margin-top: 3rem;
+  margin-top: 1rem;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: 3.4rem;
   line-height: 4rem;
