@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>http://fspaolo.net/work/ms/</loc>
-    <lastmod>2017-05-18T12:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://fspaolo.net/work/phd/</loc>
     <lastmod>2017-05-18T12:00:00+06:00</lastmod>
   </url>
@@ -43,6 +38,10 @@
   
   <url>
     <loc>http://fspaolo.net/think/learning/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fspaolo.net/work/ms/</loc>
   </url>
   
   <url>

@@ -61,7 +61,7 @@ Articles:
 Comment on [*Science Advances*](http://advances.sciencemag.org/content/3/11/e1701681) paper in [ScienceNews](https://www.sciencenews.org/article/wind-may-be-driving-melting-east-antarctica-totten-glacier) -- Wind may be driving the melting of East Antarctica’s largest glacier
 
 
-## Article on Larsen C iceberg
+## Article on the Larsen C iceberg
 
 Article on the "giant" Larsen C iceberg: [Veja Magazine](http://veja.abril.com.br/ciencia/por-que-e-preciso-falar-sobre-o-iceberg-gigante-da-antartida/) -- Por que é preciso falar sobre o iceberg gigante da Antártida? [Why is it necesary to talk about the gian Antarctic iceberg?]
 
@@ -74,9 +74,9 @@ Article about Antarctic ice melting featured on the cover of a science magazine 
 ![Image](/img/chc268_2015.png)
 
 
-## Appearance in a commercial
+## Appearance in a TV commercial
 
-Brief appearance in a commercial for the [Scripps Instituttion of Oceanography](https://scripps.ucsd.edu/)
+Brief appearance in a commercial for the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/)
 
 * [Video (English version)](https://www.youtube.com/watch?v=jN-231KVKNY&index=25&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7)  
 * [Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
@@ -84,7 +84,7 @@ Brief appearance in a commercial for the [Scripps Instituttion of Oceanography](
 
 ## Our paper in the news 
 
-Media coverafge of our [*The Cryosphere*](http://www.the-cryosphere.net/9/1005/2015/tc-9-1005-2015.html) Larsen C paper
+Media coverage of our [*The Cryosphere*](http://www.the-cryosphere.net/9/1005/2015/tc-9-1005-2015.html) Larsen C paper
 
 - [The Washington Post](http://www.washingtonpost.com/news/energy-environment/wp/2015/05/12/this-ice-shelf-is-nearly-the-size-of-scotland-and-scientists-are-worried-about-its-stability/?tid=sm_fb) -- This ice shelf is nearly the size of Scotland - and it could be at 'imminent risk'
 
@@ -117,7 +117,7 @@ Media coverafge of our [*The Cryosphere*](http://www.the-cryosphere.net/9/1005/2
 
 ## Massive press coverage of our paper
 
-Media coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) Antarctic ice shelves' paper 
+Media coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) paper on accelerating Antarctic ice-shelf loss
 
 ![Image](/img/science_apr2015.gif)
 

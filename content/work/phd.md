@@ -15,7 +15,7 @@ Antarctica's ice shelves, the floating extensions of the ice sheet, exert an imp
 
 **Figure::** Annual-average anomalies in local oceanic, atmospheric and ice-shelf conditions for 1997–1998 (left) and 1999–2000 (right). From top to bottom: a, wind velocity vectors, and vertical transport of coastal waters (upwelling/downwelling) derived from the wind-stress curl; b, air temperature; c, precipitation rate; d, observed sea-ice concentration, and ice-shelf height anomaly (six months after peak ENSO activity).
 
-[TeX and PDF of my Dissertation](https://github.com/fspaolo/phd-thesis)
+[LaTeX and PDF of my Dissertation](https://github.com/fspaolo/phd-thesis)
 
 [Slides of my PhD Defense](https://www.slideshare.net/FernandoPaolo/phd-defense-52967892)
 
