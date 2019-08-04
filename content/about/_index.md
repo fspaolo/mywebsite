@@ -5,8 +5,8 @@ title: Who is Fernando?
 I'm [Fernando Paolo](https://science.jpl.nasa.gov/people/Serrano%20Paolo/), a postdoctoral scholar @ [NASA](https://www.jpl.nasa.gov/) Jet Propulsion Laboratory, Caltech. I [develop](https://github.com/fspaolo) algorithms for remote-sensing applications and large-scale [data analysis](https://www.sdsc.edu/News%20Items/PR20150420_antarctic_ice.html), to study the Earth’s changing [climate](http://science.sciencemag.org/content/early/2015/03/25/science.aaa0940)...
 
 
-- [Academic CV](https://github.com/fspaolo/cv/blob/master/paolo_cv.pdf)  
-- [One-page Resume](https://github.com/fspaolo/cv/blob/master/Resume-Paolo.pdf)  
+- [CV (7 pages)](https://github.com/fspaolo/cv/blob/master/paolo_cv.pdf)  
+- [Resume (1 page)](https://github.com/fspaolo/cv/blob/master/Resume-Paolo.pdf)  
 - [GitHub account](https://github.com/fspaolo/)  
 - [NASA Profile](https://science.jpl.nasa.gov/people/Serrano%20Paolo)  
 - [LinkedIn account](//linkedin.com/in/fspaolo)  
