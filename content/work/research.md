@@ -9,7 +9,7 @@ I work primarily with observations (i.e. data). I am interested in the large-sca
 
 ## Time-varying melt rates from Antarctica 
 
-*A Greatly Improved 25-year Record of Ice Shelf Elevation at High Temporal and Spatial Resolution*
+*A Greatly Improved 25-year Record of Ice Shelf Elevation at High Temporal and Spatial Resolution.*
 
 ![Image](/img/Paolo_etal_AGU18.png)
 
@@ -18,7 +18,7 @@ Constructing ice-shelf melt-rate time series  (meltwater production) at unpreced
 
 ## Ice-sheet mass change
 
-*Integration of 16+ years of satellite laser altimetry measurements over Antarctica and Greenland*
+*Integration of 16+ years of satellite laser altimetry measurements over Antarctica and Greenland.*
 
 ![Image](/img/ice_sheet_change.png)
 
@@ -27,7 +27,7 @@ State-of-the-art ice-sheet surface elevation change for Antarctica and Greenland
 
 ## MEaSUREs ITS_LIVE 
 
-*NASA MEaSUREs Inter-mission Time Series of Land Ice Velocity and Elevation (ITS_LIVE)*
+*NASA MEaSUREs Inter-mission Time Series of Land Ice Velocity and Elevation (ITS_LIVE).*
 
 ![Image](/img/measures_itslive.png)
 
@@ -36,7 +36,7 @@ We will accelerate ice sheet and glacier change research by producing a globally
 
 ## CAP-Toolkit Package
 
-*JPL Cryosphere Altimetry Processing Toolkit (a Python Library)*
+*JPL Cryosphere Altimetry Processing Toolkit (a Python Library).*
 
 ![Image](/img/cap-toolkit.png)
 
@@ -58,7 +58,7 @@ Read [more](https://icesat-2.gsfc.nasa.gov/)
 
 ## JPL ECCO 
 
-*Estimating the Circulation and Climate of the Ocean (ECCO)*
+*Estimating the Circulation and Climate of the Ocean (ECCO).*
 
 ![Image](/img/ecco.png)
 
@@ -80,7 +80,7 @@ Check out our paper in [*Nature Geoscience*](https://www.nature.com/articles/s41
 
 ## ICESat(-1) and CryoSat-2 studies
 
-*Multi-sensor analyses of Antarctic ice shelf response to climate variability*
+*Multi-sensor analyses of Antarctic ice shelf response to climate variability.*
 
 ![Image](/img/ice_shelf_cartoon.png)
 
