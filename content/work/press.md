@@ -5,6 +5,11 @@ title: Press
 *Many of the stories include exclusive interviews given*
 
 
+## On the role of natural climate variability
+
+[RealClimate](http://www.realclimate.org/index.php/archives/2019/08/background-on-the-role-of-natural-climate-variability-in-west-antarctic-ice-sheet-change/) -- "Finally, [Paolo et al. (2018)](https://www.nature.com/articles/s41561-017-0033-0) showed that the influence of El Niño events on West Antarctic glaciers could be measured by satellite observations: El Niño events tend to be correlated with both increased melting from below, and increased snowfall above, and the variations in the altitude of the ice sheet surface (varying by a few tens of cm) can be detected by satellite altimetry."
+
+
 ## Outside comment
 
 Comment on [*Nature Geoscience*](https://doi.org/10.1038/s41561-019-0356-0) papper in [EOS/AGU](https://doi.org/10.1029/2019EO123031) -- Warm water is rapidly eroding Antarctica’s Ross Ice Shelf  
