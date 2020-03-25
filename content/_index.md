@@ -1,4 +1,4 @@
 ---
 title: "Fernando"
-description: "questioning everything... all the time"
+description: "Fernando's personal website"
 ---
