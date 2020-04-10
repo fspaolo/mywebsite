@@ -7,7 +7,7 @@ date: 2017-05-20
 I work primarily with observations (i.e. data). I am interested in the large-scale monitoring of the Earth's surface and climate. My past and current work include the mapping and change detection of Earth's topography, bathymetry and gravity field, as observed by radars, lidars, imagery, sonars and gravimeters, among others. I develop algorithms for remote-sensing applications and use high-performance computing ([clusters](https://www.sdsc.edu/News%20Items/PR20150420_antarctic_ice.html)) to process large-scale satellite measurements. I am a strong advocate of open source and open data!
 
 
-## Time-varying melt rates from Antarctica 
+## Time-variable ice melt rate from space 
 
 *A Greatly Improved 25-year Record of Ice Shelf Elevation at High Temporal and Spatial Resolution.*
 
@@ -41,6 +41,8 @@ We will accelerate ice sheet and glacier change research by producing a globally
 ![Image](/img/cap-toolkit.png)
 
 Set of Python tools for processing and integrating multi-satellite and airborne altimetry data. **Authors:** [F.S. Paolo](https://science.jpl.nasa.gov/people/Serrano%20Paolo/) (Lead developer), [J. Nilsson](https://science.jpl.nasa.gov/people/Nilsson/) (Core developer), [A. Gardner](https://science.jpl.nasa.gov/people/AGardner/) (Project PI).
+
+See [project](https://github.com/fspaolo/captoolkit)
 
 
 ## ICESat-2 Mission 
@@ -78,7 +80,7 @@ Read [more](https://ecco.jpl.nasa.gov//)
 Check out our paper in [*Nature Geoscience*](https://www.nature.com/articles/s41561-017-0033-0)
 
 
-## ICESat(-1) and CryoSat-2 studies
+## ICESat and CryoSat-2 studies
 
 *Multi-sensor analyses of Antarctic ice shelf response to climate variability.*
 
@@ -120,7 +122,7 @@ Check out my [*PhD Dissertation*](http://fspaolo.net/work/phd/)
 Check out our paper in [*Science*](http://www.sciencemag.org/content/348/6232/327.abstract)
 
 
-## Marine Gravity Field from Satellite Altimetry
+## Marine gravity field from satellites and ships
 
 *Satellite altimeter-derived sea surface gradient and shipborne gravity for an integrated marine gravity field.*
 

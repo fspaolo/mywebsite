@@ -10,17 +10,17 @@ title: Press
 [RealClimate](http://www.realclimate.org/index.php/archives/2019/08/background-on-the-role-of-natural-climate-variability-in-west-antarctic-ice-sheet-change/) -- "Finally, [Paolo et al. (2018)](https://www.nature.com/articles/s41561-017-0033-0) showed that the influence of El Niño events on West Antarctic glaciers could be measured by satellite observations: El Niño events tend to be correlated with both increased melting from below, and increased snowfall above, and the variations in the altitude of the ice sheet surface (varying by a few tens of cm) can be detected by satellite altimetry."
 
 
-## Outside comment
+## Outside commentator
 
 Comment on [*Nature Geoscience*](https://doi.org/10.1038/s41561-019-0356-0) papper in [EOS/AGU](https://doi.org/10.1029/2019EO123031) -- Warm water is rapidly eroding Antarctica’s Ross Ice Shelf  
 
 
-## Outside comment
+## Outside commentator
 
 Comment on [*PNAS*](http://www.pnas.org/content/early/2018/02/06/1717312115) paper in [Neewsweek](http://www.newsweek.com/sea-level-rise-has-rapidly-accelerated-1992-melting-ice-and-its-not-803326) -- Sea levels are surging at faster and faster rates as Antarctica and Greenland melt, satellite data reveals   
 
 
-## Our paper in the news  
+## Our Nature Geo paper in the news  
 
 Media coverage of our [*Nature Geoscience*](https://www.nature.com/articles/s41561-017-0033-0) paper about the impact of El Nino and La Nina on West Antarctic ice shelves
 
@@ -61,17 +61,17 @@ Articles:
 - [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2018/02/15/el-nino-e-o-derretimento-silencioso-da-antartida/?cat=notas) -- El Niño e o derretimento silencioso da Antártida [El Niño and the silent melting of Antarctica] - [[pdf](https://www.dropbox.com/s/fa126h3fjma2c2z/012-017_notas_264.pdf?dl=0)]
 
 
-## Outside comment 
+## Outside commentator
 
 Comment on [*Science Advances*](http://advances.sciencemag.org/content/3/11/e1701681) paper in [ScienceNews](https://www.sciencenews.org/article/wind-may-be-driving-melting-east-antarctica-totten-glacier) -- Wind may be driving the melting of East Antarctica’s largest glacier
 
 
-## Article on the Larsen C iceberg
+## Our article on the Larsen C iceberg
 
 Article on the "giant" Larsen C iceberg: [Veja Magazine](http://veja.abril.com.br/ciencia/por-que-e-preciso-falar-sobre-o-iceberg-gigante-da-antartida/) -- Por que é preciso falar sobre o iceberg gigante da Antártida? [Why is it necesary to talk about the gian Antarctic iceberg?]
 
 
-## Featured on the cover
+## Our work featured on the cover
 
 Article about Antarctic ice melting featured on the cover of a science magazine for kids: [Ciencia Hoje [Today's Science]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0) -- Antartica: O que pode acontecer se o gelo derreter? [Antarctica: What could happen if the ice melts?]
 
@@ -87,7 +87,7 @@ Brief appearance in a commercial for the [Scripps Institution of Oceanography](h
 * [Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
 
 
-## Our paper in the news 
+## Our Cryosphere paper in the news 
 
 Media coverage of our [*The Cryosphere*](http://www.the-cryosphere.net/9/1005/2015/tc-9-1005-2015.html) Larsen C paper
 
@@ -120,7 +120,7 @@ Media coverage of our [*The Cryosphere*](http://www.the-cryosphere.net/9/1005/20
 - [Scientific American](http://www.scientificamerican.com/article/massive-antarctic-ice-shelf-faces-imminent-risk-of-collapse/) -- Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse
 
 
-## Massive press coverage of our paper
+## Massive press coverage of our Science paper
 
 Media coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) paper on accelerating Antarctic ice-shelf loss
 
