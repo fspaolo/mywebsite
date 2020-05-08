@@ -24,9 +24,9 @@ theme = "sam"
     link = "/work/pubs"
     text = "publications"
 
-# [[params.mainMenu]]
-#     link = "/think"
-#     text = "reflection"
+[[params.mainMenu]]
+    link = "/think"
+    text = "reflection"
 
 [[params.mainMenu]]
     link = "/about"
