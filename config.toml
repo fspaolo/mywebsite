@@ -30,7 +30,7 @@ theme = "sam"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who's fernando?"
+    text = "fernando?"
 
 [imaging]
     quality = 75
