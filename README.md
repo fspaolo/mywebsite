@@ -1,5 +1,11 @@
-## fspaolo.net
+# fspaolo.net
 
 Hello, this is my personal website.
 
-*Note to myself: copy CNAME file into docs*
+# Set URL
+
+    copy CNAME file into docs*
+
+# Edit style
+
+    themes/sam/assets/sass/
