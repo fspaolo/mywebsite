@@ -103,7 +103,7 @@ hr {
   padding-top: 3rem;
   padding-bottom: 2rem;
   text-align: center;
-  line-height: 1.75em; }
+  line-height: 2em; }
 
 .footer {
   width: 100%;
@@ -139,7 +139,7 @@ hr {
   line-height: 1.5em; }
 
 #title {
-  margin-top: 0;
+  margin-top: -10px;
   font-family: Monaco, bitstream vera sans mono, lucida console, Terminal, monospace;
   color: #b5e853;
   letter-spacing: -.03em;
