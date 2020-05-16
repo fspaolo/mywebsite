@@ -13,7 +13,6 @@ body {
   font-family: Monaco, bitstream vera sans mono, lucida console, Terminal, monospace;
   font-size: 18px;
   color: #eaeaea;
-  line-height: 2rem;
   text-shadow: none;
   display: flex;
   flex-direction: column;
@@ -23,10 +22,18 @@ body {
 h1, h2, h3 {
   text-align: left;
   font-family: Monaco, bitstream vera sans mono, lucida console, Terminal, monospace;
-  font-size: 2.25em;
+  letter-spacing: -.03em;
+  font-size: 2em;
   font-weight: 300;
   line-height: 3.5rem;
-  color: #b5e853; }
+  color: #b5e853;
+  text-transform: lowercase; }
+
+h1::before {
+  content: "# "; }
+
+h2::before {
+  content: "# "; }
 
 ul {
   list-style-type: none; }
@@ -37,7 +44,7 @@ p {
 a {
   color: #63c0f5;
   text-decoration: none;
-  border-bottom: 2px solid #63c0f5;
+  border-bottom: 1px solid #63c0f5;
   transition: 0.5s ease; }
   a:hover {
     color: #63c0f5;
@@ -54,11 +61,12 @@ button {
     box-shadow: 5px 5px #fff; }
 
 hr {
-  margin: 1rem 0;
+  margin: 1.5rem 0;
   background-color: transparent;
-  width: 50%;
+  width: 100%;
   border-style: solid;
-  border-width: 1px; }
+  border-width: 0.5px;
+  color: #b5e853; }
 
 .wrap {
   margin: 0 auto;
@@ -120,8 +128,7 @@ hr {
     #splash {
       width: 90%; } }
   #splash a {
-    color: #b5e853;
-    border-bottom: 2px solid #63c0f5; }
+    color: #b5e853; }
 
 .big-link {
   font-family: Monaco, bitstream vera sans mono, lucida console, Terminal, monospace;
@@ -131,11 +138,11 @@ hr {
   line-height: 1.5em; }
 
 #title {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   font-family: Monaco, bitstream vera sans mono, lucida console, Terminal, monospace;
   color: #b5e853;
   letter-spacing: -.03em;
-  font-size: 3.8rem;
+  font-size: 2.75rem;
   line-height: 4.25rem;
   margin-bottom: 2.5rem;
   text-align: left;
@@ -153,8 +160,9 @@ hr {
     text-align: left; }
   #content p {
     margin-bottom: 1.5em;
-    line-height: 1.7;
-    opacity: 1; }
+    line-height: 1.6;
+    opacity: 1;
+    -webkit-font-smoothing: antialiased; }
   #content .highlight {
     width: 100%; }
   #content pre {
