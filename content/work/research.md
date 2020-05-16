@@ -49,7 +49,7 @@ Checkout our paper in [Geophysical Research Letters](https://agupubs.onlinelibra
 
 ## CAP-Toolkit Package
 
-JPL Cryosphere Altimetry Processing Toolkit (a Python Library).
+JPL Cryosphere Altimetry Processing Toolkit (a Python package).
 
 Set of Python tools for processing and integrating multi-satellite and airborne altimetry data. **Authors:** [F. Paolo](https://science.jpl.nasa.gov/people/Serrano%20Paolo/) (Lead developer), [J. Nilsson](https://science.jpl.nasa.gov/people/Nilsson/) and [A. Gardner](https://science.jpl.nasa.gov/people/AGardner/).
 
