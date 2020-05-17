@@ -1,5 +1,8 @@
 # IS2-IS1 Science paper
 
+Eos
+https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters
+
 NASA Space Laser Missions Map 16 Years of Ice Sheet Loss  
 (NASA official story plus combined video Greenland + Antarctica)  
 https://www.nasa.gov/feature/goddard/2020/nasa-space-laser-missions-map-16-years-of-ice-sheet-loss  
