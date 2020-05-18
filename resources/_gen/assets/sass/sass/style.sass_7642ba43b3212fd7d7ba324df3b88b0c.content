@@ -113,7 +113,7 @@ hr {
   text-align: center;
   background-color: transparent;
   position: relative;
-  padding: 1rem;
+  padding: 0.5rem;
   font-family: Monaco, bitstream vera sans mono, lucida console, Terminal, monospace; }
   .footer a {
     border-bottom: none;
@@ -143,7 +143,7 @@ hr {
   letter-spacing: -.03em;
   font-size: 2.75rem;
   line-height: 4.25rem;
-  margin-bottom: 2.5rem;
+  margin-bottom: 2rem;
   text-align: left;
   text-transform: lowercase; }
 
@@ -159,7 +159,7 @@ hr {
     text-align: left; }
   #content p {
     margin-bottom: 1.5em;
-    line-height: 1.8;
+    line-height: 1.7;
     opacity: 1;
     font-weight: 100; }
   #content .highlight {
@@ -204,7 +204,7 @@ hr {
       text-align: center;
       border: 1px solid #63c0f5; }
   #content li {
-    line-height: 2;
+    line-height: 1.9;
     padding-left: 0.4rem; }
     #content li:last-child {
       margin-bottom: 1rem; }
