@@ -21,4 +21,4 @@ During their debates, the current U.S. presidential candidates have defended the
 > &nbsp;  
 > As a humanist I accept to defend the internationalization of the world. So as long as the world treats me as a Brazilian, I will fight so that our Amazon Region will be ours. Only ours.  
 > &nbsp;   
-> --- [Cristovam Buarque](http://en.wikipedia.org/wiki/Cristovam_Buarque)
+> --[Cristovam Buarque](http://en.wikipedia.org/wiki/Cristovam_Buarque)

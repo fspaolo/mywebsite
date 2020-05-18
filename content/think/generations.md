@@ -1,9 +1,5 @@
 ---
 title: Message to future generations
-description: ''
-displayInMenu: false
-displayInList: true
-dropCap: false
 ---
 
 — What would you think it's worth telling future generations about the life you've lived and the lessons you've learned from it?
@@ -12,4 +8,4 @@ dropCap: false
 > &nbsp;  
 > The moral thing I should wish to say... I should say **love is wise, hatred is foolish**. In this world which is getting more closely and closely interconnected we have to learn to tolerate each other, we have to learn to put up with the fact that some people say things that we don't like. We can only live together in that way, and if we are to live together and not die together, we must learn a kind of charity and a kind of tolerance which is absolutely vital to the continuation of human life on this planet.   
 > &nbsp;   
-> --- [Bertrand Russell](http://en.wikipedia.org/wiki/Bertrand_Russell)
+> --[Bertrand Russell](http://en.wikipedia.org/wiki/Bertrand_Russell)

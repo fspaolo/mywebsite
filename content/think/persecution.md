@@ -1,9 +1,5 @@
 ---
 title: Who cares about them
-description: ''
-displayInMenu: false
-displayInList: true
-dropCap: false
 ---
 
 > First they came for the Communists, and I did not speak out  

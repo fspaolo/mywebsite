@@ -1,9 +1,5 @@
 ---
-title: Making work better and more efficient
-description: ''
-displayInMenu: false
-displayInList: true
-dropCap: false
+title: Making work more efficient
 ---
 
 Large-format meetings waste people's time.
@@ -31,5 +27,5 @@ Don't waste time following silly rules.
 
 > In general, always pick common sense as your guide. If following a 'company rule' is obviously ridiculous in a particular situation, such that it would make for a great Dilbert cartoon, then the rule should change.  
 > &nbsp;   
-> --- [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
+> --[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
 

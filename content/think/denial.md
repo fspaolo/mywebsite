@@ -1,9 +1,5 @@
 ---
 title: Danger of science denial 
-description: ''
-displayInMenu: false
-displayInList: true
-dropCap: false
 ---
 
 > [...] in this, the 21st century, when it comes time to make decisions about science, it seems to me people have lost the ability to judge what is true and what is not. What is reliable and what is not reliable. What you should believe, and what should you not believe.  
@@ -22,4 +18,4 @@ dropCap: false
 > &nbsp;  
 > When you have an established scientific emergent truth, it is true whether or not you believe in it, and the sooner you understand that, the faster we can get on with the political conversations about how to solve the problems that face us.    
 > &nbsp;   
-> --- [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
+> --[Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)

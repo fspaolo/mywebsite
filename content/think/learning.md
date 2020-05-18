@@ -1,10 +1,21 @@
 ---
 title: I set my hearth on learning
-description: ''
-displayInMenu: false
-displayInList: true
-dropCap: false
 ---
+
+> At fifteen, I set my heart on learning.  
+> &nbsp;  
+> At thirty, I was firmly established.   
+> &nbsp;  
+> At forty, I had no more doubts.  
+> &nbsp;  
+> At fifty, I knew the will of heaven.  
+> &nbsp;  
+> At sixty, I was ready to listen to it.  
+> &nbsp;  
+> At seventy, I could follow my heart's desire without transgressing what was right.  
+> &nbsp;  
+
+(alternative translation)
 
 > When I was fifteen I set my heart on learning.  
 > &nbsp;  
@@ -19,19 +30,5 @@ dropCap: false
 > At seventy I follow the desires of my heart and do not overstep the bounds.  
 > &nbsp;  
 
-(alternative translation)
-
-> At fifteen, I set my heart on learning.  
-> &nbsp;  
-> At thirty, I was firmly established.   
-> &nbsp;  
-> At forty, I had no more doubts.  
-> &nbsp;  
-> At fifty, I knew the will of heaven.  
-> &nbsp;  
-> At sixty, I was ready to listen to it.  
-> &nbsp;  
-> At seventy, I could follow my heart's desire without transgressing what was right.  
-> &nbsp;  
-> --- [Confucius](https://en.wikipedia.org/wiki/Confucius)
+> --[Confucius](https://en.wikipedia.org/wiki/Confucius)
 
