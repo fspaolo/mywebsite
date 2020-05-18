@@ -1,9 +1,5 @@
 ---
 title: The zen of Python
-description: ''
-displayInMenu: false
-displayInList: true
-dropCap: false
 ---
 
 Long time Pythoneer Tim Peters succinctly channels the [BDFL](https://docs.python.org/3.3/glossary.html#term-bdfl)'s guiding principles for Python's design into 20 aphorisms, only 19 of which have been written down.
@@ -28,4 +24,4 @@ Long time Pythoneer Tim Peters succinctly channels the [BDFL](https://docs.pytho
 - If the implementation is easy to explain, it may be a good idea.
 - Namespaces are one honking great idea - let's do more of those!  
 
---- [Tim Peters](http://c2.com/cgi/wiki?TimPeters)
+--[Tim Peters](http://c2.com/cgi/wiki?TimPeters)

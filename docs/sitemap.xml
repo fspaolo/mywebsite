@@ -37,7 +37,15 @@
   </url>
   
   <url>
+    <loc>http://fspaolo.net/think/denial/</loc>
+  </url>
+  
+  <url>
     <loc>http://fspaolo.net/think/learning/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fspaolo.net/think/amazonia/</loc>
   </url>
   
   <url>
@@ -75,14 +83,6 @@
   <url>
     <loc>http://fspaolo.net/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://fspaolo.net/think/amazonia/</loc>
-  </url>
-  
-  <url>
-    <loc>http://fspaolo.net/think/denial/</loc>
   </url>
   
   <url>

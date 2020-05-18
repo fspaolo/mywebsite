@@ -1,5 +1,5 @@
 ---
-title: The Internationalization of Amazonia
+title: Internationalization of Amazonia
 description: ''
 displayInMenu: false
 displayInList: true

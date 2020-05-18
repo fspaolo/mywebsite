@@ -16,7 +16,7 @@ Checkout our paper in [Science](https://science.sciencemag.org/content/early/202
 ![Image](/img/greenland-2003-2019.png)
 
 
-## Ice elevation from space 
+## Hi-res ice elevation record
 
 A greatly improved 25-year record of ice shelf elevation at high temporal and spatial resolution.
 
@@ -71,7 +71,7 @@ Read [more](https://icesat-2.gsfc.nasa.gov/)
 ![Image](/img/icesat2.png)
 
 
-## JPL ECCO 
+## JPL ECCO project
 
 Estimating the Circulation and Climate of the Ocean (ECCO).
 
@@ -125,7 +125,7 @@ Checkout my [PhD Dissertation](http://fspaolo.net/work/phd/)
 ![Time Series Analysis](/img/radar-extinction-coef.png)
 
 
-## Ice shelf volume from space 
+## Ice shelf volume change
 
 Multi-mission satellite altimetry to investigate long-term trends and variability in Antarctic ice-shelf thickness.
 
@@ -136,9 +136,9 @@ Check out our paper in [Science](http://www.sciencemag.org/content/348/6232/327.
 ![Antarctic ice shelves](/img/ishelf_change.png)
 
 
-## Marine gravity from space 
+## Gravity from satellites & ships
 
-Satellite altimeter-derived sea surface gradient and shipborne gravity for an integrated marine gravity field.
+Satellite-derived sea surface gradients and shipborne gravimetry for an integrated marine gravity field.
 
 Figure: Integrated gravity models constructed using sea surface gradients (slopes), derived from satellite altimetry (Geosat and ERS-1), and marine gravity data (ships) along the Brazilian coast: (left) free-air gravity anomaly and (right) geoid height. Unlike spectral methods (deterministic approach), the least squares collocation (stochastic approach) presented a low content of high-frequency noise in the predicted gravity anomalies. 
 

@@ -1,5 +1,5 @@
 ---
-title: The danger of science denial 
+title: Danger of science denial 
 description: ''
 displayInMenu: false
 displayInList: true
