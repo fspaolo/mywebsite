@@ -1,9 +1,5 @@
 ---
-title: The uncopyright mindset
-description: ''
-displayInMenu: false 
-displayInList: true
-dropCap: false
+title: Uncopyright mindset
 ---
 
 > As some might know, I'm not a fan of copyright. In fact, I've [uncopyrighted](http://mnmlist.com/uncopyright/) this [blog](http://mnmlist.com/) and my other blog, [Zen Habits](http://zenhabits.net/).  
@@ -24,7 +20,7 @@ dropCap: false
 > &nbsp;   
 > It is from this place that the minimalist embraces uncopyright, and in doing so gives to the world and hopes that the world will be better for it, at least in a tiny measure.  
 > &nbsp;   
-> — [Leo Babauta](http://leobabauta.com/)
+> —-[Leo Babauta](http://leobabauta.com/)
 
 
 

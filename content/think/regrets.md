@@ -1,9 +1,5 @@
 ---
-title: The regrets of the dying 
-description: ''
-displayInMenu: false 
-displayInList: true
-dropCap: true
+title: Regrets of the dying 
 ---
 
 Bronnie Ware is an Australian nurse who spent several years working in palliative care, caring for patients in the last 12 weeks of their lives. She recorded their dying epiphanies in a [blog](http://www.bronnieware.com/regrets-of-the-dying/). "When questioned about any regrets they had or anything they would do differently," she says, "common themes surfaced again and again."
@@ -28,5 +24,5 @@ Bronnie Ware is an Australian nurse who spent several years working in palliativ
 > &nbsp;  
 > This is a surprisingly common one. Many did not realise until the end that happiness is a choice. They had stayed stuck in old patterns and habits. The so-called 'comfort' of familiarity overflowed into their emotions, as well as their physical lives. Fear of change had them pretending to others, and to their selves, that they were content, when deep within, they longed to laugh properly and have silliness in their life again.  
 > &nbsp;  
-> --- [Bronnie Ware](http://www.inspirationandchai.com/Regrets-of-the-Dying.html)
+> --[Bronnie Ware](http://www.inspirationandchai.com/Regrets-of-the-Dying.html)
 
