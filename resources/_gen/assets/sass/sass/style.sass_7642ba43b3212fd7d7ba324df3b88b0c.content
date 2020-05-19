@@ -132,7 +132,7 @@ hr {
 
 .big-link {
   font-family: Monaco, bitstream vera sans mono, lucida console, Terminal, monospace;
-  font-size: 2.8rem;
+  font-size: 2.7rem;
   font-weight: 300;
   line-height: 2.1em; }
 
