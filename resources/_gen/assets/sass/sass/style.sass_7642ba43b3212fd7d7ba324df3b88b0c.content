@@ -5,12 +5,13 @@
   box-sizing: border-box; }
 
 html {
-  font-family: Monaco, bitstream vera sans mono, lucida console, Terminal, monospace;
-  font-size: 18px;
+  line-height: 1.7;
+  -webkit-text-size-adjust: 100%;
   background-color: #151515 !important; }
 
 body {
   font-family: Monaco, bitstream vera sans mono, lucida console, Terminal, monospace;
+  font-size: 18px;
   color: #d9d9d9;
   text-shadow: none;
   display: flex;
