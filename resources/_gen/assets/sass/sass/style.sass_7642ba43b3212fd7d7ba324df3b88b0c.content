@@ -47,8 +47,7 @@ h1, h2, h3 {
   font-weight: 300;
   line-height: 3rem;
   color: #b5e853;
-  text-transform: lowercase;
-  padding-top: 20px; }
+  text-transform: lowercase; }
 
 h1::before {
   content: "# "; }
@@ -60,7 +59,8 @@ ul {
   list-style-type: none; }
 
 p {
-  display: inline; }
+  display: inline;
+  padding-bottom: 25px; }
 
 a {
   color: #63c0f5;
