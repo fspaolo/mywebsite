@@ -6,7 +6,7 @@
 
 html {
   font-family: Monaco, bitstream vera sans mono, lucida console, Terminal, monospace;
-  font-size: 16px;
+  font-size: 18px;
   background-color: #151515 !important; }
 
 body {
