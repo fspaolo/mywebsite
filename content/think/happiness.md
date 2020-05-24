@@ -2,8 +2,8 @@
 title: What is happines? 
 ---
 
-> There is no path to happiness: happiness is the path   
---Gautama Buddha, around 500 BC  
+> There is no path to happiness: happiness is the path  
+  --Gautama Buddha, around 500 BC  
 > &nbsp;  
 > Of all forms of caution, caution in love is perhaps the most fatal to true happiness  
 --Bertrand Russell, early 1800s  
