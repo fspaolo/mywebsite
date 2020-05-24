@@ -5,6 +5,37 @@ title: Press
 *Many of the stories include exclusive interviews given*.
 
 
+## Our Science paper in the news
+
+> “With the unprecedented accuracy and precision of this novel measurement system, we are now able to detect the small signals far into the ice sheet interior, as well as map out the changes over narrow glaciers on high-slope terrain around the ice sheets,” said study coauthor Fernando S. Paolo of NASA’s Jet Propulsion Laboratory. “Previous altimeters struggled with these challenges. Because we used laser measurements over a fairly long time span (about 16 years), we are getting the overall trends of ice sheet mass loss with higher confidence.”  
+--[Eos](https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters)
+
+[The New York Times](https://www.nytimes.com/interactive/2020/04/30/climate/antarctica-ice-climate-change.html) -- A Satellite Lets Scientists See Antarctica’s Melting Like Never Before 
+
+[See NASA videos](https://svs.gsfc.nasa.gov/4796)
+
+[NASA official story](https://www.nasa.gov/feature/goddard/2020/nasa-space-laser-missions-map-16-years-of-ice-sheet-loss) -- NASA Space Laser Missions Map 16 Years of Ice Sheet Loss. 
+
+[BBC](https://www.bbc.com/news/science-environment-52479316) -- Nasa space lasers track melting of Earth's ice sheets
+
+[CNN](https://www.cnn.com/2020/05/01/us/nasa-ice-sheet-loss-climate-change-trnd/index.html) -- Ocean warming is causing massive ice sheet loss in Greenland and Antarctica, NASA study shows
+
+[CNBC](https://www.cnbc.com/2020/04/30/climate-change-antarctica-greenland-ice-melt-raised-sea-levels-by-half-inch-in-last-16-years.html) -- A new way of measuring ice melt in Antarctica, Greenland sounds alarm about global sea level rise
+
+[ScienceNews](https://www.sciencenews.org/article/greenland-antarctica-are-gaining-ice-inland-losing-melting-overall) -- Greenland and Antarctica are gaining ice inland, but still losing it overall 
+
+[NPR](https://www.npr.org/2020/04/30/848398472/antarctica-and-greenland-are-losing-thousands-of-gigatons-of-ice-thats-a-lot) -- Antarctica And Greenland Are Losing Thousands Of Gigatons of Ice — That's A Lot 
+
+
+## Our GRL paper on ice dynamics
+
+[BBC](https://www.bbc.co.uk/news/amp/science-environment-50625396) -- Climate change: Study underpins key idea in Antarctic ice loss
+
+[Phys.org](https://phys.org/news/2019-12-evidence-antarctica-thinning-ice-shelves.html) -- First evidence that Antarctica's thinning ice shelves are causing more ice to move from the land into the sea
+
+[Interview with lead author](https://www.youtube.com/watch?v=wEETb9V1fZo) -- The impact of Antarctica's thinning ice shelves
+
+
 ## On the role of natural climate variability
 
 > Finally, [Paolo et al. (2018)](https://www.nature.com/articles/s41561-017-0033-0) showed that the influence of El Niño events on West Antarctic glaciers could be measured by satellite observations: El Niño events tend to be correlated with both increased melting from below, and increased snowfall above, and the variations in the altitude of the ice sheet surface (varying by a few tens of cm) can be detected by satellite altimetry.  

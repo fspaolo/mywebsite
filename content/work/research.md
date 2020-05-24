@@ -36,7 +36,7 @@ Checkout the [project](https://its-live.jpl.nasa.gov/)
 ![Image](/img/itslive-antarctica.png)
 
 
-## Ice shelf mechanics
+## Ice shelf dynamics
 
 Instantaneous Antarctic ice sheet mass loss driven by thinning ice shelves.
 
