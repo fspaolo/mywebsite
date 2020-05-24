@@ -60,7 +60,8 @@ ul {
 
 p {
   display: inline;
-  padding-bottom: 25px; }
+  padding-bottom: 25px;
+  font-size: 17px; }
 
 a {
   color: #63c0f5;
@@ -97,9 +98,7 @@ hr {
   @media screen and (max-width: 736px) {
     .wrap {
       padding: 1rem;
-      width: 100%; }
-      .wrap p {
-        line-width: 1.8; } }
+      width: 100%; } }
 
 .tag-container {
   display: flex;
