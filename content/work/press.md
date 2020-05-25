@@ -7,7 +7,7 @@ title: Press
 
 ## Our paper in Science
 
-Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845/tab-article-info) paper on pervasive ice sheet loss from NASA's satellite laser mission
+Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845) paper on pervasive ice sheet loss from NASA's satellite laser mission
 
 > “With the unprecedented accuracy and precision of this novel measurement system, we are now able to detect the small signals far into the ice sheet interior, as well as map out the changes over narrow glaciers on high-slope terrain around the ice sheets,” said study coauthor Fernando S. Paolo of NASA’s Jet Propulsion Laboratory. “Previous altimeters struggled with these challenges. Because we used laser measurements over a fairly long time span (about 16 years), we are getting the overall trends of ice sheet mass loss with higher confidence.”  
 --[Eos](https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters)
