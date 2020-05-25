@@ -5,16 +5,17 @@ title: Press
 *Many of the stories include exclusive interviews given*.
 
 
-## Our Science paper in the news
+## Our paper in Science
+
+Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845/tab-article-info) paper on pervasive ice sheet loss from NASA's satellite laser mission
 
 > “With the unprecedented accuracy and precision of this novel measurement system, we are now able to detect the small signals far into the ice sheet interior, as well as map out the changes over narrow glaciers on high-slope terrain around the ice sheets,” said study coauthor Fernando S. Paolo of NASA’s Jet Propulsion Laboratory. “Previous altimeters struggled with these challenges. Because we used laser measurements over a fairly long time span (about 16 years), we are getting the overall trends of ice sheet mass loss with higher confidence.”  
 --[Eos](https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters)
 
 [The New York Times](https://www.nytimes.com/interactive/2020/04/30/climate/antarctica-ice-climate-change.html) -- A Satellite Lets Scientists See Antarctica’s Melting Like Never Before 
 
-[See NASA videos](https://svs.gsfc.nasa.gov/4796)
-
-[NASA official story](https://www.nasa.gov/feature/goddard/2020/nasa-space-laser-missions-map-16-years-of-ice-sheet-loss) -- NASA Space Laser Missions Map 16 Years of Ice Sheet Loss. 
+[NASA story](https://www.nasa.gov/feature/goddard/2020/nasa-space-laser-missions-map-16-years-of-ice-sheet-loss) and [videos](https://svs.gsfc.nasa.gov/4796)
+ -- NASA Space Laser Missions Map 16 Years of Ice Sheet Loss. 
 
 [BBC](https://www.bbc.com/news/science-environment-52479316) -- Nasa space lasers track melting of Earth's ice sheets
 
@@ -54,11 +55,12 @@ title: Press
 --[Neewsweek](http://www.newsweek.com/sea-level-rise-has-rapidly-accelerated-1992-melting-ice-and-its-not-803326), [*PNAS*](http://www.pnas.org/content/early/2018/02/06/1717312115)
 
 
-## Our Nature Geo paper in the news  
+## Our paper in Nature Geo
 
 Media coverage of our [*Nature Geoscience*](https://www.nature.com/articles/s41561-017-0033-0) paper about the impact of El Nino and La Nina on West Antarctic ice shelves
 
-![Image](/img/natgeo_feb2018.png)
+> "That means for a short period of time you are adding the two together [gains from snowfall and loses from melting]. And that's key information to put into computer models if you want to properly represent the dynamics of these systems," explained Dr Paolo, who has now moved to the US space agency.  
+--[BBC News](http://www.bbc.com/news/science-environment-42614412)
 
 Videos:
 
@@ -67,9 +69,6 @@ Videos:
 * [TV appearance on CBC News](https://www.dropbox.com/s/c92ibvu6n4ba8qo/cbcnn_newsnetwork_2018-01-08_17_35_39.mp4?dl=0)
 
 Articles:
-
-> "That means for a short period of time you are adding the two together. And that's key information to put into computer models if you want to properly represent the dynamics of these systems," explained Dr Paolo, who has now moved to the US space agency.  
---[BBC News](http://www.bbc.com/news/science-environment-42614412)
 
 [Carbon Brief](https://www.carbonbrief.org/el-nino-causes-west-antarcticas-ice-shelves-gain-height-yet-lose-mass) -- El Niño causes West Antarctica’s ice shelves to gain height yet lose mass   
 
@@ -113,10 +112,9 @@ Also related:
 
 ## Our work featured on the cover
 
-Article about Antarctic ice melting featured on the cover of a science magazine for kids: [Ciencia Hoje [Today's Science]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0) -- Antartica: O que pode acontecer se o gelo derreter? [Antarctica: What could happen if the ice melts?]
+Article about Antarctic ice melting featured on the cover of a science magazine for kids
 
-
-![Image](/img/chc268_2015.png)
+[Ciencia Hoje [Today's Science]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0) -- Antartica: O que pode acontecer se o gelo derreter? [Antarctica: What could happen if the ice melts?]
 
 
 ## Appearance in a TV commercial
@@ -127,7 +125,7 @@ Brief appearance in a commercial for the [Scripps Institution of Oceanography](h
 * [Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
 
 
-## Our Cryosphere paper in the news 
+## Our paper in The Cryosphere
 
 [The Washington Post](http://www.washingtonpost.com/news/energy-environment/wp/2015/05/12/this-ice-shelf-is-nearly-the-size-of-scotland-and-scientists-are-worried-about-its-stability/?tid=sm_fb) -- This ice shelf is nearly the size of Scotland - and it could be at 'imminent risk'
 
@@ -158,11 +156,9 @@ Brief appearance in a commercial for the [Scripps Institution of Oceanography](h
 [Scientific American](http://www.scientificamerican.com/article/massive-antarctic-ice-shelf-faces-imminent-risk-of-collapse/) -- Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse
 
 
-## Massive press coverage of our Science paper
+## Massive press coverage of our paper in Science
 
-Media coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) paper on accelerating Antarctic ice-shelf loss
-
-![Image](/img/science_apr2015.gif)
+Media coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) paper on accelerating Antarctic ice shelf loss
 
 > An acceleration in the flow of massive ice sheets would add substantially to the ongoing rise of sea levels, according to Fernando Paolo, a geophysics PhD candidate at UC San Diego’s Scripps Institution of Oceanography and lead author of the study published online Thursday in the journal Science.  
 --[Los Angeles Times](http://www.latimes.com/science/sciencenow/la-sci-sn-antarctic-ice-shelves-melting-faster-20150326-story.html)
