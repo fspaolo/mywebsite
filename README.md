@@ -1,11 +1,15 @@
 # fspaolo.net
 
-Hello, this is my personal website.
+    Code for my personal website.
 
 # Set URL
 
-    copy CNAME file into docs*
+    cp CNAME docs/
 
 # Edit style
 
-    themes/sam/assets/sass/
+    assets/sass/style.scss
+
+# Edit layout
+
+    _include/layout.html

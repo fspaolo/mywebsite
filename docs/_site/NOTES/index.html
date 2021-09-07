@@ -1,0 +1,34 @@
+<h1>Airleventy</h1>
+<p>Build static websites with 11ty, Sass for CSS, and modern JavaScript.</p>
+<p>Comes with a Netlify deploy config, but can be hosted anywhere.</p>
+<h2>Increase your power levels</h2>
+<ol>
+<li><a href="https://www.favicon-generator.org/">Add favicons/device icons</a></li>
+<li><a href="https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap">Add a sitemap</a></li>
+<li><a href="https://www.11ty.dev/docs/watch-serve/">Configure eleventy</a></li>
+</ol>
+<h2>Setup</h2>
+<pre><code class="language-shell">$ npm i
+</code></pre>
+<h2>Commands</h2>
+<h3>Develop</h3>
+<pre><code class="language-sh">$ npm run watch
+</code></pre>
+<h3>Build</h3>
+<pre><code class="language-sh">$ npm run build
+</code></pre>
+<p>Or build production ready assets:</p>
+<pre><code class="language-sh">$ npm run build-prod
+</code></pre>
+<p>There are also a slew of individual commands to run individual build processes such as styles, scripts, etc.</p>
+<h2>Netlify</h2>
+<p>First, enable your airleventy fork on Netlify's interface.</p>
+<p>When prompted, clear the <code>build</code> and <code>publish</code> fields (that's what your <code>netlify.toml</code> is for). Then set your deploy branch (e.g., <code>main</code>).</p>
+<p>Now each time you push to your deploy branch you'll also deploy your most recent changes. 🎉</p>
+<h2>JavaScript</h2>
+<p>Adding JS is pretty straightforward, but has prescriptions on file structure &amp; naming:</p>
+<ul>
+<li>All JS is processed through rollup with a basic Babel configuration using <code>preset-env</code>. Configure this and the accompanying <code>.browserslistrc</code> as you please.</li>
+<li>Any JS file <em>without</em> an underscore prefix is treated as an asset (included in file output). Its file path is mirrored in the output.</li>
+<li>Any JS file <em>with</em> an underscore prefix is treated as a non-asset module (no output file).</li>
+</ul>
