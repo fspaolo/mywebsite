@@ -2,7 +2,7 @@
 
 [build]
   base = ""
-  publish = "_site"
+  publish = "docs"
   command = "npm run build-prod"
   environment = { NODE_VERSION = "14.7.0", NPM_VERSION = "7.5.2" }
 
