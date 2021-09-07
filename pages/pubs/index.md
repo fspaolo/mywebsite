@@ -7,6 +7,8 @@ permalink: /pubs/index.html
 
 Peer-reviewed papers and general-audience articles
 
+---
+
 # Journals
 
 Smith B., H.A. Fricker, A.S. Gardner, B. Medley, J. Nilsson, **F.S. Paolo**, N. Holschuh, S. Adusumilli, K. Brunt, B. Csatho, K. Harbeck, T. Markus, T. Neumann, M.R. Siegfried, H.J. Zwally, Pervasive ice sheet mass loss reflects competing ocean and atmosphere processes, [Science (2020)](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845)
@@ -36,6 +38,7 @@ Bicego M.C., E. Zanardi-Lamardo, S. Taniguchi, C.C. Martins, D.A.M. da Silva, S.
 
 **Paolo F.S.**, M.M. Mahiques, Utilizacao de metodos acusticos em estudos de dinamica costeira: Exemplo na desembocadura lagunar de Cananeia [Use of acoustic methods in coastal dynamics studies: Example in the Cananeia lagoonal mouth], [Brazilian Journal of Geophysics (2008)](http://dx.doi.org/10.1590/S0102-261X2008000200008)
 
+---
 
 # Articles
 
@@ -47,6 +50,7 @@ Padman L., **F.S. Paolo**, H.A. Fricker, Confused about ice shelf decay and sea 
 
 **Paolo F.S.**, E.C. Molina, Sera que todo o gelo da Antartica pode derreter? [Could all the ice of Antarctica melt?], [Ciencia Hoje (2015)](http://chc.cienciahoje.uol.com.br/multimidia/revistas/reduzidas//268/?revista=268#8) [[pdf]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0)
 
+---
 
 # Theses
 
@@ -56,6 +60,7 @@ Padman L., **F.S. Paolo**, H.A. Fricker, Confused about ice shelf decay and sea 
 
 **Paolo F.S.** (2007), Estudo da morfodinamica de fundo do Estuario de Cananeia atraves de metodos geofisicos [Study of bottom morphodynamics of the Cananei Estuary through geophysical methods], *B.S. Thesis*, University of Sao Paulo, 61 pages [in Portuguese]. 
 
+---
 
 # Datasets
 

@@ -7,6 +7,8 @@ permalink: /research/index.html
 
 I study how human activities impact the ocean and the Earth's climate overall. I use machine learning to analyze global feeds of satellite data and reveal environmental patterns of change. I am a strong advocate of open source and open data!
 
+---
+
 # xView3 ML challenge
 
 ![Image](/assets/img/xview3_banner.png)
@@ -18,6 +20,7 @@ Many vessels engaged in IUU fishing and other criminal activity turn off their a
 
 Checkout the [challenge](https://iuu.xview.us/)
 
+---
 
 # Ice sheet mass change
 
@@ -29,6 +32,7 @@ State-of-the-art ice-sheet surface elevation change for Antarctica and Greenland
 
 Checkout our paper in [Science](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845)
 
+---
 
 # ITS_LIVE project
 
@@ -40,6 +44,7 @@ We will accelerate ice sheet and glacier change research by producing a globally
 
 Checkout the [project](https://its-live.jpl.nasa.gov/)
 
+---
 
 # Ice shelf dynamics
 
@@ -51,6 +56,7 @@ Confined ice shelves restrain the flow of upstream ice streams and glaciers. Thi
 
 Checkout our paper in [GRL](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085027)
 
+---
 
 # CAP-Toolkit Package
 
@@ -62,6 +68,7 @@ Set of Python tools for processing and integrating multi-satellite and airborne 
 
 Checkout the [project](https://github.com/fspaolo/captoolkit)
 
+---
 
 # ICESat-2 Mission 
 
@@ -75,6 +82,7 @@ Our planet's frozen and icy areas, called the cryosphere, are a key focus of NAS
 
 Read [more](https://icesat-2.gsfc.nasa.gov/)
 
+---
 
 # JPL ECCO project
 
@@ -86,6 +94,7 @@ The ECCO consortium is directed at making the best possible estimates of ocean c
 
 Read [more](https://ecco.jpl.nasa.gov//)
 
+---
 
 # Ice & climate variability
 
@@ -97,6 +106,7 @@ Relative influence of ENSO along the Antarctic Pacific margin. (a) Regional vari
 
 Checkout our paper in [Nature Geoscience](https://www.nature.com/articles/s41561-017-0033-0)
 
+---
 
 # ICESat and CryoSat-2 studies
 
@@ -106,6 +116,7 @@ Multi-sensor analyses of Antarctic ice shelf response to climate variability.
 
 Developing a detailed history of Antarctic ice-shelf mass and stress changes on seasonal-to-interannual time scales and small spatial scales; improve our understanding of the environmental processes that cause these changes; and assess whether proxies for variability of the ice-shelf mass budget can be obtained from coarse-grid global climate models (GCMs). Our main data sources for this study are: ICESat laser altimeter data (2003-2009); Operation IceBridge (OIB) airborne laser altimeter and radio echo sounding (RES) ice thickness data (2009-present); CryoSat-2 radar altimeter (RA) data (2010-present); and European Space Agency (ESA) RA satellites ERS-1, ERS-2 and Envisat (1992-2012).
 
+---
 
 # Multi-satellite Data Fusion 
 
@@ -117,6 +128,7 @@ Representation of our multi-referenced time series approach. (Left) individual t
 
 Checkout our paper in [Remote Sens. Environ.](https://www.sciencedirect.com/science/article/pii/S0034425716300268)
 
+---
 
 # Geophysical Data Analysis
 
@@ -128,6 +140,7 @@ Estimated radar extinction coefficient (ke) over the Antarctic Ice Sheet. Values
 
 Checkout my [PhD Dissertation](http://fspaolo.net/work/phd/)
 
+---
 
 # Ice shelf volume change
 
@@ -139,6 +152,7 @@ Eighteen years of changes in the Antarctic ice shelves. Color map is rate of thi
 
 Check out our paper in [Science](http://www.sciencemag.org/content/348/6232/327.abstract)
 
+---
 
 # Gravity from satellites & ships
 
