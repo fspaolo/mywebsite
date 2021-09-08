@@ -17,7 +17,7 @@ permalink: /reflect/learning.html
 
 > At seventy, I could follow my heart's desire without transgressing what was right.
 
---alternative translation--
+## alternative translation
 
 > When I was fifteen I set my heart on learning.
 
