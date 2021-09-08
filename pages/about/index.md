@@ -5,7 +5,7 @@ permalink: /about/index.html
 
 # Who is Fernando?
 
-I'm Fernando Paolo, a Machine Learning Engineer at [Global Fishing Watch](https://globalfishingwatch.org/about-us/)'s research division. I develop algorithms for global analysis of remote-sensing data (satellite AIS, SAR and optical imagery), and use (deep) artificial neural networks to reveal human activity at sea and related impact to the environment.
+I'm Fernando Paolo, a Machine Learning Engineer at [Global Fishing Watch](https://globalfishingwatch.org/about-us/)'s research division. I develop algorithms for global analysis of remote-sensing data (satellite AIS, SAR and optical imagery), and use (deep) artificial neural networks to reveal human activity at sea and related environmental impact.
 
 Before that, I worked at NASA's Jet Propulsion Laboratory, studying the role of the Cryosphere in the Earth's climate system and its implication on future sea-level change. I used high-performance computing to process and analyze three decades of radar and laser satellite measurements over the Earth's ice sheets.
 
