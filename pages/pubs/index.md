@@ -3,13 +3,13 @@ layout: layout
 permalink: /pubs/index.html
 ---
 
-# PUBLICATIONS
+# Publications
 
 Peer-reviewed papers and general-audience articles
 
 ---
 
-# Journals
+## Journals
 
 Smith B., H.A. Fricker, A.S. Gardner, B. Medley, J. Nilsson, **F.S. Paolo**, N. Holschuh, S. Adusumilli, K. Brunt, B. Csatho, K. Harbeck, T. Markus, T. Neumann, M.R. Siegfried, H.J. Zwally, Pervasive ice sheet mass loss reflects competing ocean and atmosphere processes, [Science (2020)](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845)
 
@@ -40,7 +40,7 @@ Bicego M.C., E. Zanardi-Lamardo, S. Taniguchi, C.C. Martins, D.A.M. da Silva, S.
 
 ---
 
-# Articles
+## Articles
 
 Fricker H.A., **F.S. Paolo**, M.R. Siegfried, S. Adusumilli, Short-term changes in Antarctica’s ice shelves are key to predicting their long-term fate, [The Conversation (2018)](https://theconversation.com/short-term-changes-in-antarcticas-ice-shelves-are-key-to-predicting-their-long-term-fate-95207)
 
@@ -52,7 +52,7 @@ Padman L., **F.S. Paolo**, H.A. Fricker, Confused about ice shelf decay and sea 
 
 ---
 
-# Theses
+## Theses
 
 **Paolo F.S.** (2015), Interannual and decadal variations of ice shelves using multi-mission satellite radar altimetry, and links with oceanic and atmospheric forcings, *PhD Dissertation*, University of California, ProQuest Dissertations Publishing, 127 pages. [[link]](http://fspaolo.net/work/phd/) [[pdf]](https://github.com/fspaolo/phd-thesis/blob/master/thesis.pdf)
 
@@ -62,7 +62,7 @@ Padman L., **F.S. Paolo**, H.A. Fricker, Confused about ice shelf decay and sea 
 
 ---
 
-# Datasets
+## Datasets
 
 Smith, B., H.A. Fricker, A. Gardner, M.R. Siegfried, S. Adusumilli, B.M. Csathó, N. Holschuh, J. Nilsson, **F.S. Paolo**, and the ICESat-2 Science Team. 2019. ATLAS/ICESat-2 L3A Land Ice Height, Version 1. Boulder, Colorado USA. [NSIDC: National Snow and Ice Data Center](https://dx.doi.org/10.5067/ATLAS/ATL06.001)
 

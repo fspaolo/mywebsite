@@ -26,12 +26,12 @@ Before that, I got interested in climate science during my undergraduate years w
 > May your search through nature... lead you to yourself
 
 
-# Professional Biosketch
+## Professional Biosketch
 
 Fernando develops ML algorithms for global analysis of satellite data to study human activity at sea. Before joining Global Fishing Watch, he worked as a postdoctoral scholar at NASA Jet Propulsion Laboratory, Caltech, where he used radar and laser satellite measurements to quantify current ice sheet loss and global sea level change, while also assisting with the data engineering of NASA’s ICESat-2 mission. In 2015 he received the NASA Most Valuable Player Award for Cryospheric Sciences. Fernando obtained his PhD in Geophysics from the University of California, San Diego, and has authored numerous articles on climate research using statistical/ML methods. He has also participated in several scientific cruises to the Southern Ocean, including an Antarctic expedition. Fernando is a strong advocate of open source and open data.
 
 
-# Why a minimal design?
+## Why a minimal design?
 
 In a visually striking and polluted world, a minimalistic layout recovers the beauty of simplicity and sophistication. The aesthetics of modern design is clean and focuses on the contents' essential, reducing the subject to its fundamental features, and nothing more...
 

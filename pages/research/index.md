@@ -3,13 +3,13 @@ layout: layout
 permalink: /research/index.html
 ---
 
-# CURRENT AND PAST PROJECTS
+# Research Projects
 
 I study how human activities impact the ocean and the Earth's climate overall. I use machine learning to analyze global feeds of satellite data and reveal environmental patterns of change. I am a strong advocate of open source and open data!
 
 ---
 
-# xView3 ML challenge
+## xView3 machine learning challenge
 
 ![Image](/assets/img/xview3_banner.png)
 <!-- ![Image](/assets/img/xview3_scene.jpg) -->
@@ -22,7 +22,7 @@ Checkout the [challenge](https://iuu.xview.us/)
 
 ---
 
-# Ice sheet mass change
+## Ice sheet mass change
 
 ![Image](/assets/img/greenland-2003-2019.png)
 
@@ -34,7 +34,7 @@ Checkout our paper in [Science](https://science.sciencemag.org/content/early/202
 
 ---
 
-# ITS_LIVE project
+## ITS_LIVE project
 
 ![Image](/assets/img/itslive-antarctica.png)
 
@@ -46,7 +46,7 @@ Checkout the [project](https://its-live.jpl.nasa.gov/)
 
 ---
 
-# Ice shelf dynamics
+## Ice shelf dynamics
 
 ![Image](/assets/img/buttressing.png)
 
@@ -58,7 +58,7 @@ Checkout our paper in [GRL](https://agupubs.onlinelibrary.wiley.com/doi/full/10.
 
 ---
 
-# CAP-Toolkit Package
+## CAP-Toolkit Package
 
 ![Image](/assets/img/captoolkit-readme.png)
 
@@ -70,7 +70,7 @@ Checkout the [project](https://github.com/fspaolo/captoolkit)
 
 ---
 
-# ICESat-2 Mission 
+## ICESat-2 Mission 
 
 ![Image](/assets/img/icesat2.png)
 
@@ -84,7 +84,7 @@ Read [more](https://icesat-2.gsfc.nasa.gov/)
 
 ---
 
-# JPL ECCO project
+## JPL ECCO project
 
 ![Image](/assets/img/ecco.png)
 
@@ -96,7 +96,7 @@ Read [more](https://ecco.jpl.nasa.gov//)
 
 ---
 
-# Ice & climate variability
+## Ice and climate variability
 
 ![Image](/assets/img/enso_influence.png)
 
@@ -108,7 +108,7 @@ Checkout our paper in [Nature Geoscience](https://www.nature.com/articles/s41561
 
 ---
 
-# ICESat and CryoSat-2 studies
+## ICESat and CryoSat-2 studies
 
 ![Image](/assets/img/ice_shelf_cartoon.png)
 
@@ -118,7 +118,7 @@ Developing a detailed history of Antarctic ice-shelf mass and stress changes on 
 
 ---
 
-# Multi-satellite Data Fusion 
+## Multi-satellite Data Fusion 
 
 ![Image](/assets/img/tseries_matrix.png)
 
@@ -130,7 +130,7 @@ Checkout our paper in [Remote Sens. Environ.](https://www.sciencedirect.com/scie
 
 ---
 
-# Geophysical Data Analysis
+## Geophysical Data Analysis
 
 ![Image](/assets/img/radar-extinction-coef.png)
 
@@ -142,7 +142,7 @@ Checkout my [PhD Dissertation](http://fspaolo.net/work/phd/)
 
 ---
 
-# Ice shelf volume change
+## Ice shelf volume change
 
 ![Image](/assets/img/ishelf_change.png)
 
@@ -154,7 +154,7 @@ Check out our paper in [Science](http://www.sciencemag.org/content/348/6232/327.
 
 ---
 
-# Gravity from satellites & ships
+## Gravity from satellites & ships
 
 ![Image](/assets/img/gravity_geoid.png)
 

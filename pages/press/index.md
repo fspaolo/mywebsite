@@ -3,13 +3,13 @@ layout: layout
 permalink: /press/index.html
 ---
 
-# PRESS COVERAGE
+# Press Coverage
 
 Many of the stories include exclusive interviews given.
 
 ---
 
-# Our paper in Science
+## Our paper in Science
 
 Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845) paper on pervasive ice sheet loss from NASA's satellite laser mission.
 
@@ -33,7 +33,7 @@ Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2
 
 ---
 
-# Our GRL paper on ice dynamics
+## Our GRL paper on ice dynamics
 
 [BBC](https://www.bbc.co.uk/news/amp/science-environment-50625396) - Climate change: Study underpins key idea in Antarctic ice loss
 
@@ -43,7 +43,7 @@ Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2
 
 ---
 
-# On the role of natural climate variability
+## On the role of natural climate variability
 
 > Finally, [Paolo et al. (2018)](https://www.nature.com/articles/s41561-017-0033-0) showed that the influence of El Niño events on West Antarctic glaciers could be measured by satellite observations: El Niño events tend to be correlated with both increased melting from below, and increased snowfall above, and the variations in the altitude of the ice sheet surface (varying by a few tens of cm) can be detected by satellite altimetry.
 
@@ -51,7 +51,7 @@ Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2
 
 ---
 
-# Comment on Nature Geoscience paper
+## Comment on Nature Geoscience paper
 
 > “Field observations of this kind are scarce and extremely valuable,” said Fernando Paolo, a polar scientist at NASA’s Jet Propulsion Laboratory in Pasadena, Calif., not involved in the research. “The study reaffirms the importance of looking at polynyas to better understand mass exchanges between the ice shelves and the ocean.”
 
@@ -59,7 +59,7 @@ Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2
 
 ---
 
-# Comment on PNAS paper
+## Comment on PNAS paper
 
 > "We have known from observations that the ice sheets and mountain glaciers have been losing mass at an accelerated rate over the past decade or so," Fernando Paolo, postdoctoral scholar at NASA's Jet Propulsion Laboratory, who was not involved with the study, told Newsweek. This study shows "a clear acceleration in the 25-year sea level rise, which can be linked to the accelerated ice loss."
 
@@ -67,7 +67,7 @@ Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2
 
 ---
 
-# Our paper in Nature Geoscience
+## Our paper in Nature Geoscience
 
 Media coverage of our [*Nature Geoscience*](https://www.nature.com/articles/s41561-017-0033-0) paper about the impact of El Nino and La Nina on West Antarctic ice shelves
 
@@ -109,7 +109,7 @@ Articles:
 
 ---
 
-# Comment on Science Advances paper
+## Comment on Science Advances paper
 
 > “We have little data on the ocean and ice shelf conditions in this region,” says Fernando Paolo, a geophysicist at NASA’s Jet Propulsion Laboratory in Pasadena, Calif.  But the 14-year record used in the study is still somewhat short to infer a definitive link between wind-driven upwelling and ice shelf melt, he says. Still, he adds, these new data are a welcome addition to the pool of sparse observations, supporting the idea that Totten Glacier is very sensitive to changing oceanic conditions, much like the fast-thinning glaciers in West Antarctica.
 
@@ -117,7 +117,7 @@ Articles:
 
 ---
 
-# Our article in The Conversation 
+## Our article in The Conversation 
 
 [The Conversation](https://theconversation.com/short-term-changes-in-antarcticas-ice-shelves-are-key-to-predicting-their-long-term-fate-95207) - Short-term changes in Antarctica’s ice shelves are key to predicting their long-term fate
 
@@ -127,7 +127,7 @@ Also related:
 
 ---
 
-# Our work featured on the cover
+## Our work featured on the cover
 
 Article about melting Antarctic ice featured on the cover of a science magazine for kids
 
@@ -135,7 +135,7 @@ Article about melting Antarctic ice featured on the cover of a science magazine 
 
 ---
 
-# Appearance in a TV commercial
+## Appearance in a TV commercial
 
 Brief appearance in a commercial for the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/)
 
@@ -144,7 +144,7 @@ Brief appearance in a commercial for the [Scripps Institution of Oceanography](h
 
 ---
 
-# Our paper in The Cryosphere
+## Our paper in The Cryosphere
 
 [The Washington Post](http://www.washingtonpost.com/news/energy-environment/wp/2015/05/12/this-ice-shelf-is-nearly-the-size-of-scotland-and-scientists-are-worried-about-its-stability/?tid=sm_fb) - This ice shelf is nearly the size of Scotland - and it could be at 'imminent risk'
 
@@ -176,7 +176,7 @@ Brief appearance in a commercial for the [Scripps Institution of Oceanography](h
 
 ---
 
-# Massive press coverage of our paper in Science
+## Massive press coverage of our paper in Science
 
 Media coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) paper on accelerating Antarctic ice shelf loss
 
