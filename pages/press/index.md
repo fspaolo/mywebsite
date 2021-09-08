@@ -7,6 +7,7 @@ permalink: /press/index.html
 
 Many of the stories include exclusive interviews given.
 
+---
 
 # Our paper in Science
 
@@ -30,6 +31,7 @@ Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2
 
 [NPR](https://www.npr.org/2020/04/30/848398472/antarctica-and-greenland-are-losing-thousands-of-gigatons-of-ice-thats-a-lot) - Antarctica And Greenland Are Losing Thousands Of Gigatons of Ice — That's A Lot 
 
+---
 
 # Our GRL paper on ice dynamics
 
@@ -39,6 +41,7 @@ Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2
 
 [Interview with lead author](https://www.youtube.com/watch?v=wEETb9V1fZo) - The impact of Antarctica's thinning ice shelves
 
+---
 
 # On the role of natural climate variability
 
@@ -46,20 +49,23 @@ Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2
 
 -[RealClimate](http://www.realclimate.org/index.php/archives/2019/08/background-on-the-role-of-natural-climate-variability-in-west-antarctic-ice-sheet-change/)
 
+---
 
 # Comment on Nature Geoscience paper
 
 > “Field observations of this kind are scarce and extremely valuable,” said Fernando Paolo, a polar scientist at NASA’s Jet Propulsion Laboratory in Pasadena, Calif., not involved in the research. “The study reaffirms the importance of looking at polynyas to better understand mass exchanges between the ice shelves and the ocean.”
 
--[EOS/AGU](https://doi.org/10.1029/2019EO123031), [*Nature Geoscience*](https://doi.org/10.1038/s41561-019-0356-0)
+-[Eos](https://doi.org/10.1029/2019EO123031) | [Nature Geoscience](https://doi.org/10.1038/s41561-019-0356-0)
 
+---
 
 # Comment on PNAS paper
 
 > "We have known from observations that the ice sheets and mountain glaciers have been losing mass at an accelerated rate over the past decade or so," Fernando Paolo, postdoctoral scholar at NASA's Jet Propulsion Laboratory, who was not involved with the study, told Newsweek. This study shows "a clear acceleration in the 25-year sea level rise, which can be linked to the accelerated ice loss."
 
--[Neewsweek](http://www.newsweek.com/sea-level-rise-has-rapidly-accelerated-1992-melting-ice-and-its-not-803326), [*PNAS*](http://www.pnas.org/content/early/2018/02/06/1717312115)
+-[Neewsweek](http://www.newsweek.com/sea-level-rise-has-rapidly-accelerated-1992-melting-ice-and-its-not-803326) | [PNAS](http://www.pnas.org/content/early/2018/02/06/1717312115)
 
+---
 
 # Our paper in Nature Geoscience
 
@@ -101,13 +107,15 @@ Articles:
 
 [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2018/02/15/el-nino-e-o-derretimento-silencioso-da-antartida/?cat=notas) - El Niño e o derretimento silencioso da Antártida [El Niño and the silent melting of Antarctica]. [[pdf](https://www.dropbox.com/s/fa126h3fjma2c2z/012-017_notas_264.pdf?dl=0)]
 
+---
 
 # Comment on Science Advances paper
 
 > “We have little data on the ocean and ice shelf conditions in this region,” says Fernando Paolo, a geophysicist at NASA’s Jet Propulsion Laboratory in Pasadena, Calif.  But the 14-year record used in the study is still somewhat short to infer a definitive link between wind-driven upwelling and ice shelf melt, he says. Still, he adds, these new data are a welcome addition to the pool of sparse observations, supporting the idea that Totten Glacier is very sensitive to changing oceanic conditions, much like the fast-thinning glaciers in West Antarctica.
 
--[ScienceNews](https://www.sciencenews.org/article/wind-may-be-driving-melting-east-antarctica-totten-glacier), [*Science Advances*](http://advances.sciencemag.org/content/3/11/e1701681)
+-[ScienceNews](https://www.sciencenews.org/article/wind-may-be-driving-melting-east-antarctica-totten-glacier) | [Science Advances](http://advances.sciencemag.org/content/3/11/e1701681)
 
+---
 
 # Our article in The Conversation 
 
@@ -117,13 +125,15 @@ Also related:
 
 [Veja Magazine](http://veja.abril.com.br/ciencia/por-que-e-preciso-falar-sobre-o-iceberg-gigante-da-antartida/) - Por que é preciso falar sobre o iceberg gigante da Antártida? [Why is it necesary to talk about the gian Antarctic iceberg?]
 
+---
 
 # Our work featured on the cover
 
-Article about Antarctic ice melting featured on the cover of a science magazine for kids
+Article about melting Antarctic ice featured on the cover of a science magazine for kids
 
 [Ciencia Hoje [Today's Science]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0) - Antartica: O que pode acontecer se o gelo derreter? [Antarctica: What could happen if the ice melts?]
 
+---
 
 # Appearance in a TV commercial
 
@@ -132,6 +142,7 @@ Brief appearance in a commercial for the [Scripps Institution of Oceanography](h
 * [Video (English version)](https://www.youtube.com/watch?v=jN-231KVKNY&index=25&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7)  
 * [Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
 
+---
 
 # Our paper in The Cryosphere
 
@@ -163,6 +174,7 @@ Brief appearance in a commercial for the [Scripps Institution of Oceanography](h
 
 [Scientific American](http://www.scientificamerican.com/article/massive-antarctic-ice-shelf-faces-imminent-risk-of-collapse/) - Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse
 
+---
 
 # Massive press coverage of our paper in Science
 
