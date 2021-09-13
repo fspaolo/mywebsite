@@ -5,7 +5,7 @@ permalink: /research/index.html
 
 # Research Projects
 
-I study how human activities impact the ocean and the Earth's climate overall. I use machine learning to analyze global feeds of satellite data and reveal environmental patterns of change. I am a strong advocate of open source and open data!
+I study how human activities impact the ocean and the Earth's climate system. I use machine learning to analyze global feeds of satellite data and reveal environmental patterns of change. I am a strong advocate of open source and open data!
 
 ---
 
@@ -58,7 +58,7 @@ Checkout our paper in [GRL](https://agupubs.onlinelibrary.wiley.com/doi/full/10.
 
 ---
 
-## CAP-Toolkit Package
+## CAP-Toolkit Software Package
 
 ![Image](/assets/img/captoolkit-readme.png)
 
@@ -156,7 +156,7 @@ Check out our paper in [Science](http://www.sciencemag.org/content/348/6232/327.
 
 ## Gravity from satellites & ships
 
-![Image](/assets/img/gravity_geoid.png)
+![Image](/assets/img/gravity_model.png)
 
 Satellite-derived sea surface gradients and shipborne gravimetry for an integrated marine gravity field.
 
