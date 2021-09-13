@@ -15,15 +15,19 @@ Before that, I got my MS in Geophysics working with space geodesy, combining spa
 
 Before that, I got interested in climate science during my undergraduate years while taking part in an Antarctic expedition for over a month. I studied Oceanography at the University of Sao Paulo, Brazil, participating in several scientific cruises to the South Atlantic Ocean.
 
+<!--
 - [CV (a few pages)](https://www.dropbox.com/s/in7nxestumaripg/Paolo-CV.pdf?dl=0)  
 - [GitHub](https://github.com/fspaolo/)  
 - [LinkedIn](//linkedin.com/in/fspaolo)  
 - [MS Thesis](http://fspaolo.net/work/ms/)
 - [PhD Dissertation](http://fspaolo.net/work/phd/)
+-->
 
-![me, myself, I](/assets/img/me_in_san_bernardino2.png)  
+![me, myself, I](/assets/img/me_in_san_bernardino2.png)
 
 > May your search through nature... lead you to yourself
+
+![me, myself, I](/assets/img/Alps1.jpg)  
 
 
 ## Professional Biosketch
