@@ -15,24 +15,16 @@ Before that, I got my MS in Geophysics working with space geodesy, combining spa
 
 Before that, I got interested in climate science during my undergraduate years while taking part in an Antarctic expedition for over a month. I studied Oceanography at the University of Sao Paulo, Brazil, participating in several scientific cruises to the South Atlantic Ocean.
 
-<!--
-- [CV (a few pages)](https://www.dropbox.com/s/in7nxestumaripg/Paolo-CV.pdf?dl=0)  
-- [GitHub](https://github.com/fspaolo/)  
-- [LinkedIn](//linkedin.com/in/fspaolo)  
-- [MS Thesis](http://fspaolo.net/work/ms/)
-- [PhD Dissertation](http://fspaolo.net/work/phd/)
--->
-
-![me, myself, I](/assets/img/me_in_san_bernardino2.png)
-
-> May your search through nature... lead you to yourself
+[My CV](https://www.dropbox.com/s/in7nxestumaripg/Paolo-CV.pdf?dl=0) / [GitHub](https://github.com/fspaolo) / [MS Thesis](/research/ms.html) / [PhD Dissertation](/research/phd.html)
 
 ![me, myself, I](/assets/img/Alps1.jpg)  
+
+> May your search through nature... lead you to yourself
 
 
 ## Professional Biosketch
 
-Fernando develops ML algorithms for global analysis of satellite data to study human activity at sea. Before joining Global Fishing Watch, he worked as a postdoctoral scholar at NASA Jet Propulsion Laboratory, Caltech, where he used radar and laser satellite measurements to quantify current ice sheet loss and global sea level change, while also assisting with the data engineering of NASA’s ICESat-2 mission. In 2015 he received the NASA Most Valuable Player Award for Cryospheric Sciences. Fernando obtained his PhD in Geophysics from the University of California, San Diego, and has authored numerous articles on climate research using statistical/ML methods. He has also participated in several scientific cruises to the Southern Ocean, including an Antarctic expedition. Fernando is a strong advocate of open source and open data.
+Fernando develops ML algorithms for global analysis of satellite data to study human activity at sea. Before joining Global Fishing Watch, he worked as a postdoctoral researcher at NASA Jet Propulsion Laboratory, Caltech, where he used radar and laser satellite measurements to quantify current ice sheet loss and global sea level change, while also assisting with the data engineering of NASA’s ICESat-2 mission. In 2015 he received the NASA Most Valuable Player Award for Cryospheric Sciences. Fernando obtained his PhD in Geophysics from the University of California, San Diego, and has authored numerous articles on climate research using statistical/ML methods. He has also participated in several scientific cruises to the Southern Ocean, including an Antarctic expedition. Fernando is a strong advocate of open source and open data.
 
 
 ## Why a minimal design?
