@@ -33,6 +33,38 @@ Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2
 
 ---
 
+## The Intergovernmental Panel on Climate Change
+
+My 2015 and 2018 work in the United Nations IPCC Report on Climate Change.
+
+> There is high confidence that the input of ice shelf meltwater has
+increased in the Amundsen and Bellingshausen Seas since the 1990s,
+but low confidence in trends in other sectors (Paolo et al., 2015).
+
+> Reduction or loss of ice shelf buttressing has dominated Antarctic Ice
+Sheet dynamic thinning (high confidence) ...  ice shelf thinning
+increased in WAIS by 70% in the decade to 2012, averaged  8%
+thickness loss from 1994 to 2012 in the Amundsen Sea Embayment
+(Paolo et al., 2015).
+
+> Recent ENSO variability is correlated with recent changes in ice 
+shelf thickness (Paolo et al., 2018).
+
+> They lose mass through a combination of calving and by melting 
+from below, especially where basal ice is in contact with warm water 
+(Paolo et al., 2015; ...)
+
+> It has become increasingly evident that this ice loss is being 
+driven by sub-ice oceanic melt (thinning) of ice shelves 
+(Paolo et al., 2015; ...)
+
+(Paolo et al. 2015 and 2018 cited multiple times in Chapters 3 and 4)
+
+-[IPCC Chapter 3: Polar Regions](https://www.ipcc.ch/srocc/chapter/chapter-3-2/)  
+-[IPCC Chapter 4: Sea Level Rise](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
+
+---
+
 ## Our GRL paper on ice dynamics
 
 [BBC](https://www.bbc.co.uk/news/amp/science-environment-50625396) - Climate change: Study underpins key idea in Antarctic ice loss
