@@ -33,7 +33,10 @@ Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2
 
 ---
 
-## My work in the UN IPCC Report on Climate Change
+## My work in the IPCC Report on Climate Change
+
+Paolo et al. 2015 and 2018 cited multiple times in Chapters 3 and 4 of
+the United Nations's Intergovernmental Panel on Climate Change Report.
 
 > There is high confidence that the input of ice shelf meltwater has
 increased in the Amundsen and Bellingshausen Seas since the 1990s,
@@ -55,9 +58,6 @@ from below, especially where basal ice is in contact with warm water
 > It has become increasingly evident that this ice loss is being 
 driven by sub-ice oceanic melt (thinning) of ice shelves 
 (Paolo et al., 2015; others)
-
-Paolo et al. 2015 and 2018 cited multiple times in Chapters 3 and 4 of
-the United Nations's Intergovernmental Panel on Climate Change Report.
 
 -[IPCC Chapter 3: Polar Regions](https://www.ipcc.ch/srocc/chapter/chapter-3-2/)  
 -[IPCC Chapter 4: Sea Level Rise](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
