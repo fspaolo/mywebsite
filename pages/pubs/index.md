@@ -11,6 +11,17 @@ Peer-reviewed papers and general-audience articles
 
 ## Journals
 
+Nilsson J., A.S. Gardner, **F.S. Paolo**, Elevation Change of the Antarctic Ice Sheet: 1985 to 2020, (in review)
+
+**Paolo F.S**. A.S. Gardner, C.A. Greene, J.N. Nilsson, M.P. Schodlok, N. Schlegel, Widespread slowdown in rates of West Antarctic Ice Shelf thinning, (in review)
+
+Liniger G., S. Moreau, D. Lannuzel, P.G. Strutton, **F.S. Paolo**, Surface marine productivity variability in West Antarctic polynyas is not driven by melting ice shelves, (in review)
+
+Nakayama Y., C.A. Greene, **F.S. Paolo**, V. Mensah, H. Zhang, H. Kashiwase, D. Simizu, J.S. Greenbaum, D.D. Blankenship, A. Abe-Ouchi, S. Aoki, Antarctic Slope Current Modulates Ocean Heat Intrusions Towards Totten Glacier, [Geophysical Research Letters (2021)](https://doi.org/10.1029/2021GL094149}{10.1029/2021GL094149)
+
+De Rydt J., R. Reese, **F.S. Paolo**, G.H. Gudmundsson, Drivers of Pine Island Glacier speed-up between 1996 and 2016, [The Cryosphere (2021)](https://doi.org/10.5194/tc-15-113-2021}{10.5194/tc-15-113-2021)
+
+
 Smith B., H.A. Fricker, A.S. Gardner, B. Medley, J. Nilsson, **F.S. Paolo**, N. Holschuh, S. Adusumilli, K. Brunt, B. Csatho, K. Harbeck, T. Markus, T. Neumann, M.R. Siegfried, H.J. Zwally, Pervasive ice sheet mass loss reflects competing ocean and atmosphere processes, [Science (2020)](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845)
 
 Gudmundsson G.H., **F.S. Paolo**, S. Adusumilli, H.A. Fricker, Instantaneous Antarctic ice sheet mass loss driven by thinning ice shelves, [Geophysical Research Letters (2019)](https://dx.doi.org/10.1029/2019GL085027)
