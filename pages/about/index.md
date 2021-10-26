@@ -17,7 +17,7 @@ Before that, I got interested in climate science during my undergraduate years w
 
 [My CV](https://www.dropbox.com/s/in7nxestumaripg/Paolo-CV.pdf?dl=0) / [GitHub](https://github.com/fspaolo) / [MS Thesis](/research/ms.html) / [PhD Dissertation](/research/phd.html)
 
-![me, myself, I](/assets/img/Alps1.jpg)  
+![me, myself, I](/assets/img/san_bernardino.jpg)  
 
 > May your search through nature... lead you to yourself
 
