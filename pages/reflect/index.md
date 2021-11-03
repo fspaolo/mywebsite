@@ -3,7 +3,7 @@ layout: layout
 permalink: /reflect/index.html
 ---
 
-# Reflect About
+# To Reflect About
 
 - [Your life is your life](yourlife.html)
 - [Go all the way](alltheway.html)
