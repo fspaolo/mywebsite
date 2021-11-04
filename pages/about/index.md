@@ -26,10 +26,9 @@ Before that, I got interested in climate science during my undergraduate years w
 
 Fernando develops ML algorithms for global analysis of satellite data to study human activity at sea and associated environmental change. Before joining Global Fishing Watch, he worked as a postdoctoral researcher at NASA Jet Propulsion Laboratory, Caltech, where he used radar and laser satellite measurements to quantify current ice sheet loss and global sea level change, while also assisting with the data engineering of NASA’s ICESat-2 mission. In 2015 he received the NASA Most Valuable Player Award for research in Cryospheric Sciences. Fernando obtained his PhD in Geophysics from the University of California, San Diego, and has authored numerous articles on climate research using statistical/ML methods. He has also participated in several scientific cruises to the Southern Ocean, including an Antarctic expedition. Fernando is a strong advocate of open source and open data.
 
-## Beyond research
+## Beyond my research
 
-Besides studying the impact of humans on the environment and climate, in my "free" time I am constantly improving my understanding of a variety of subjects, such as: our perception of reality and the link to psychological suffering; the relationship between conciousness, intelligence and experience;
- the parallels between modern physics and ancient mysticism in understanding the natural world; what makes life worth living; human performance, health and longevity; among others.
+Besides studying the impact of humans on the environment and climate, I use my "free" time to deepen my understanding on topics such as: our perception of reality and the link to psychological suffering; the relationship between conciousness, intelligence and experience; the parallels between modern physics and ancient mysticism in understanding the natural world; the challenges of technology and artificial intelligence; human performance, health and longevity; what actually makes life worth living; among others.
 
 ## Why a minimal design?
 
