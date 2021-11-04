@@ -28,7 +28,7 @@ Fernando develops ML algorithms for global analysis of satellite data to study h
 
 ## Beyond my research
 
-Besides studying the impact of humans on the environment and climate, on my "free" time, I deepen my understanding on a variety of subjects, including our perception of reality and the link to psychological suffering; the relationship between conciousness, intelligence and experience; the parallels between modern physics and ancient mysticism in understanding the natural world; the challenges of technology and artificial intelligence; what we know about human performance, health and longevity; what actually makes life worth living; among others.
+Besides studying the impact of humans on the environment and climate, on my "free" time I like to deepen my understanding on a variety of subjects, including our perception of reality and the link to psychological suffering; the relationship between conciousness, intelligence and experience; the parallels between modern physics and ancient mysticism in understanding the natural world; the challenges of technology and artificial intelligence; what we know about human performance, health and longevity; what actually makes life worth living; among others.
 
 ## Why a minimal design?
 
