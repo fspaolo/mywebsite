@@ -6,7 +6,7 @@ permalink: /reflect/index.html
 # To Reflect About
 
 - [Journey and destination](journey.html)
-- [The Path of aloneness](aloneness.html)
+- [The path of aloneness](aloneness.html)
 - [Your life is your life](yourlife.html)
 - [Go all the way](alltheway.html)
 - [Bodhisattva way of life](bodhisattva.html)
