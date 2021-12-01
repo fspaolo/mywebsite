@@ -1,8 +1,9 @@
 @use "reset";
 @use "variables";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 
 body {
-	font-family: Courier, monospace;
+	font-family: 'Open Sans', monospace;
 	background-color: var(--background-color);
     //background-color: rgb(34, 34, 34);
     //color: rgb(255, 255, 255);
@@ -22,15 +23,15 @@ h1 {
 
 h2 {
 	padding-bottom: 1rem;
-	font-size: 1.01rem;
+	font-size: 1rem;
     font-weight: bold;
 }
 
 p,
 ul {
-	font-size: 1.01rem;
+	font-size: 1rem;
 	margin-bottom: 1rem;
-    line-height: 1.3rem;
+    //line-height: 1.5rem;
 }
 
 ul {
@@ -42,14 +43,14 @@ ul {
 }
 
 .by {
-	font-size: 1.01rem;
+	font-size: 1rem;
 	color: var(--byline-color);
 }
 
 .footer {
 	padding: 1.5rem;
 	padding-top: 0rem;
-	font-size: 1.01rem;
+	font-size: 1rem;
 	max-width: var(--page-width);
     margin: 0; // auto;
 }
