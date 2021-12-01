@@ -16,21 +16,21 @@ body {
 
 h1 {
 	padding-bottom: 1.2rem;
-    font-size: 2em;
+    font-size: 2.1em;
     font-weight: bold;
 }
 
 h2 {
 	padding-bottom: 1rem;
-    font-size: 1em;
+	font-size: 1.01rem;
     font-weight: bold;
 }
 
 p,
 ul {
-	font-size: 1rem;
+	font-size: 1.01rem;
 	margin-bottom: 1rem;
-    //line-height: 1.4rem;
+    line-height: 1.3rem;
 }
 
 ul {
@@ -42,14 +42,14 @@ ul {
 }
 
 .by {
-	font-size: 1rem;
+	font-size: 1.01rem;
 	color: var(--byline-color);
 }
 
 .footer {
 	padding: 1.5rem;
 	padding-top: 0rem;
-	font-size: 1rem;
+	font-size: 1.01rem;
 	max-width: var(--page-width);
     margin: 0; // auto;
 }
