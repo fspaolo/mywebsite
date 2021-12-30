@@ -5,9 +5,10 @@ permalink: /pubs/index.html
 
 # Publications
 
-Peer-reviewed papers and general-audience articles
+Peer-reviewed papers and general-audience articles.
 
----
+<br/>
+<br/>
 
 ## Journals
 
@@ -49,7 +50,9 @@ Bicego M.C., E. Zanardi-Lamardo, S. Taniguchi, C.C. Martins, D.A.M. da Silva, S.
 
 **Paolo F.S.**, M.M. Mahiques, Utilizacao de metodos acusticos em estudos de dinamica costeira: Exemplo na desembocadura lagunar de Cananeia [Use of acoustic methods in coastal dynamics studies: Example in the Cananeia lagoonal mouth], [Brazilian Journal of Geophysics (2008)](http://dx.doi.org/10.1590/S0102-261X2008000200008)
 
----
+<br/>
+<br/>
+
 
 ## Articles
 
@@ -57,21 +60,25 @@ Fricker H.A., **F.S. Paolo**, M.R. Siegfried, S. Adusumilli, Short-term changes 
 
 Padman L., **F.S. Paolo**, H.A. Fricker, Shrinking of Antarctic ice shelves is accelerating, [The Conversation (2015)](https://theconversation.com/shrinking-of-antarctic-ice-shelves-is-accelerating-39273)
 
-Padman L., **F.S. Paolo**, H.A. Fricker, Confused about ice shelf decay and sea ice increase? [Scripps Institution of Oceanography (2015)](http://glaciology.weebly.com/articles.html)
+Padman L., **F.S. Paolo**, H.A. Fricker, Confused about ice shelf decay and sea ice increase? [Scripps Oceanography (2015)](http://glaciology.weebly.com/articles.html)
 
 **Paolo F.S.**, E.C. Molina, Sera que todo o gelo da Antartica pode derreter? [Could all the ice of Antarctica melt?], [Ciencia Hoje (2015)](http://chc.cienciahoje.uol.com.br/multimidia/revistas/reduzidas//268/?revista=268#8) [[pdf]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0)
 
----
+<br/>
+<br/>
+
 
 ## Theses
 
-**Paolo F.S.** (2015), Interannual and decadal variations of ice shelves using multi-mission satellite radar altimetry, and links with oceanic and atmospheric forcings, *PhD Dissertation*, University of California, ProQuest Dissertations Publishing, 127 pages. [[link]](http://fspaolo.net/work/phd/) [[pdf]](https://github.com/fspaolo/phd-thesis/blob/master/thesis.pdf)
+**Paolo F.S.** (2015), Interannual and decadal variations of ice shelves using multi-mission satellite radar altimetry, and links with oceanic and atmospheric forcings, *PhD Dissertation*, University of California, ProQuest Dissertations Publishing, 127 pages. [[web]](http://fspaolo.net/research/phd.html) [[pdf]](https://github.com/fspaolo/phd-thesis/blob/master/thesis.pdf)
 
-**Paolo F.S.** (2009), Altimetria por satelite e gravimetria marinha na representacao integrada do campo de gravidade na regiao costeira do Brasil [Satellite altimetry and shipborne gravimetry on the integrated representation of the gravity field along the Brazilian coast], *M.S. Thesis*, University of Sao Paulo, 73 pages [in Portuguese]. [[link]](http://fspaolo.net/work/ms/) [[pdf]](http://www.iag.usp.br/pos/sites/default/files/m_fernando_s_paolo.pdf)
+**Paolo F.S.** (2009), Satellite altimetry and shipborne gravimetry on the integrated representation of the gravity field along the Brazilian coast, *M.S. Thesis*, University of Sao Paulo, 73 pages [in Portuguese]. [[web]](http://fspaolo.net/research/ms.html) [[pdf]](http://www.iag.usp.br/pos/sites/default/files/m_fernando_s_paolo.pdf)
 
-**Paolo F.S.** (2007), Estudo da morfodinamica de fundo do Estuario de Cananeia atraves de metodos geofisicos [Study of bottom morphodynamics of the Cananei Estuary through geophysical methods], *B.S. Thesis*, University of Sao Paulo, 61 pages [in Portuguese]. 
+**Paolo F.S.** (2007), Study of bottom morphodynamics of the Cananei Estuary using geophysical methods, *B.S. Thesis*, University of Sao Paulo, 61 pages [in Portuguese]. 
 
----
+<br/>
+<br/>
+
 
 ## Datasets
 

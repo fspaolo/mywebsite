@@ -106,7 +106,7 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 
 > "That means for a short period of time you are adding the two together [gains from snowfall and loses from melting]. And that's key information to put into computer models if you want to properly represent the dynamics of these systems," explained Dr Paolo, who has now moved to the US space agency.
 
-**Scripps News:** [New Study Reveals Strong El Niño Events Cause Large Changes in Antarctic Ice Shelves](https://scripps.ucsd.edu/news/new-study-reveals-strong-el-ni%C3%B1o-events-cause-large-changes-antarctic-ice-shelves?hash=Mgub6wrWNSGIPJ3dTa9DKUpBvuCr4qQFjhbxr0hWfVY)
+**Scripps Oceanography:** [New Study Reveals Strong El Niño Events Cause Large Changes in Antarctic Ice Shelves](https://scripps.ucsd.edu/news/new-study-reveals-strong-el-ni%C3%B1o-events-cause-large-changes-antarctic-ice-shelves?hash=Mgub6wrWNSGIPJ3dTa9DKUpBvuCr4qQFjhbxr0hWfVY)
 
 **Carbon Brief:** [El Niño causes West Antarctica’s ice shelves to gain height yet lose mass](https://www.carbonbrief.org/el-nino-causes-west-antarcticas-ice-shelves-gain-height-yet-lose-mass)
 
@@ -172,87 +172,91 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 
 > An acceleration in the flow of massive ice sheets would add substantially to the ongoing rise of sea levels, according to Fernando Paolo, a geophysics PhD candidate at UC San Diego’s Scripps Institution of Oceanography and lead author of the study published online Thursday in the journal Science.
 
-[Science/AAAS News](http://news.sciencemag.org/climate/2015/03/antarctica-rapidly-losing-its-edge) - Antarctica is rapidly losing its edge
+**Science/AAAS:** [Antarctica is rapidly losing its edge](http://news.sciencemag.org/climate/2015/03/antarctica-rapidly-losing-its-edge)
 
-[Wall Street Journal](http://www.wsj.com/articles/antarctic-ice-shelves-are-shrinking-study-says-1427393023) - Antarctic Ice Shelves Are Shrinking, Study Says
+**Wall Street Journal:** [Antarctic Ice Shelves Are Shrinking, Study Says](http://www.wsj.com/articles/antarctic-ice-shelves-are-shrinking-study-says-1427393023)
 
-[BBC](http://www.bbc.com/news/science-environment-31965454) - Antarctic ice shelf thinning speeds up
+**BBC:** [Antarctic ice shelf thinning speeds up](http://www.bbc.com/news/science-environment-31965454)
 
-[Reuters](http://uk.reuters.com/article/2015/03/26/us-science-antarctic-idUKKBN0MM2J720150326) - Study shows acceleration in decline of Antarctic ice shelves
+**Reuters:** [Study shows acceleration in decline of Antarctic ice shelves](http://uk.reuters.com/article/2015/03/26/us-science-antarctic-idUKKBN0MM2J720150326)
 
-[Climate Central](http://www.climatecentral.org/news/antarctica-ice-thinning-sea-level-rise18815) - Antarctica's Icy 'Doorstops' Thin; Rising Seas At Risk
+**Climate Central:** [Antarctica's Icy 'Doorstops' Thin; Rising Seas At Risk](http://www.climatecentral.org/news/antarctica-ice-thinning-sea-level-rise18815)
 
-[Washington Post](http://www.washingtonpost.com/news/morning-mix/wp/2015/03/27/antarcticas-floating-ice-shelves-the-doorstop-of-the-continent-may-be-melting-away/) - Antarctica's floating ice shelves, the doorstop of the continent, are melting away
+**Washington Post:** [Antarctica's floating ice shelves, the doorstop of the continent, are melting away](http://www.washingtonpost.com/news/morning-mix/wp/2015/03/27/antarcticas-floating-ice-shelves-the-doorstop-of-the-continent-may-be-melting-away/)
 
-[The Guardian](http://www.theguardian.com/environment/2015/mar/26/collapse-antarcticas-glaciers-ice-melt-sooner-than-thought-scientists-warn) - Antarctic ice shelves are melting dramatically, study finds
+**The Guardian:** [Antarctic ice shelves are melting dramatically, study finds](http://www.theguardian.com/environment/2015/mar/26/collapse-antarcticas-glaciers-ice-melt-sooner-than-thought-scientists-warn)
 
-[Scripps News (official press release)](https://scripps.ucsd.edu/news/antarctic-ice-shelves-rapidly-thinning?hash=eMh064tFrhj7yoOT2AN8e-L52mPYSl8h0SdUL4ZkKdE) - Antarctic Ice Shelves Rapidly Thinning
+**Scripps Oceanography:** [Antarctic Ice Shelves Rapidly Thinning](https://scripps.ucsd.edu/news/antarctic-ice-shelves-rapidly-thinning?hash=eMh064tFrhj7yoOT2AN8e-L52mPYSl8h0SdUL4ZkKdE)
 
-[Carbon Brief](http://www.carbonbrief.org/blog/2015/03/antarctic-ice-shelf-thinning-is-accelerating-reveals-new-study/) - Antarctic ice shelf thinning is accelerating, reveals new study
+**Carbon Brief:** [Antarctic ice shelf thinning is accelerating, reveals new study](http://www.carbonbrief.org/blog/2015/03/antarctic-ice-shelf-thinning-is-accelerating-reveals-new-study/)
 
-[New Scientist](http://www.newscientist.com/article/dn27247-major-antarctic-ice-survey-reveals-dramatic-melting.html#.VRXgEDvF_tK) - Major Antarctic ice survey reveals dramatic melting
+**New Scientist:** [Major Antarctic ice survey reveals dramatic melting](http://www.newscientist.com/article/dn27247-major-antarctic-ice-survey-reveals-dramatic-melting.html#.VRXgEDvF_tK)
 
-[Inside Climate News](http://insideclimatenews.org/news/26032015/antarcticas-rapidly-melting-edges-bode-ill-sea-level-rise-climate-change-global-warming) - Antarctica's Melting Edges Bad News for Sea Level Rise
+**Inside Climate News:** [Antarctica's Melting Edges Bad News for Sea Level Rise](http://insideclimatenews.org/news/26032015/antarcticas-rapidly-melting-edges-bode-ill-sea-level-rise-climate-change-global-warming)
 
-[The Verge](http://www.theverge.com/2015/3/26/8295169/antarctica-ice-melting-faster-study) - Antarctica's ice melt has been accelerating in the last two decades
+**The Verge:** [Antarctica's ice melt has been accelerating in the last two decades](http://www.theverge.com/2015/3/26/8295169/antarctica-ice-melting-faster-study)
 
-[Scientific American](http://www.scientificamerican.com/article/antarctica-s-ice-shelves-thin-threaten-significant-sea-level-rise/) - Antarctica's Ice Shelves Thin, Threaten Significant Sea Level Rise
+**Scientific American:** [Antarctica's Ice Shelves Thin, Threaten Significant Sea Level Rise](http://www.scientificamerican.com/article/antarctica-s-ice-shelves-thin-threaten-significant-sea-level-rise/)
 
-[NPR](http://www.npr.org/2015/03/26/395379216/big-shelves-of-antarctic-ice-melting-faster-than-scientists-thought) - Big Shelves Of Antarctic Ice Melting Faster Than Scientists Thought
+**NPR:** [Big Shelves Of Antarctic Ice Melting Faster Than Scientists Thought](http://www.npr.org/2015/03/26/395379216/big-shelves-of-antarctic-ice-melting-faster-than-scientists-thought)
 
-[KQED](http://www.kqed.org/news/story/2015/03/26/159020/big_shelves_of_antarctic_ice_melting_faster_than_scientists?source=npr&category=science) - Big Shelves Of Antarctic Ice Melting Faster Than Scientists Thought
+**KQED:** [Big Shelves Of Antarctic Ice Melting Faster Than Scientists Thought](http://www.kqed.org/news/story/2015/03/26/159020/big_shelves_of_antarctic_ice_melting_faster_than_scientists?source=npr&category=science)
 
-[Mashable](http://mashable.com/2015/03/26/antarctic-ice-melt-increasing/) - West Antarctic ice losses have surged by 70% in the last decade
+**Mashable:** [West Antarctic ice losses have surged by 70% in the last decade](http://mashable.com/2015/03/26/antarctic-ice-melt-increasing/)
 
-[Christian Science Monitor](http://www.csmonitor.com/Science/2015/0326/Antarctic-ice-shelf-melt-accelerating-study-finds) - Antarctic ice shelf melt accelerating, study finds
+**Christian Science Monitor:** [Antarctic ice shelf melt accelerating, study finds](http://www.csmonitor.com/Science/2015/0326/Antarctic-ice-shelf-melt-accelerating-study-finds)
 
-[Live Science](http://www.livescience.com/50282-antarctica-ice-shelves-rapidly-thinning.html) - Antarctica's Ice Shelves Are Thinning Fast
+**Live Science:** [Antarctica's Ice Shelves Are Thinning Fast](http://www.livescience.com/50282-antarctica-ice-shelves-rapidly-thinning.html)
 
-[Grist](http://grist.org/news/antarctica-is-basically-liquefying/) - Antarctica is basically liquefying
+**Grist:** [Antarctica is basically liquefying](http://grist.org/news/antarctica-is-basically-liquefying/)
 
-[Weather Channel](http://www.weather.com/science/environment/news/antarctic-ice-thinning-faster-than-thought) - Antarctic Ice Thinning Faster Than We Thought, New Research Shows
+**Weather Channel:** [Antarctic Ice Thinning Faster Than We Thought, New Research Shows](http://www.weather.com/science/environment/news/antarctic-ice-thinning-faster-than-thought)
 
-[YAHOO News](https://uk.news.yahoo.com/antarctic-ice-shelf-loss-quicker-180425066.html#dpLTkrC) - Antarctic ice shelf loss 'quicker'
+**YAHOO News:** [Antarctic ice shelf loss 'quicker'](https://uk.news.yahoo.com/antarctic-ice-shelf-loss-quicker-180425066.html#dpLTkrC)
 
-[Radio New Zealand](http://www.radionz.co.nz/national/programmes/saturday/audio/20172781/tim-naish-antarctic-ice-shelves) - Tim Naish: Antarctic ice shelves
+**Radio NZ:** [Tim Naish: Antarctic ice shelves](http://www.radionz.co.nz/national/programmes/saturday/audio/20172781/tim-naish-antarctic-ice-shelves)
 
-[Accu Weather](http://www.accuweather.com/en/weather-blogs/climatechange/antarctic-ice-shelves-experien/44612817) - Antarctica's Ice Shelves Experiencing Accelerated Losses
+**Accu Weather:** [Antarctica's Ice Shelves Experiencing Accelerated Losses](http://www.accuweather.com/en/weather-blogs/climatechange/antarctic-ice-shelves-experien/44612817)
 
-[TIME](http://time.com/3761064/antarctic-ice-shelves-thinning-climate-change/) - The Antarctic's Floating Ice Shelves Are Melting At an Alarming Rate
+**TIME:** [The Antarctic's Floating Ice Shelves Are Melting At an Alarming Rate](http://time.com/3761064/antarctic-ice-shelves-thinning-climate-change/)
 
-[The Science Times](http://www.sciencetimes.com/articles/4941/20150327/antarcticas-ice-shelves-melting-faster-originally-thought.htm) - Antarctica's Ice Shelves Melting Faster Than Originally Thought
+**Science Times:** [Antarctica's Ice Shelves Melting Faster Than Originally Thought](http://www.sciencetimes.com/articles/4941/20150327/antarcticas-ice-shelves-melting-faster-originally-thought.htm)
 
-[NBC](http://www.nbcsandiego.com/news/local/Antarctica-Ice-Shelves-Melting-at-Faster-Pace-Study-297742331.html) - Antarctica Ice Shelves Melting at Faster Pace: Study
+**NBC:** [Antarctica Ice Shelves Melting at Faster Pace: Study](http://www.nbcsandiego.com/news/local/Antarctica-Ice-Shelves-Melting-at-Faster-Pace-Study-297742331.html)
 
-[ST Gist](http://stgist.com/2015/03/antarctic-floating-ice-shelves-thinning-research-2409) - Antarctica Responding To Climate Change, New Study Revealed
+**ST Gist:** [Antarctica Responding To Climate Change, New Study Revealed](http://stgist.com/2015/03/antarctic-floating-ice-shelves-thinning-research-2409)
 
-[Pioneer News](http://www.piercepioneer.com/antarctica-ice-shelves-thinning-rapidly-due-to-record-warmth/39442) - Antarctica ice shelves thinning rapidly due to record warmth
+**Pioneer News:** [Antarctica ice shelves thinning rapidly due to record warmth](http://www.piercepioneer.com/antarctica-ice-shelves-thinning-rapidly-due-to-record-warmth/39442)
 
-[R&D](http://www.rdmag.com/news/2015/03/antarctic-ice-shelves-rapidly-thinning) - Antarctic ice shelves rapidly thinning
+**R&D World:** [Antarctic ice shelves rapidly thinning](http://www.rdmag.com/news/2015/03/antarctic-ice-shelves-rapidly-thinning)
 
-[Nature World News](http://www.natureworldnews.com/articles/13743/20150327/antarctic-ice-shelves-melting-faster-before-again.htm) - Antarctic Ice Shelves Are Melting Faster Than Ever Before... Again
+**Nature World News:** [Antarctic Ice Shelves Are Melting Faster Than Ever Before... Again](http://www.natureworldnews.com/articles/13743/20150327/antarctic-ice-shelves-melting-faster-before-again.htm)
 
-[Climate News Network](http://www.climatenewsnetwork.net/shrinking-of-ice-shelves-raises-sea-level-concerns/) - Shrinking of ice shelves raises sea level concerns
+**Climate News Network:** [Shrinking of ice shelves raises sea level concerns](http://www.climatenewsnetwork.net/shrinking-of-ice-shelves-raises-sea-level-concerns/)
 
-[International Business Times](http://www.ibtimes.co.uk/some-antarcticas-thinning-floating-ice-shelves-will-be-gone-100-years-1493733) - Some of Antarctica's thinning floating ice shelves 'will be gone in 100 years'
+**International Business Times:** [Some of Antarctica's thinning floating ice shelves 'will be gone in 100 years'](http://www.ibtimes.co.uk/some-antarcticas-thinning-floating-ice-shelves-will-be-gone-100-years-1493733)
 
-[Climate Wire E&E](http://www.eenews.net/climatewire/2015/03/27/stories/1060015892) - Scientists report rapid Antarctic melting, predict ice shelves could be gone 'within 100 years'
+**E&E News:** [Scientists report rapid Antarctic melting, predict ice shelves could be gone 'within 100 years'](http://www.eenews.net/climatewire/2015/03/27/stories/1060015892)
 
-[Science News](https://www.sciencenews.org/article/antarctic-ice-shelves-rapidly-melting) - Antarctic ice shelves rapidly melting
+**Science News:** [Antarctic ice shelves rapidly melting](https://www.sciencenews.org/article/antarctic-ice-shelves-rapidly-melting)
 
-[La Presse](http://www.lapresse.ca/environnement/dossiers/changements-climatiques/201503/26/01-4855850-antarctique-lepaisseur-des-glaces-alentour-nettement-reduite.php) - Antarctica: the thickness of the surrounding ice significantly reduced
+**La Presse:** [Antarctica: the thickness of the surrounding ice significantly reduced](http://www.lapresse.ca/environnement/dossiers/changements-climatiques/201503/26/01-4855850-antarctique-lepaisseur-des-glaces-alentour-nettement-reduite.php)
 
-[Nature](http://www.nature.com/nature/journal/v520/n7545/full/520009d.html) - Ice shelves shrink fast in Antarctica
+**Nature:** [Ice shelves shrink fast in Antarctica](http://www.nature.com/nature/journal/v520/n7545/full/520009d.html)
 
-[CBS News](http://www.cbsnews.com/news/antarctic-ice-shelf-thinning-rapidly-in-last-decade/) - Antarctic ice shelf thinning "rapidly" in last decade
+**CBS News:** [Antarctic ice shelf thinning "rapidly" in last decade](http://www.cbsnews.com/news/antarctic-ice-shelf-thinning-rapidly-in-last-decade/)
 
-[VICE News](https://news.vice.com/article/it-was-warmer-in-antarctica-than-in-new-york-city-last-week-and-thats-not-even-the-bad-news) - It Was Warmer in Antarctica Than in New York City Last Week - and That's Not Even the Bad News
+**VICE:** [It Was Warmer in Antarctica Than in New York City Last Week - and That's Not Even the Bad News](https://news.vice.com/article/it-was-warmer-in-antarctica-than-in-new-york-city-last-week-and-thats-not-even-the-bad-news)
 
-[Liberation](http://www.liberation.fr/sciences/2015/04/02/la-terre-perd-son-congelateur_1233821) - Climate: The Earth loses its freezer
+**Liberation:** [Climate: The Earth loses its freezer](http://www.liberation.fr/sciences/2015/04/02/la-terre-perd-son-congelateur_1233821)
 
-[San Diego Supercomputer Center](https://www.sdsc.edu/News%20Items/PR20150420_antarctic_ice.html) - SDSC Supercomputers Assist in Scripps' Thinning Antarctic Ice Study
+**San Diego Supercomputer Center** [SDSC Supercomputers Assist in Scripps' Thinning Antarctic Ice Study](https://www.sdsc.edu/News%20Items/PR20150420_antarctic_ice.html)
 
-[Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2015/06/16/mais-finas-e-quebradicas/) - Mais finas e quebradicas [Thinner and brittle] - [[pdf](https://www.dropbox.com/s/dg0kdw39e75vvih/062-063_Ant%C3%A1rtica_232.pdf?dl=0)]
+**FAPESP Research Magazine:** [Thinner and brittle](http://revistapesquisa.fapesp.br/2015/06/16/mais-finas-e-quebradicas/)
+
+<!--
+[[pdf](https://www.dropbox.com/s/dg0kdw39e75vvih/062-063_Ant%C3%A1rtica_232.pdf?dl=0)]
+-->
 
 <br/>
 <br/>
