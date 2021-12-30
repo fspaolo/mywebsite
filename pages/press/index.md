@@ -5,38 +5,62 @@ permalink: /press/index.html
 
 # Press Coverage
 
-Many of the stories include exclusive interviews given.
+News stories about my work, media interviews and comments.
 
----
+<br/>
+<br/>
 
-## Our paper in Science
+Video & Podcast
 
-Media coverage of our [*Science*](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845) paper on pervasive ice sheet loss from NASA's satellite laser mission.
+**Humanitarian AI:** [Ritwick Gupta and Fernando Paolo discuss AI + HADR and xView3](https://soundcloud.com/humanitarian-ai-today/ritwik-gupta-fernando-paolo)
+
+**Once a Scientist:** [JPL geophysicist, Fernando Paolo, on breaking stereotypes and the influence of strong women in his life](https://onceascientist.net/2020/10/29/ep36/)
+
+**Carbon Brief:** [El Niño and the Antarctic ice shelves](https://www.youtube.com/watch?v=uYQA58FcJsI)  
+
+**CBC TV News:** [NEED TO FIND VIDEO](https://www.dropbox.com/s/c92ibvu6n4ba8qo/cbcnn_newsnetwork_2018-01-08_17_35_39.mp4?dl=0)  
+
+**Scripps Oceanography:** [El Nino Impacts on Ice Shelves](https://www.youtube.com/watch?v=FUXzQv7Qg_o)  
+
+**Scripps Oceanography:** [Understanding and Protecting the Planet](https://www.youtube.com/watch?v=jN-231KVKNY&index=25&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7)  
+<!--
+[Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
+-->
+
+
+<br/>
+<br/>
+
+Papers
+
+**Eos:** [Shrinking Ice Sheets Lifted Global Sea Level 14 Millimeters](https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters)
 
 > “With the unprecedented accuracy and precision of this novel measurement system, we are now able to detect the small signals far into the ice sheet interior, as well as map out the changes over narrow glaciers on high-slope terrain around the ice sheets,” said study coauthor Fernando S. Paolo of NASA’s Jet Propulsion Laboratory. “Previous altimeters struggled with these challenges. Because we used laser measurements over a fairly long time span (about 16 years), we are getting the overall trends of ice sheet mass loss with higher confidence.”
 
--[Eos](https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters)
+**New York Times:** [A Satellite Lets Scientists See Antarctica’s Melting Like Never Before](https://www.nytimes.com/interactive/2020/04/30/climate/antarctica-ice-climate-change.html)
 
-[The New York Times](https://www.nytimes.com/interactive/2020/04/30/climate/antarctica-ice-climate-change.html) - A Satellite Lets Scientists See Antarctica’s Melting Like Never Before 
+**NASA:** [NASA Space Laser Missions Map 16 Years of Ice Sheet Loss](https://www.nasa.gov/feature/goddard/2020/nasa-space-laser-missions-map-16-years-of-ice-sheet-loss)
 
-[NASA story](https://www.nasa.gov/feature/goddard/2020/nasa-space-laser-missions-map-16-years-of-ice-sheet-loss) and [videos](https://svs.gsfc.nasa.gov/4796) - NASA Space Laser Missions Map 16 Years of Ice Sheet Loss.
+**BBC:** [Nasa space lasers track melting of Earth's ice sheets](https://www.bbc.com/news/science-environment-52479316)
 
-[BBC](https://www.bbc.com/news/science-environment-52479316) - Nasa space lasers track melting of Earth's ice sheets
+**CNN:** [Ocean warming is causing massive ice sheet loss in Greenland and Antarctica, NASA study shows](https://www.cnn.com/2020/05/01/us/nasa-ice-sheet-loss-climate-change-trnd/index.html)
 
-[CNN](https://www.cnn.com/2020/05/01/us/nasa-ice-sheet-loss-climate-change-trnd/index.html) - Ocean warming is causing massive ice sheet loss in Greenland and Antarctica, NASA study shows
+**CNBC:** [A new way of measuring ice melt in Antarctica, Greenland sounds alarm about global sea level rise](https://www.cnbc.com/2020/04/30/climate-change-antarctica-greenland-ice-melt-raised-sea-levels-by-half-inch-in-last-16-years.html)
 
-[CNBC](https://www.cnbc.com/2020/04/30/climate-change-antarctica-greenland-ice-melt-raised-sea-levels-by-half-inch-in-last-16-years.html) - A new way of measuring ice melt in Antarctica, Greenland sounds alarm about global sea level rise
+**ScienceNews:** [Greenland and Antarctica are gaining ice inland, but still losing it overall](https://www.sciencenews.org/article/greenland-antarctica-are-gaining-ice-inland-losing-melting-overall)
 
-[ScienceNews](https://www.sciencenews.org/article/greenland-antarctica-are-gaining-ice-inland-losing-melting-overall) - Greenland and Antarctica are gaining ice inland, but still losing it overall 
+**NPR:** [Antarctica And Greenland Are Losing Thousands Of Gigatons of Ice - That's A Lot](https://www.npr.org/2020/04/30/848398472/antarctica-and-greenland-are-losing-thousands-of-gigatons-of-ice-thats-a-lot)
 
-[NPR](https://www.npr.org/2020/04/30/848398472/antarctica-and-greenland-are-losing-thousands-of-gigatons-of-ice-thats-a-lot) - Antarctica And Greenland Are Losing Thousands Of Gigatons of Ice — That's A Lot 
+<!--
+[Science paper](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845)
+-->
 
----
+<br/>
+<br/>
 
-## My work in the IPCC Report on Climate Change
 
-Paolo et al. 2015 and 2018 cited multiple times in Chapters 3 and 4 of
-the United Nations's Intergovernmental Panel on Climate Change Report.
+**IPCC Report:** [Cited multiple times on Chapters 3 and 4 in
+the United Nations's Intergovernmental Panel on Climate Change](https://www.ipcc.ch/srocc/)
 
 > There is high confidence that the input of ice shelf meltwater has
 increased in the Amundsen and Bellingshausen Seas since the 1990s,
@@ -59,173 +83,106 @@ from below, especially where basal ice is in contact with warm water
 driven by sub-ice oceanic melt (thinning) of ice shelves 
 (Paolo et al., 2015; others)
 
--[IPCC Chapter 3: Polar Regions](https://www.ipcc.ch/srocc/chapter/chapter-3-2/)  
--[IPCC Chapter 4: Sea Level Rise](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
+[IPCC Chapter 3: Polar Regions](https://www.ipcc.ch/srocc/chapter/chapter-3-2/)  
+[IPCC Chapter 4: Sea Level Rise](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
 
----
+<br/>
+<br/>
 
-## Our GRL paper on ice dynamics
+**BBC:** [Climate change: Study underpins key idea in Antarctic ice loss](https://www.bbc.co.uk/news/amp/science-environment-50625396)
 
-[BBC](https://www.bbc.co.uk/news/amp/science-environment-50625396) - Climate change: Study underpins key idea in Antarctic ice loss
+**Phys.org:** [First evidence that Antarctica's thinning ice shelves are causing more ice to move from the land into the sea](https://phys.org/news/2019-12-evidence-antarctica-thinning-ice-shelves.html)
 
-[Phys.org](https://phys.org/news/2019-12-evidence-antarctica-thinning-ice-shelves.html) - First evidence that Antarctica's thinning ice shelves are causing more ice to move from the land into the sea
+**Northumbria University:** [The impact of Antarctica's thinning ice shelves](https://www.youtube.com/watch?v=wEETb9V1fZo)
 
-[Interview with lead author](https://www.youtube.com/watch?v=wEETb9V1fZo) - The impact of Antarctica's thinning ice shelves
+<!--
+**GRL:** [our paper on ice shelf dynamics](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085027)
+-->
 
----
+<br/>
+<br/>
 
-## On the role of natural climate variability
-
-> Finally, [Paolo et al. (2018)](https://www.nature.com/articles/s41561-017-0033-0) showed that the influence of El Niño events on West Antarctic glaciers could be measured by satellite observations: El Niño events tend to be correlated with both increased melting from below, and increased snowfall above, and the variations in the altitude of the ice sheet surface (varying by a few tens of cm) can be detected by satellite altimetry.
-
--[RealClimate](http://www.realclimate.org/index.php/archives/2019/08/background-on-the-role-of-natural-climate-variability-in-west-antarctic-ice-sheet-change/)
-
----
-
-## Comment on Nature Geoscience paper
-
-> “Field observations of this kind are scarce and extremely valuable,” said Fernando Paolo, a polar scientist at NASA’s Jet Propulsion Laboratory in Pasadena, Calif., not involved in the research. “The study reaffirms the importance of looking at polynyas to better understand mass exchanges between the ice shelves and the ocean.”
-
--[Eos](https://doi.org/10.1029/2019EO123031) | [Nature Geoscience](https://doi.org/10.1038/s41561-019-0356-0)
-
----
-
-## Comment on PNAS paper
-
-> "We have known from observations that the ice sheets and mountain glaciers have been losing mass at an accelerated rate over the past decade or so," Fernando Paolo, postdoctoral scholar at NASA's Jet Propulsion Laboratory, who was not involved with the study, told Newsweek. This study shows "a clear acceleration in the 25-year sea level rise, which can be linked to the accelerated ice loss."
-
--[Neewsweek](http://www.newsweek.com/sea-level-rise-has-rapidly-accelerated-1992-melting-ice-and-its-not-803326) | [PNAS](http://www.pnas.org/content/early/2018/02/06/1717312115)
-
----
-
-## Our paper in Nature Geoscience
-
-Media coverage of our [*Nature Geoscience*](https://www.nature.com/articles/s41561-017-0033-0) paper about the impact of El Nino and La Nina on West Antarctic ice shelves
+**BBC:** [El Nino's long reach to Antarctic ice](http://www.bbc.com/news/science-environment-42614412)
 
 > "That means for a short period of time you are adding the two together [gains from snowfall and loses from melting]. And that's key information to put into computer models if you want to properly represent the dynamics of these systems," explained Dr Paolo, who has now moved to the US space agency.
 
--[BBC News](http://www.bbc.com/news/science-environment-42614412)
+**Scripps News:** [New Study Reveals Strong El Niño Events Cause Large Changes in Antarctic Ice Shelves](https://scripps.ucsd.edu/news/new-study-reveals-strong-el-ni%C3%B1o-events-cause-large-changes-antarctic-ice-shelves?hash=Mgub6wrWNSGIPJ3dTa9DKUpBvuCr4qQFjhbxr0hWfVY)
 
-Videos:
+**Carbon Brief:** [El Niño causes West Antarctica’s ice shelves to gain height yet lose mass](https://www.carbonbrief.org/el-nino-causes-west-antarcticas-ice-shelves-gain-height-yet-lose-mass)
 
-* [Video interview for Carbon Brief](https://www.youtube.com/watch?v=uYQA58FcJsI)
-* [Video for the press release](https://www.youtube.com/watch?v=FUXzQv7Qg_o)
-* [TV appearance on CBC News](https://www.dropbox.com/s/c92ibvu6n4ba8qo/cbcnn_newsnetwork_2018-01-08_17_35_39.mp4?dl=0)
+**Newsweek:** [Antarctica is melting from below - and it's getting worse](http://www.newsweek.com/antarctica-melting-below-and-getting-worse-773963)
 
-Articles:
+**Earther:** [Future El Niños Could Spell Trouble For the West Antarctic Ice Sheet](https://earther.com/future-el-ninos-could-spell-trouble-for-antarcticas-mos-1821871261)
 
-[Carbon Brief](https://www.carbonbrief.org/el-nino-causes-west-antarcticas-ice-shelves-gain-height-yet-lose-mass) - El Niño causes West Antarctica’s ice shelves to gain height yet lose mass   
+**E&E News:** [More snow makes icy pole look bigger. But it's shrinking](https://www.eenews.net/climatewire/stories/1060070419/search?keyword=antarctica)
 
-[Scripps News (official press release)](https://scripps.ucsd.edu/news/new-study-reveals-strong-el-ni%C3%B1o-events-cause-large-changes-antarctic-ice-shelves?hash=Mgub6wrWNSGIPJ3dTa9DKUpBvuCr4qQFjhbxr0hWfVY) - New Study Reveals Strong El Niño Events Cause Large Changes in Antarctic Ice Shelves  
+**EurekAlert:** [New study reveals strong El Niño events cause large changes in Antarctic ice shelves](https://www.eurekalert.org/pub_releases/2018-01/uoc--nsr010418.php)
 
-[Newsweek](http://www.newsweek.com/antarctica-melting-below-and-getting-worse-773963) - Antarctica is melting from below - and it's getting worse
+**DailyMail:** [El Niño is causing the Antarctic ice shelf to melt up to ten inches every year, according to 23-year Nasa study](http://www.dailymail.co.uk/sciencetech/article-5239625/El-Nino-causes-ice-shelves-melt-shrink-size.html)
 
-[Earther](https://earther.com/future-el-ninos-could-spell-trouble-for-antarcticas-mos-1821871261) - Future El Niños Could Spell Trouble For the West Antarctic Ice Sheet
+**Phys.org:** [New study reveals strong El Nino events cause large changes in Antarctic ice shelves](https://phys.org/news/2018-01-reveals-strong-el-nino-events.html)
 
-[E&E News](https://www.eenews.net/climatewire/stories/1060070419/search?keyword=antarctica) - More snow makes icy pole look bigger. But it's shrinking
+**EuropaPress:** [Fuertes eventos de El Niño alteran plataformas de hielo en la Antártida](http://www.europapress.es/ciencia/habitat-y-clima/noticia-fuertes-eventos-nino-alteran-plataformas-hielo-antartida-20180108171726.html)
 
-[EurekAlert](https://www.eurekalert.org/pub_releases/2018-01/uoc--nsr010418.php) - New study reveals strong El Niño events cause large changes in Antarctic ice shelves
+**Environmental Research Web:** [New study reveals strong El Niño events cause large changes in Antarctic ice shelves](http://environmentalresearchweb.org/cws/article/yournews/70876)
 
-[DailyMail](http://www.dailymail.co.uk/sciencetech/article-5239625/El-Nino-causes-ice-shelves-melt-shrink-size.html) - El Niño is causing the Antarctic ice shelf to melt up to ten inches every year, according to 23-year Nasa study
+**International Business Times:** [Antarctic Ice Shelves Affected Greatly By Strong El Niño, Study Finds](http://www.ibtimes.com/antarctic-ice-shelves-affected-greatly-strong-el-nino-study-finds-2639014)
 
-[Phys.org](https://phys.org/news/2018-01-reveals-strong-el-nino-events.html) - New study reveals strong El Nino events cause large changes in Antarctic ice shelves
+**FAPESP Research Magazine:** [El Niño e o derretimento silencioso da Antártida (El Niño and the silent melting of Antarctica)](http://revistapesquisa.fapesp.br/2018/02/15/el-nino-e-o-derretimento-silencioso-da-antartida/?cat=notas)
 
-[EuropaPress](http://www.europapress.es/ciencia/habitat-y-clima/noticia-fuertes-eventos-nino-alteran-plataformas-hielo-antartida-20180108171726.html) - Fuertes eventos de El Niño alteran plataformas de hielo en la Antártida
+<!--
+[[pdf](https://www.dropbox.com/s/fa126h3fjma2c2z/012-017_notas_264.pdf?dl=0)]
+-->
 
-[Environmental Research Web](http://environmentalresearchweb.org/cws/article/yournews/70876) - New study reveals strong El Niño events cause large changes in Antarctic ice shelves
+<br/>
+<br/>
 
-[International Business Times](http://www.ibtimes.com/antarctic-ice-shelves-affected-greatly-strong-el-nino-study-finds-2639014) - Antarctic Ice Shelves Affected Greatly By Strong El Niño, Study Finds
+**Washington Post:** [This ice shelf is nearly the size of Scotland - and it could be at 'imminent risk'](http://www.washingtonpost.com/news/energy-environment/wp/2015/05/12/this-ice-shelf-is-nearly-the-size-of-scotland-and-scientists-are-worried-about-its-stability/?tid=sm_fb)
 
-[Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2018/02/15/el-nino-e-o-derretimento-silencioso-da-antartida/?cat=notas) - El Niño e o derretimento silencioso da Antártida [El Niño and the silent melting of Antarctica]. [[pdf](https://www.dropbox.com/s/fa126h3fjma2c2z/012-017_notas_264.pdf?dl=0)]
+**The Guardian:** [Thinning Antarctic ice shelf could contribute to sea level rise, says study](http://www.theguardian.com/environment/2015/may/13/thinning-antarctic-ice-shelf-could-contribute-to-sea-level-rise-says-study)
 
----
+**British Antarctic Survey:** [New study shows Antarctic ice shelf is thinning from above and below](http://www.antarctica.ac.uk/press/press_releases/press_release.php?id=2989)
 
-## Comment on Science Advances paper
+**Climate Central:** [The ABCs of Antarctic Ice Shelf Melting](http://www.climatecentral.org/news/antarctic-ice-shelf-melting-18987)
 
-> “We have little data on the ocean and ice shelf conditions in this region,” says Fernando Paolo, a geophysicist at NASA’s Jet Propulsion Laboratory in Pasadena, Calif.  But the 14-year record used in the study is still somewhat short to infer a definitive link between wind-driven upwelling and ice shelf melt, he says. Still, he adds, these new data are a welcome addition to the pool of sparse observations, supporting the idea that Totten Glacier is very sensitive to changing oceanic conditions, much like the fast-thinning glaciers in West Antarctica.
+**YAHOO News:** [Breakup fears for massive Antarctic ice shelf: study](http://news.yahoo.com/breakup-fears-massive-antarctic-ice-shelf-study-232941608.html)
 
--[ScienceNews](https://www.sciencenews.org/article/wind-may-be-driving-melting-east-antarctica-totten-glacier) | [Science Advances](http://advances.sciencemag.org/content/3/11/e1701681)
+**Carbon Brief:** [Antarctic Larsen-C ice shelf at risk of collapse, study warns](http://www.carbonbrief.org/antarctic-larsen-c-ice-shelf-at-risk-of-collapse-study-warns)
 
----
+**EuroNews:** [Melting of Larsen C ice shelf in Antarctic may raise sea levels](http://www.euronews.com/2015/05/14/larsen-c-ice-shelf-in-antarctic-poses-threat-to-the-oceans/)
 
-## Our article in The Conversation 
+**LiveScience:** [Antarctica's Ice Attacked from Above and Below](http://www.livescience.com/50815-antarctice-larsen-c-ice-melting.html)
 
-[The Conversation](https://theconversation.com/short-term-changes-in-antarcticas-ice-shelves-are-key-to-predicting-their-long-term-fate-95207) - Short-term changes in Antarctica’s ice shelves are key to predicting their long-term fate
+**CBS News:** [Antarctica is melting from above and below](http://www.cbsnews.com/news/antarctica-is-melting-from-above-and-below/)
 
-Also related:
+**Motherboard:** [A Massive Antarctic Ice Shelf Is Thinning From Two Sides and Now We Know Why](http://motherboard.vice.com/read/a-massive-antarctic-ice-shelf-is-thinning-from-two-sides-and-now-we-know-why)
 
-[Veja Magazine](http://veja.abril.com.br/ciencia/por-que-e-preciso-falar-sobre-o-iceberg-gigante-da-antartida/) - Por que é preciso falar sobre o iceberg gigante da Antártida? [Why is it necesary to talk about the gian Antarctic iceberg?]
+**International Business Times:** [Antarctica: Largest ice shelf melting fast from above and below](http://www.ibtimes.co.uk/antarctica-largest-ice-shelf-melting-fast-could-worsen-sea-level-rise-1501222)
 
----
+**BBC:** [Antarctic ice thinning from above and below](http://www.bbc.co.uk/weather/feeds/32727907)
 
-## Our work featured on the cover
+**Mashable:** [Scientists find large Antarctic ice shelves closer to collapse than they thought](http://mashable.com/2015/05/18/antarctica-ice-shelf-collapse/)
 
-Article about melting Antarctic ice featured on the cover of a science magazine for kids
+**Scientific American:** [Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse](http://www.scientificamerican.com/article/massive-antarctic-ice-shelf-faces-imminent-risk-of-collapse/)
 
-[Ciencia Hoje [Today's Science]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0) - Antartica: O que pode acontecer se o gelo derreter? [Antarctica: What could happen if the ice melts?]
+<br/>
+<br/>
 
----
-
-## Appearance in a TV commercial
-
-Brief appearance in a commercial for the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/)
-
-* [Video (English version)](https://www.youtube.com/watch?v=jN-231KVKNY&index=25&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7)  
-* [Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
-
----
-
-## Our paper in The Cryosphere
-
-[The Washington Post](http://www.washingtonpost.com/news/energy-environment/wp/2015/05/12/this-ice-shelf-is-nearly-the-size-of-scotland-and-scientists-are-worried-about-its-stability/?tid=sm_fb) - This ice shelf is nearly the size of Scotland - and it could be at 'imminent risk'
-
-[The Guardian](http://www.theguardian.com/environment/2015/may/13/thinning-antarctic-ice-shelf-could-contribute-to-sea-level-rise-says-study) - Thinning Antarctic ice shelf could contribute to sea level rise, says study
-
-[British Antarctic Survey](http://www.antarctica.ac.uk/press/press_releases/press_release.php?id=2989) - New study shows Antarctic ice shelf is thinning from above and below
-
-[Climate Central](http://www.climatecentral.org/news/antarctic-ice-shelf-melting-18987) - The ABCs of Antarctic Ice Shelf Melting
-
-[YAHOO News](http://news.yahoo.com/breakup-fears-massive-antarctic-ice-shelf-study-232941608.html) - Breakup fears for massive Antarctic ice shelf: study
-
-[Carbon Brief](http://www.carbonbrief.org/blog/2015/05/antarctic-larsen-c-ice-shelf-at-risk-of-collapse-study-warns/) - Antarctic Larsen-C ice shelf at risk of collapse, study warns
-
-[EuroNews](http://www.euronews.com/2015/05/14/larsen-c-ice-shelf-in-antarctic-poses-threat-to-the-oceans/) - Melting of Larsen C ice shelf in Antarctic may raise sea levels
-
-[LiveScience](http://www.livescience.com/50815-antarctice-larsen-c-ice-melting.html) - Antarctica's Ice Attacked from Above and Below
-
-[CBS News](http://www.cbsnews.com/news/antarctica-is-melting-from-above-and-below/) - Antarctica is melting from above and below
-
-[Motherboard](http://motherboard.vice.com/read/a-massive-antarctic-ice-shelf-is-thinning-from-two-sides-and-now-we-know-why) - A Massive Antarctic Ice Shelf Is Thinning From Two Sides and Now We Know Why
-
-[International Business Times](http://www.ibtimes.co.uk/antarctica-largest-ice-shelf-melting-fast-could-worsen-sea-level-rise-1501222) - Antarctica: Largest ice shelf melting fast from above and below
-
-[BBC Weather](http://www.bbc.co.uk/weather/feeds/32727907) - Antarctic ice thinning from above and below
-
-[Mashable](http://mashable.com/2015/05/18/antarctica-ice-shelf-collapse/) - Scientists find large Antarctic ice shelves closer to collapse than they thought
-
-[Scientific American](http://www.scientificamerican.com/article/massive-antarctic-ice-shelf-faces-imminent-risk-of-collapse/) - Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse
-
----
-
-## Massive press coverage of our paper in Science
-
-Media coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/03/25/science.aaa0940) paper on accelerating Antarctic ice shelf loss
+**Los Angeles Times:** [Antarctic ice shelves melting 70% faster, study shows](http://www.latimes.com/science/sciencenow/la-sci-sn-antarctic-ice-shelves-melting-faster-20150326-story.html)
 
 > An acceleration in the flow of massive ice sheets would add substantially to the ongoing rise of sea levels, according to Fernando Paolo, a geophysics PhD candidate at UC San Diego’s Scripps Institution of Oceanography and lead author of the study published online Thursday in the journal Science.
 
--[Los Angeles Times](http://www.latimes.com/science/sciencenow/la-sci-sn-antarctic-ice-shelves-melting-faster-20150326-story.html)
-
 [Science/AAAS News](http://news.sciencemag.org/climate/2015/03/antarctica-rapidly-losing-its-edge) - Antarctica is rapidly losing its edge
 
-[The Wall Street Journal](http://www.wsj.com/articles/antarctic-ice-shelves-are-shrinking-study-says-1427393023) - Antarctic Ice Shelves Are Shrinking, Study Says
+[Wall Street Journal](http://www.wsj.com/articles/antarctic-ice-shelves-are-shrinking-study-says-1427393023) - Antarctic Ice Shelves Are Shrinking, Study Says
 
-[BBC News](http://www.bbc.com/news/science-environment-31965454) - Antarctic ice shelf thinning speeds up
+[BBC](http://www.bbc.com/news/science-environment-31965454) - Antarctic ice shelf thinning speeds up
 
 [Reuters](http://uk.reuters.com/article/2015/03/26/us-science-antarctic-idUKKBN0MM2J720150326) - Study shows acceleration in decline of Antarctic ice shelves
 
 [Climate Central](http://www.climatecentral.org/news/antarctica-ice-thinning-sea-level-rise18815) - Antarctica's Icy 'Doorstops' Thin; Rising Seas At Risk
 
-[The Washington Post](http://www.washingtonpost.com/news/morning-mix/wp/2015/03/27/antarcticas-floating-ice-shelves-the-doorstop-of-the-continent-may-be-melting-away/) - Antarctica's floating ice shelves, the doorstop of the continent, are melting away
+[Washington Post](http://www.washingtonpost.com/news/morning-mix/wp/2015/03/27/antarcticas-floating-ice-shelves-the-doorstop-of-the-continent-may-be-melting-away/) - Antarctica's floating ice shelves, the doorstop of the continent, are melting away
 
 [The Guardian](http://www.theguardian.com/environment/2015/mar/26/collapse-antarcticas-glaciers-ice-melt-sooner-than-thought-scientists-warn) - Antarctic ice shelves are melting dramatically, study finds
 
@@ -247,17 +204,15 @@ Media coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/0
 
 [Mashable](http://mashable.com/2015/03/26/antarctic-ice-melt-increasing/) - West Antarctic ice losses have surged by 70% in the last decade
 
-[The Christian Science Monitor](http://www.csmonitor.com/Science/2015/0326/Antarctic-ice-shelf-melt-accelerating-study-finds) - Antarctic ice shelf melt accelerating, study finds
+[Christian Science Monitor](http://www.csmonitor.com/Science/2015/0326/Antarctic-ice-shelf-melt-accelerating-study-finds) - Antarctic ice shelf melt accelerating, study finds
 
 [Live Science](http://www.livescience.com/50282-antarctica-ice-shelves-rapidly-thinning.html) - Antarctica's Ice Shelves Are Thinning Fast
 
 [Grist](http://grist.org/news/antarctica-is-basically-liquefying/) - Antarctica is basically liquefying
 
-[The Weather Channel](http://www.weather.com/science/environment/news/antarctic-ice-thinning-faster-than-thought) - Antarctic Ice Thinning Faster Than We Thought, New Research Shows
+[Weather Channel](http://www.weather.com/science/environment/news/antarctic-ice-thinning-faster-than-thought) - Antarctic Ice Thinning Faster Than We Thought, New Research Shows
 
 [YAHOO News](https://uk.news.yahoo.com/antarctic-ice-shelf-loss-quicker-180425066.html#dpLTkrC) - Antarctic ice shelf loss 'quicker'
-
-[The Conversation](https://theconversation.com/shrinking-of-antarctic-ice-shelves-is-accelerating-39273) - Shrinking of Antarctic ice shelves is accelerating
 
 [Radio New Zealand](http://www.radionz.co.nz/national/programmes/saturday/audio/20172781/tim-naish-antarctic-ice-shelves) - Tim Naish: Antarctic ice shelves
 
@@ -298,3 +253,47 @@ Media coverage of our [*Science*](http://www.sciencemag.org/content/early/2015/0
 [San Diego Supercomputer Center](https://www.sdsc.edu/News%20Items/PR20150420_antarctic_ice.html) - SDSC Supercomputers Assist in Scripps' Thinning Antarctic Ice Study
 
 [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/2015/06/16/mais-finas-e-quebradicas/) - Mais finas e quebradicas [Thinner and brittle] - [[pdf](https://www.dropbox.com/s/dg0kdw39e75vvih/062-063_Ant%C3%A1rtica_232.pdf?dl=0)]
+
+<br/>
+<br/>
+
+Articles
+
+**The Conversation:** [Short-term changes in Antarctica’s ice shelves are key to predicting their long-term fate](https://theconversation.com/short-term-changes-in-antarcticas-ice-shelves-are-key-to-predicting-their-long-term-fate-95207)
+
+**The Conversation:** [Shrinking of Antarctic ice shelves is accelerating](https://theconversation.com/shrinking-of-antarctic-ice-shelves-is-accelerating-39273)
+
+**Veja Magazine:** [Why we need to talk about the gian Antarctic iceberg? (Portuguese)](http://veja.abril.com.br/ciencia/por-que-e-preciso-falar-sobre-o-iceberg-gigante-da-antartida/)
+
+**Science Today:** [Antarctica: What could happen if the ice melts? (Portuguese)](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0)
+
+<br/>
+<br/>
+
+Comments
+
+**RealClimate:** [Background on the role of natural climate variability in West Antarctic ice sheet change](https://www.realclimate.org/index.php/archives/2019/08/background-on-the-role-of-natural-climate-variability-in-west-antarctic-ice-sheet-change/)
+
+> Finally, Paolo et al. (2018) showed that the influence of El Niño events on West Antarctic glaciers could be measured by satellite observations: El Niño events tend to be correlated with both increased melting from below, and increased snowfall above, and the variations in the altitude of the ice sheet surface (varying by a few tens of cm) can be detected by satellite altimetry.
+
+**Eos:** [Warm Water Is Rapidly Eroding Antarctica’s Ross Ice Shelf](https://doi.org/10.1029/2019EO123031)
+
+> “Field observations of this kind are scarce and extremely valuable,” said Fernando Paolo, a polar scientist at NASA’s Jet Propulsion Laboratory in Pasadena, Calif., not involved in the research. “The study reaffirms the importance of looking at polynyas to better understand mass exchanges between the ice shelves and the ocean.”
+
+<!--
+[Nature Geoscience](https://doi.org/10.1038/s41561-019-0356-0)
+-->
+
+**Neewsweek:** [Sea Levels Are Surging at Faster and Faster Rates as Antarctica and Greenland Melt, Satellite Data Reveals](https://www.newsweek.com/sea-level-rise-has-rapidly-accelerated-1992-melting-ice-and-its-not-803326)
+
+> "We have known from observations that the ice sheets and mountain glaciers have been losing mass at an accelerated rate over the past decade or so," Fernando Paolo, postdoctoral scholar at NASA's Jet Propulsion Laboratory, who was not involved with the study, told Newsweek. This study shows "a clear acceleration in the 25-year sea level rise, which can be linked to the accelerated ice loss."
+
+<!--
+[PNAS](http://www.pnas.org/content/early/2018/02/06/1717312115)
+-->
+
+**ScienceNews:** [Wind may be driving the melting of East Antarctica’s largest glacier](https://www.sciencenews.org/article/wind-may-be-driving-melting-east-antarctica-totten-glacier)
+
+> “We have little data on the ocean and ice shelf conditions in this region,” says Fernando Paolo, a geophysicist at NASA’s Jet Propulsion Laboratory in Pasadena, Calif.  But the 14-year record used in the study is still somewhat short to infer a definitive link between wind-driven upwelling and ice shelf melt, he says. Still, he adds, these new data are a welcome addition to the pool of sparse observations, supporting the idea that Totten Glacier is very sensitive to changing oceanic conditions, much like the fast-thinning glaciers in West Antarctica.
+
+
