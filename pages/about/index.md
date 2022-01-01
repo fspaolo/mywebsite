@@ -6,7 +6,6 @@ permalink: /about/index.html
 # Who is Fernando?
 
 <br/>
-<br/>
 
 I'm Fernando Paolo, a Machine Learning Engineer / Climate Scientist at [Global Fishing Watch](https://www.youtube.com/watch?v=tKxCuW-WWng). I develop algorightms to analyze global feeds of satellite radar and optical imagery, and use (deep) artificial neural networks to reveal human activity at sea and associated environmental change.
 

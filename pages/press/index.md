@@ -8,7 +8,6 @@ permalink: /press/index.html
 News stories about my work, media interviews and comments.
 
 <br/>
-<br/>
 
 Video & Podcast
 

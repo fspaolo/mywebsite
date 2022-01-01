@@ -8,7 +8,6 @@ permalink: /pubs/index.html
 Peer-reviewed papers and general-audience articles.
 
 <br/>
-<br/>
 
 ## Journals
 

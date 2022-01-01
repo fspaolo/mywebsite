@@ -8,7 +8,6 @@ permalink: /research/index.html
 I study how human activities impact the ocean and the Earth's climate. I use machine learning to analyze global feeds of satellite data and reveal environmental patterns of change. I am a strong advocate of open source and open data!
 
 <br/>
-<br/>
 
 ![Image](/assets/img/xview3_banner.png)
 <!-- ![Image](/assets/img/xview3_scene.jpg) -->

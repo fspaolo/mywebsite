@@ -6,7 +6,6 @@ permalink: /research/ms.html
 # M.S. Thesis
 
 <br/>
-<br/>
 
 ## Satellite altimetry and shipborne gravimetry on the integrated representation of the gravity field along the Brazilian coast
 

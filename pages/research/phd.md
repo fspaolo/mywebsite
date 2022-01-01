@@ -6,7 +6,6 @@ permalink: /research/phd.html
 # Ph.D. Thesis
 
 <br/>
-<br/>
 
 ## Interannual and decadal variations of Antarctic ice shelves using multi-mission satellite radar altimetry, and links with oceanic and atmospheric forcings
 

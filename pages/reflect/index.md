@@ -6,7 +6,6 @@ permalink: /reflect/index.html
 # To Reflect About
 
 <br/>
-<br/>
 
 [Journey and destination](journey.html)  
 [The path of aloneness](aloneness.html)  
