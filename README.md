@@ -1,15 +1,15 @@
 # fspaolo.net
 
-    Code for my personal website.
+My personal website's code.
 
-# Set URL
+## Set URL
 
     cp CNAME docs/
 
-# Edit style
+## Edit style
 
     assets/sass/style.scss
 
-# Edit layout
+## Edit layout
 
     _include/layout.html
