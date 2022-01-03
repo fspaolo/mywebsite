@@ -12,7 +12,7 @@ I study how human activities impact the ocean and the Earth's climate. I use mac
 ![Image](/assets/img/xview3_banner.png)
 <!-- ![Image](/assets/img/xview3_scene.jpg) -->
 
-**xView3 challenge:** Fighting illegal, unreported, and unregulated fishing with machine learning.
+**xView3 computer vision challenge:** Fighting illegal, unreported, and unregulated fishing with machine learning.
 
 Many vessels engaged in IUU fishing and other criminal activity turn off their automatic identification system to evade detection. The xView3 Challenge is a global call for skilled developers to submit machine learning algorithms capable of automatically detecting and characterizing these "dark vessels" in synthetic aperture radar (SAR) satellite imagery. We have developed the largest publicly available SAR dataset for training machine learning models. Checkout the [challenge](https://iuu.xview.us/)
 
@@ -30,7 +30,7 @@ State-of-the-art ice-sheet surface elevation change for Antarctica and Greenland
 
 ![Image](/assets/img/itslive-antarctica.png)
 
-**JPL ITS_LIVE:** NASA MEaSUREs Inter-mission Time Series of Land Ice Velocity and Elevation (ITSLIVE).
+**Ice sheet flow:** NASA MEaSUREs Inter-mission Time Series of Land Ice Velocity and Elevation (ITS_LIVE).
 
 We will accelerate ice sheet and glacier change research by producing a globally-comprehensive and temporally dense multi-sensor record of land ice and ice shelf velocity and elevation, updated in near-real time as new data become available. Such a record is not presently available to the community, slowing scientific discovery from these information-rich data streams. Checkout the [project](https://its-live.jpl.nasa.gov/)
 
@@ -49,7 +49,7 @@ Confined ice shelves restrain the flow of upstream ice streams and glaciers. Thi
 
 ![Image](/assets/img/captoolkit-readme.png)
 
-**CAP-Toolkit:** JPL Cryosphere Altimetry Processing Toolkit (a Python package).
+**Scientific software development:** JPL Cryosphere Altimetry Processing Toolkit (a Python package).
 
 Set of Python tools for processing and integrating multi-satellite and airborne altimetry data. Authors: F. Paolo (Lead developer), J. Nilsson and A. Gardner. Checkout the [project](https://github.com/fspaolo/captoolkit)
 
@@ -68,7 +68,7 @@ The ICESat-2 will measure the height of a changing Earth, one laser pulse at a t
 
 ![Image](/assets/img/ecco.png)
 
-**JPL ECCO:** Estimating the Circulation and Climate of the Ocean (ECCO).
+**Ocean circulation:** Estimating the Circulation and Climate of the Ocean (ECCO).
 
 The ECCO consortium is directed at making the best possible estimates of ocean circulation and its role in climate. Solutions are obtained by combining state-of-the-art ocean circulation models with nearly complete global ocean data sets in a physically and statistically consistent manner. Products are being utilized to understanding ocean variability, biological cycles, coastal physics, and geodesy, and are available for general applications. Read [more](https://ecco.jpl.nasa.gov//)
 
