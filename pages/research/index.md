@@ -12,7 +12,7 @@ I study how human activities impact the ocean and the Earth's climate. I use mac
 ![Image](/assets/img/xview3_banner.png)
 <!-- ![Image](/assets/img/xview3_scene.jpg) -->
 
-**xView3 computer vision challenge:** Fighting illegal, unreported, and unregulated fishing with machine learning.
+**Computer vision challenge:** Fighting illegal, unreported, and unregulated fishing with machine learning.
 
 Many vessels engaged in IUU fishing and other criminal activity turn off their automatic identification system to evade detection. The xView3 Challenge is a global call for skilled developers to submit machine learning algorithms capable of automatically detecting and characterizing these "dark vessels" in synthetic aperture radar (SAR) satellite imagery. We have developed the largest publicly available SAR dataset for training machine learning models. Checkout the [challenge](https://iuu.xview.us/)
 
