@@ -51,7 +51,7 @@ Confined ice shelves restrain the flow of upstream ice streams and glaciers. Thi
 
 **Scientific software development:** JPL Cryosphere Altimetry Processing Toolkit (a Python package).
 
-Set of Python tools for processing and integrating multi-satellite and airborne altimetry data. Authors: F. Paolo (Lead developer), J. Nilsson and A. Gardner. Checkout the [project](https://github.com/fspaolo/captoolkit)
+Set of Python tools for processing and integrating multi-satellite and airborne altimetry data. Authors: F. Paolo (Lead developer), J. Nilsson and A. Gardner. Checkout the [project](https://github.com/nasa-jpl/captoolkit)
 
 <br/>
 <br/>
