@@ -37,7 +37,7 @@ Sun X., J.B. Abshire., A.A. Borsa, H.A. Fricker., D. Yi, J.P. DiMarzio, **F.S. P
 
 Roberts J., B.K. Galton-fenzi, **F.S. Paolo**, C. Donnelly, D.E. Gwyther, L. Padman, D. Young, R. Warner, J. Greenbaum, H.A. Fricker, A.J. Payne, S. Cornford, A.L. Brocq, T.V. Ommen, D. Blankenship, M. Siegert, Ocean forced variability of Totten Glacier mass loss, [Geological Society, London, Special Publications (2017)](https://dx.doi.org/10.1144/SP461.6)
 
-**Paolo F.S**, H.A. Fricker, L. Padman, Constructing improved decadal records of Antarctic ice-shelf height change from multiple satellite radar altimeters, [Remote Sensing of Environment (2016)](http://dx.doi.org/10.1016/j.rse.2016.01.026)
+**Paolo F.S**, H.A. Fricker, L. Padman, Constructing improved decadal records of Antarctic ice-shelf height change from multiple satellite radar altimeters, [Remote Sensing of Environment (2016)](https://www.dropbox.com/s/ictv3a4bx0r9s85/AltimetryTimeSeriesRSE2016.pdf?dl=0) <!--(http://dx.doi.org/10.1016/j.rse.2016.01.026)-->
 
 Holland P.R., A. Brisbourne, H.F.J. Corr, D. McGrath, K. Purdon, J. Paden, H.A. Fricker, **F.S. Paolo**, A. Fleming, Oceanic and atmospheric forcing of Larsen C Ice-Shelf thinning, [The Cryosphere (2015)](http://dx.doi.org/10.5194/tc-9-1005-2015)
 
