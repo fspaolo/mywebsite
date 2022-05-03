@@ -2,16 +2,18 @@
 @use "variables";
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap');
 
 body {
-	font-family: 'Play', 'Open Sans', monospace;
+	//font-family: 'Play', 'Open Sans', monospace;
+    font-family: 'IBM Plex Mono', monospace;
 	background-color: var(--background-color);
     //background-color: rgb(34, 34, 34);
     //color: rgb(255, 255, 255);
 }
 
 .content {
-	padding: 1.5rem;
+	padding: 2rem;
 	max-width: var(--page-width);
 	margin: 0; // auto;
 }
@@ -20,19 +22,26 @@ h1 {
 	padding-bottom: 1.2rem;
     font-size: 2.1em;
     //font-weight: bold;
+    letter-spacing: -1px;
 }
 
 h2 {
 	padding-bottom: 1rem;
-	font-size: 1rem;
-    font-weight: bold;
+	//font-size: 1rem;
+	font-size: .875rem;
+    //font-weight: bold;
+    color: var(--header-color);
+}
+h2:before {
+   content: "# ";
 }
 
 p,
 ul {
-	font-size: 1rem;
-	margin-bottom: 1rem;
+	//font-size: 1rem;
+    font-size: .875rem;
     line-height: 1.25rem;
+	margin-bottom: 1rem;
 }
 
 ul {
@@ -44,14 +53,16 @@ ul {
 }
 
 .by {
-	font-size: 1rem;
+	//font-size: 1rem;
+	font-size: .875rem;
 	color: var(--byline-color);
 }
 
 .footer {
-	padding: 1.5rem;
+	//font-size: 1rem;
+	font-size: .875rem;
+	padding: 2rem;
 	padding-top: 0rem;
-	font-size: 1rem;
 	max-width: var(--page-width);
     margin: 0; // auto;
 }
@@ -62,11 +73,12 @@ blockquote {
 
 a:link,
 a:visited {
-	color: black;
+	//color: black;
+    color: #4078f2;
     text-decoration: underline;
     //text-decoration-color: gray;
-    text-underline-width: 1px;
-    text-underline-offset: 3px;
+    //text-underline-width: 1px;
+    //text-underline-offset: 3px;
 }
 
 hr {
