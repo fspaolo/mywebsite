@@ -9,7 +9,7 @@ News stories about my work, media interviews and comments.
 
 <br/>
 
-Video & Podcast
+## Videos & Podcasts
 
 **Humanitarian AI:** [Ritwick Gupta and Fernando Paolo discuss AI + HADR and xView3](https://soundcloud.com/humanitarian-ai-today/ritwik-gupta-fernando-paolo)
 
@@ -17,7 +17,9 @@ Video & Podcast
 
 **Carbon Brief:** [El Niño and the Antarctic ice shelves](https://www.youtube.com/watch?v=uYQA58FcJsI)  
 
-**CBC TV News:** [NEED TO FIND VIDEO](https://www.dropbox.com/s/c92ibvu6n4ba8qo/cbcnn_newsnetwork_2018-01-08_17_35_39.mp4?dl=0)  
+<!-- **CBC TV News:** [NEED TO FIND VIDEO](https://www.dropbox.com/s/c92ibvu6n4ba8qo/cbcnn_newsnetwork_2018-01-08_17_35_39.mp4?dl=0)  -->
+
+**Newsy Science:** [Antarctic Ice Is Melting Faster Than Ever](https://www.youtube.com/embed/GrHXHFdRef8)
 
 **Scripps Oceanography:** [El Nino Impacts on Ice Shelves](https://www.youtube.com/watch?v=FUXzQv7Qg_o)  
 
@@ -30,7 +32,7 @@ Video & Podcast
 <br/>
 <br/>
 
-Papers
+## Paper coverage
 
 **Eos:** [Shrinking Ice Sheets Lifted Global Sea Level 14 Millimeters](https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters)
 
@@ -260,7 +262,7 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 <br/>
 <br/>
 
-Articles
+## General audience articles
 
 **The Conversation:** [Short-term changes in Antarctica’s ice shelves are key to predicting their long-term fate](https://theconversation.com/short-term-changes-in-antarcticas-ice-shelves-are-key-to-predicting-their-long-term-fate-95207)
 
@@ -273,7 +275,7 @@ Articles
 <br/>
 <br/>
 
-Comments
+## External comments
 
 **RealClimate:** [Background on the role of natural climate variability in West Antarctic ice sheet change](https://www.realclimate.org/index.php/archives/2019/08/background-on-the-role-of-natural-climate-variability-in-west-antarctic-ice-sheet-change/)
 
