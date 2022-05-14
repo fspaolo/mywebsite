@@ -5,7 +5,7 @@ permalink: /research/index.html
 
 # Research Projects
 
-I study how human activities impact the ocean and the Earth's climate. I use machine learning to analyze massive data streams from satellite constellations (imagery, altimetry, AIS) and search for patterns of change in the physical world. I am a strong advocate of open source and open data!
+I study how human activities impact the ocean and the Earth's climate. I use machine learning algorithms to analyze massive data streams from satellite constellations (imagery, altimetry, AIS) and search for patterns of change in the physical world. I am a strong advocate of open source and open data!
 
 <br/>
 
@@ -14,7 +14,7 @@ I study how human activities impact the ocean and the Earth's climate. I use mac
 
 **Global vessel traffic:** Billions of vessel positions from satellite AIS analyzed to reveal vessel traffic patterns.
 
-Every day we download and process more than 20 million data points from satellite AIS, giving us the positions of hundreds of thousands of vessels in the world. This map shows all vessels carrying AIS, and not just fishing vessels, and is created from billions of GPS coordinates. You can see the shipping lanes criss across the globe, and the hotspots (bright areas) along the coast with excessively high vessel activity. [Read more](https://globalfishingwatch.org/data/ais-for-safety-and-tracking-a-brief-history/)
+Every day we download and process more than 20 million data points from satellite AIS, giving us the positions of hundreds of thousands of vessels in the world. This map shows all vessels carrying AIS, fishing and non-fishing, and is created from billions of GPS coordinates. You can see the shipping lanes crisis across the globe, and the hotspots (bright areas) along the coast with excessively high vessel activity. [Read more](https://globalfishingwatch.org/data/ais-for-safety-and-tracking-a-brief-history/)
 
 <br/>
 <br/>
