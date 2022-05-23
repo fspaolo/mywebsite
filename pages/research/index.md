@@ -5,7 +5,7 @@ permalink: /research/index.html
 
 # Research Projects
 
-I study how human activities impact our ocean and the Earth's climate. I use machine learning algorithms to analyze petabytes of data from satellite constellations (imagery, altimetry, AIS) and search for patterns of change in the physical world. I am a strong advocate of open source and open data!
+I study how human activities impact our ocean and the Earth's climate. I develop machine learning algorithms to analyze petabytes of data from satellite constellations (imagery, altimetry, AIS) and search for patterns of change in the physical world. I am a strong advocate of open source and open data!
 
 <br/>
 
