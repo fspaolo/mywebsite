@@ -5,7 +5,7 @@ permalink: /research/index.html
 
 # Research Projects
 
-I study how human activities impact our ocean and the Earth's climate. I use machine learning algorithms to analyze petabytes of data from satellite constellations (imagery, altimetry, GPS) and search for patterns of change in the physical world. I am a strong advocate of open source and open data!
+I study how human activities impact our ocean and the Earth's climate. I use machine learning algorithms to analyze petabytes of data from satellite constellations (imagery, altimetry, AIS) and search for patterns of change in the physical world. I am a strong advocate of open source and open data!
 
 <br/>
 
@@ -69,7 +69,7 @@ Set of Python tools for processing and integrating multi-satellite and airborne 
 
 ![Image](/assets/img/icesat2.png)
 
-**ICESat-2 mission:** NASA Ice, Cloud and Elevation Satellite 2.
+**ICESat-2 laser mission:** NASA Ice, Cloud and Elevation Satellite 2.
 
 The ICESat-2 will measure the height of a changing Earth, one laser pulse at a time, 10,000 laser pulses a second. Launched September 15, 2018, ICESat-2 carries a photon-counting laser altimeter that will allow scientists to measure the elevation of ice sheets, glaciers, sea ice and more - all in unprecedented detail. Our planet's frozen and icy areas, called the cryosphere, are a key focus of NASA's Earth science research. ICESat-2 will help scientists investigate why, and how much, our cryosphere is changing in a warming climate. The satellite will also measure heights across Earth's temperate and tropical regions, and take stock of the vegetation in forests worldwide. [Read more](https://icesat-2.gsfc.nasa.gov/)
 
@@ -79,7 +79,7 @@ The ICESat-2 will measure the height of a changing Earth, one laser pulse at a t
 
 ![Image](/assets/img/ecco.png)
 
-**Ocean circulation:** Estimating the Circulation and Climate of the Ocean (ECCO).
+**Global ocean circulation:** Estimating the Circulation and Climate of the Ocean (ECCO).
 
 The ECCO consortium is directed at making the best possible estimates of ocean circulation and its role in climate. Solutions are obtained by combining state-of-the-art ocean circulation models with nearly complete global ocean data sets in a physically and statistically consistent manner. Products are being utilized to understanding ocean variability, biological cycles, coastal physics, and geodesy, and are available for general applications. [Read more](https://ecco.jpl.nasa.gov//)
 
@@ -133,6 +133,6 @@ Eighteen years of changes in the Antarctic ice shelves. Color map is rate of thi
 
 ![Image](/assets/img/gravity_model.png)
 
-**Marine gravity field:** Satellite-derived sea surface gradients and shipborne gravimetry for an integrated marine gravity field.
+**Marine gravity field:** Satellite-derived sea surface gradient and shipborne gravimetry for an integrated marine gravity field.
 
 Integrated gravity models constructed using sea surface gradients (slopes), derived from satellite altimetry (Geosat and ERS-1), and marine gravity data from ships along the Brazilian coast: (left) free-air gravity anomaly, (right) geoid height. Unlike spectral methods, a deterministic approach, the least squares collocation method, a stochastic approach, presents a lower content of high-frequency noise in the predicted gravity anomalies. [Checkout the paper in J. of Geodynamics](http://www.sciencedirect.com/science/article/pii/S0264370710000803)
