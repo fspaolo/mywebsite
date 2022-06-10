@@ -9,6 +9,16 @@ I study how human activities impact the global ocean and the Earth's climate. I 
 
 <br/>
 
+![Image](/assets/img/dark-vessel-density2.png)
+
+**Dark vessel activity:** Satellite radar imagery reveals vessels not broadcasting their position (orange) compared to vessels that appear in public monitoring systems (yellow).
+
+Powered by petabytes of satellite data and machine learning, the first ever global map of previously undetected dark fleets is now available for free to anyone in the world with an internet connection, helping arm authorities, researchers and the public alike with the power to monitor vessel activity in all coastal waters, identify dark fleet patterns and build the necessary understanding to quantify threats to the ocean. [See interactive map](https://tinyurl.com/4hcfcu4n)
+
+<br/>
+<br/>
+
+
 ![Image](/assets/img/ais_indo_pacific.png)
 <!-- ![Image](/assets/img/xview3_scene.jpg) -->
 
