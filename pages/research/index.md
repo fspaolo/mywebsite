@@ -120,6 +120,7 @@ Developing a detailed history of Antarctic ice-shelf mass and stress changes on 
 
 Representation of our multi-referenced time series approach. (Left) individual time series of cumulative change. (Right) diagram representing the matrix formed with the time series on the left (one time series per row). From top to bottom is depicted the process of forming single-grid-cell frequency-average time series. [Checkout the paper in Remote Sens. Environ.](https://www.sciencedirect.com/science/article/pii/S0034425716300268)
 
+<!--
 <br/>
 <br/>
 
@@ -128,6 +129,7 @@ Representation of our multi-referenced time series approach. (Left) individual t
 **Radar response analysis:** Large-scale analysis and statistical modeling applied to Earth observations.
 
 Estimated radar extinction coefficient (ke) over the Antarctic Ice Sheet. Values of ke shown are the averages from all ERS-1 Phase C (May 1992 to December 1993) ocean-mode waveforms acquired over the ice sheet, derived using a surface/volume retracking algorithm (Davis & Moore, 1993). Note that ke (which is inversely related to the penetration depth) is generally higher over the ice shelves than on the interior plateau. [Checkout my PhD Dissertation](http://fspaolo.net/work/phd/)
+-->
 
 <br/>
 <br/>
