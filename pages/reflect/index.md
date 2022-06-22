@@ -7,6 +7,7 @@ permalink: /reflect/index.html
 
 <br/>
 
+[I see mountains as mountains](mountains.html)  
 [Journey and destination](journey.html)  
 [The path of aloneness](aloneness.html)  
 [Your life is your life](yourlife.html)  
