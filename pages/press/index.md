@@ -9,7 +9,7 @@ News stories about my work, media interviews and comments.
 
 <br/>
 
-## Videos & Podcasts
+## Video & Podcast interviews
 
 **Humanitarian AI:** [Ritwick Gupta and Fernando Paolo discuss AI + HADR and xView3](https://soundcloud.com/humanitarian-ai-today/ritwik-gupta-fernando-paolo)
 
@@ -32,7 +32,7 @@ News stories about my work, media interviews and comments.
 <br/>
 <br/>
 
-## Paper coverage
+## Paper's media coverage
 
 **Eos:** [Shrinking Ice Sheets Lifted Global Sea Level 14 Millimeters](https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters)
 

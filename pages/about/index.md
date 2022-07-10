@@ -7,15 +7,15 @@ permalink: /about/index.html
 
 <br/>
 
-I'm Fernando Paolo, a Machine Learning Engineer and Climate Scientist at [Global Fishing Watch](https://www.youtube.com/watch?v=tKxCuW-WWng). I develop algorightms to analyze global feeds of satellite radar and optical imagery, and use (deep) artificial neural networks to reveal human activity at sea and related environmental change.
+I'm Fernando Paolo, a Machine Learning Engineer and Climate Scientist at [Global Fishing Watch](https://www.youtube.com/watch?v=tKxCuW-WWng), an international nonprofit tech. I develop algorightms to analyze global feeds of satellite radar and optical imagery, and use (deep) artificial neural networks to reveal human activity at sea and related environmental change.
 
-Before that, I worked at the NASA Jet Propulsion Lab, studying the role of the Cryosphere in the Earth's climate system and its implication on future sea-level change. I used high-performance computing to process and analyze three decades of radar and laser satellite measurements over the Earth's ice sheets.
+Before that, I worked at [NASA's Jet Propulsion Lab](https://www.jpl.nasa.gov/), studying the role of the Cryosphere in the Earth's climate system and its implication on future sea-level change. I used high-performance computing to analyze three decades of radar and laser satellite measurements and quantify ice sheet loss.
 
-Before that, I got my PhD in Geophysics from the University of California, San Diego, where I developed statistical methods for satellite data fusion and change detection to study ice-ocean-atmosphere interactions.
+Before that, I got my PhD in Geophysics from the [University of California](https://scripps.ucsd.edu/), San Diego, where I developed statistical methods for satellite data fusion and change detection to study ice-ocean-atmosphere interactions.
 
 Before that, I got my MS in Geophysics working with space geodesy, combining spaceborne and shipborne measurements to improve the derivation of the Earth's gravity field using inverse methods.
 
-Before that, I got interested in climate science during my undergraduate years while taking part in an Antarctic expedition. I studied Oceanography at the University of Sao Paulo, Brazil, participating in several scientific cruises to the South Atlantic Ocean.
+Before that, I got interested in climate science during my undergraduate years while taking part in an Antarctic expedition. I studied Oceanography at the [University of Sao Paulo](https://www5.usp.br/), Brazil, participating in several scientific cruises to the South Atlantic Ocean.
 
 [My CV](https://www.dropbox.com/s/in7nxestumaripg/Paolo-CV.pdf?dl=0) / [GitHub](https://github.com/fspaolo) / [MS Thesis](/research/ms.html) / [PhD Dissertation](/research/phd.html)
 
