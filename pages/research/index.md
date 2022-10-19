@@ -9,6 +9,21 @@ I study how human activities impact the global ocean and the Earth's climate. I 
 
 <br/>
 
+![Image](/assets/img/sar-samples.png)
+
+**Fighting illegal fishing:** Detecting Dark Fishing Activity Using
+Synthetic Aperture Radar Imagery and ML.
+
+Unsustainable fishing practices worldwide pose a major threat to marine resources
+and ecosystems. Identifying vessels that do not show up in conventional monitoring systems—known as “dark vessels”—is key to managing and securing the health
+of marine environments. With the rise of satellite-based synthetic aperture radar
+(SAR) imaging and modern machine learning (ML), it is now possible to automate
+detection of dark vessels day or night, under all-weather conditions. [Checkout the paper](https://openreview.net/forum?id=PfyWdxM-S4N)
+
+<br/>
+<br/>
+
+
 ![Image](/assets/img/dark-vessel-density2.png)
 
 **Dark vessel activity:** Satellite radar imagery reveals vessels not broadcasting their position (orange) compared to vessels that appear in public monitoring systems (yellow).
