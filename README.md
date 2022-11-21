@@ -1,4 +1,4 @@
-# fspaolo.net
+# fpaolo.com
 
 My personal website's code.
 

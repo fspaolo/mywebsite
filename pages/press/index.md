@@ -32,7 +32,7 @@ News stories about my work, media interviews and comments.
 <br/>
 <br/>
 
-## Paper's media coverage
+## Media coverage on papers
 
 **Eos:** [Shrinking Ice Sheets Lifted Global Sea Level 14 Millimeters](https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters)
 
