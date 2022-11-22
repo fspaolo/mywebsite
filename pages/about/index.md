@@ -7,7 +7,7 @@ permalink: /about/index.html
 
 <br/>
 
-I'm Fernando Paolo, a Machine Learning Engineer and Climate Scientist at [Global Fishing Watch](https://www.youtube.com/watch?v=tKxCuW-WWng), an international nonprofit tech. I develop algorightms to analyze global feeds of satellite radar and optical imagery, and use (deep) artificial neural networks to reveal human activity at sea and related environmental change.
+I'm Fernando Paolo, a Machine Learning Engineer and Climate Scientist at [Global Fishing Watch](https://www.youtube.com/watch?v=tKxCuW-WWng), an international nonprofit organization. I develop algorightms to analyze global feeds of satellite radar and optical imagery, and use (deep) artificial neural networks to reveal human activity at sea and related environmental change.
 
 Before that, I worked at [NASA's Jet Propulsion Lab](https://www.jpl.nasa.gov/), studying the role of the Cryosphere in the Earth's climate system and its implication on future sea-level change. I used high-performance computing to analyze three decades of radar and laser satellite measurements and quantify ice sheet loss.
 
