@@ -21,13 +21,13 @@ body {
 h1 {
     //font-size: 1.5em;
     //letter-spacing: -1.5px;
-	font-size: .875rem;
+	font-size: .9rem;
     font-weight: bold;
 	padding-bottom: 1.2rem;
 }
 
 h2 {
-	font-size: .875rem;
+	font-size: .9rem;
     //font-weight: bold;
     color: var(--header-color);
 	padding-bottom: 1.2rem;
@@ -39,7 +39,7 @@ h2:before {
 p,
 ul {
 	//font-size: 1rem;
-    font-size: .875rem;
+    font-size: .9rem;
     line-height: 1.25rem;
 	margin-bottom: 1.2rem;
 }
@@ -54,13 +54,13 @@ ul {
 
 .by {
 	//font-size: 1rem;
-	font-size: .875rem;
+	font-size: .9rem;
 	color: var(--byline-color);
 }
 
 .footer {
 	//font-size: 1rem;
-	font-size: .875rem;
+	font-size: .9rem;
 	padding: 2rem;
 	padding-top: 0rem;
 	max-width: var(--page-width);
