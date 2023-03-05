@@ -1,35 +1,28 @@
 @use "reset";
 @use "variables";
-//@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
-//@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap');
 
 body {
-	//font-family: 'Play', 'Open Sans', monospace;
     font-family: 'IBM Plex Mono', monospace;
 	background-color: var(--background-color);
-    //background-color: rgb(34, 34, 34);
-    //color: rgb(255, 255, 255);
 }
 
 .content {
 	padding: 2rem;
 	max-width: var(--page-width);
-	margin: 0; // auto;
+	margin: 0;
 }
 
 h1 {
-    //font-size: 1.5em;
-    //letter-spacing: -1.5px;
-	font-size: .9rem;
+	font-size: var(--font-size);
     font-weight: bold;
 	padding-bottom: 1.2rem;
 }
 
 h2 {
-	font-size: .9rem;
-    //font-weight: bold;
+	font-size: var(--font-size);
     color: var(--header-color);
+	padding-top: 1.2rem;
 	padding-bottom: 1.2rem;
 }
 h2:before {
@@ -38,8 +31,7 @@ h2:before {
 
 p,
 ul {
-	//font-size: 1rem;
-    font-size: .9rem;
+    font-size: var(--font-size);
     line-height: 1.25rem;
 	margin-bottom: 1.2rem;
 }
@@ -53,18 +45,16 @@ ul {
 }
 
 .by {
-	//font-size: 1rem;
-	font-size: .9rem;
+	font-size: var(--font-size);
 	color: var(--byline-color);
 }
 
 .footer {
-	//font-size: 1rem;
-	font-size: .9rem;
+	font-size: var(--font-size);
 	padding: 2rem;
 	padding-top: 0rem;
 	max-width: var(--page-width);
-    margin: 0; // auto;
+    margin: 0;
 }
 
 blockquote {
@@ -73,12 +63,8 @@ blockquote {
 
 a:link,
 a:visited {
-	//color: black;
     color: var(--link-color);
     text-decoration: underline;
-    //text-decoration-color: gray;
-    //text-underline-width: 1px;
-    //text-underline-offset: 3px;
 }
 
 hr {

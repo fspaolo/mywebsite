@@ -7,8 +7,6 @@ permalink: /pubs/index.html
 
 Peer-reviewed papers and general-audience articles.
 
-<br/>
-
 ## Journals
 
 Nilsson J., A.S. Gardner, **F.S. Paolo**, Elevation Change of the Antarctic Ice Sheet: 1985 to 2020, (in review)
@@ -49,9 +47,6 @@ Bicego M.C., E. Zanardi-Lamardo, S. Taniguchi, C.C. Martins, D.A.M. da Silva, S.
 
 **Paolo F.S.**, M.M. Mahiques, Utilizacao de metodos acusticos em estudos de dinamica costeira: Exemplo na desembocadura lagunar de Cananeia [Use of acoustic methods in coastal dynamics studies: Example in the Cananeia lagoonal mouth], [Brazilian Journal of Geophysics (2008)](http://dx.doi.org/10.1590/S0102-261X2008000200008)
 
-<br/>
-<br/>
-
 
 ## Articles
 
@@ -63,9 +58,6 @@ Padman L., **F.S. Paolo**, H.A. Fricker, Confused about ice shelf decay and sea 
 
 **Paolo F.S.**, E.C. Molina, Sera que todo o gelo da Antartica pode derreter? [Could all the ice of Antarctica melt?], [Ciencia Hoje (2015)](http://chc.cienciahoje.uol.com.br/multimidia/revistas/reduzidas//268/?revista=268#8) [[pdf]](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0)
 
-<br/>
-<br/>
-
 
 ## Theses
 
@@ -74,9 +66,6 @@ Padman L., **F.S. Paolo**, H.A. Fricker, Confused about ice shelf decay and sea 
 **Paolo F.S.** (2009), Satellite altimetry and shipborne gravimetry on the integrated representation of the gravity field along the Brazilian coast, *M.S. Thesis*, University of Sao Paulo, 73 pages [in Portuguese]. [[web]](http://fspaolo.net/research/ms.html) [[pdf]](http://www.iag.usp.br/pos/sites/default/files/m_fernando_s_paolo.pdf)
 
 **Paolo F.S.** (2007), Study of bottom morphodynamics of the Cananei Estuary using geophysical methods, *B.S. Thesis*, University of Sao Paulo, 61 pages [in Portuguese]. 
-
-<br/>
-<br/>
 
 
 ## Datasets

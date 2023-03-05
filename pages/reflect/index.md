@@ -5,8 +5,6 @@ permalink: /reflect/index.html
 
 # To Reflect About
 
-<br/>
-
 [I see mountains as mountains](mountains.html)  
 [Journey and destination](journey.html)  
 [The path of aloneness](aloneness.html)  

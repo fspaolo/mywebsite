@@ -7,8 +7,6 @@ permalink: /press/index.html
 
 News stories about my work, media interviews and comments.
 
-<br/>
-
 ## Video & Podcast interviews
 
 **Humanitarian AI:** [Ritwick Gupta and Fernando Paolo discuss AI + HADR and xView3](https://soundcloud.com/humanitarian-ai-today/ritwik-gupta-fernando-paolo)
@@ -27,10 +25,6 @@ News stories about my work, media interviews and comments.
 <!--
 [Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
 -->
-
-
-<br/>
-<br/>
 
 ## Media coverage on papers
 
@@ -56,9 +50,7 @@ News stories about my work, media interviews and comments.
 [Science paper](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845)
 -->
 
-<br/>
-<br/>
-
+.
 
 **IPCC Report:** [Cited multiple times on Chapters 3 and 4 in
 the United Nations's Intergovernmental Panel on Climate Change](https://www.ipcc.ch/srocc/)
@@ -87,8 +79,7 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 [IPCC Chapter 3: Polar Regions](https://www.ipcc.ch/srocc/chapter/chapter-3-2/)  
 [IPCC Chapter 4: Sea Level Rise](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
 
-<br/>
-<br/>
+.
 
 **BBC:** [Climate change: Study underpins key idea in Antarctic ice loss](https://www.bbc.co.uk/news/amp/science-environment-50625396)
 
@@ -100,8 +91,7 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 **GRL:** [our paper on ice shelf dynamics](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085027)
 -->
 
-<br/>
-<br/>
+.
 
 **BBC:** [El Nino's long reach to Antarctic ice](http://www.bbc.com/news/science-environment-42614412)
 
@@ -135,8 +125,7 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 [[pdf](https://www.dropbox.com/s/fa126h3fjma2c2z/012-017_notas_264.pdf?dl=0)]
 -->
 
-<br/>
-<br/>
+.
 
 **Washington Post:** [This ice shelf is nearly the size of Scotland - and it could be at 'imminent risk'](http://www.washingtonpost.com/news/energy-environment/wp/2015/05/12/this-ice-shelf-is-nearly-the-size-of-scotland-and-scientists-are-worried-about-its-stability/?tid=sm_fb)
 
@@ -166,8 +155,7 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 
 **Scientific American:** [Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse](http://www.scientificamerican.com/article/massive-antarctic-ice-shelf-faces-imminent-risk-of-collapse/)
 
-<br/>
-<br/>
+.
 
 **Los Angeles Times:** [Antarctic ice shelves melting 70% faster, study shows](http://www.latimes.com/science/sciencenow/la-sci-sn-antarctic-ice-shelves-melting-faster-20150326-story.html)
 
@@ -259,9 +247,6 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 [[pdf](https://www.dropbox.com/s/dg0kdw39e75vvih/062-063_Ant%C3%A1rtica_232.pdf?dl=0)]
 -->
 
-<br/>
-<br/>
-
 ## General audience articles
 
 **The Conversation:** [Short-term changes in Antarctica’s ice shelves are key to predicting their long-term fate](https://theconversation.com/short-term-changes-in-antarcticas-ice-shelves-are-key-to-predicting-their-long-term-fate-95207)
@@ -271,9 +256,6 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 **Veja Magazine:** [Why we need to talk about the gian Antarctic iceberg? (Portuguese)](http://veja.abril.com.br/ciencia/por-que-e-preciso-falar-sobre-o-iceberg-gigante-da-antartida/)
 
 **Science Today:** [Antarctica: What could happen if the ice melts? (Portuguese)](https://www.dropbox.com/s/qspgytpen50vmlz/Edicao_268_otimizado.pdf?dl=0)
-
-<br/>
-<br/>
 
 ## External comments
 
