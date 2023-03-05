@@ -1,7 +1,7 @@
 @use "reset";
 @use "variables";
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap');
 
 body {
@@ -20,7 +20,7 @@ body {
 
 h1 {
 	padding-bottom: 1.2rem;
-    font-size: 2.1em;
+    font-size: 1.5em;
     //font-weight: bold;
     letter-spacing: -1.5px;
 }
