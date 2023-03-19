@@ -5,51 +5,50 @@ permalink: /reflect/happiness.html
 
 # What is happines? 
 
-> There is no path to happiness: happiness is the path   
+There is no path to happiness: happiness is the path   
 -Gautama Buddha, around 500 BC  
 
-> Of all forms of caution, caution in love is perhaps the most fatal to true happiness  
+Of all forms of caution, caution in love is perhaps the most fatal to true happiness  
 -Bertrand Russell, early 1800s  
 
-> Happiness is the feeling that power increases - that resistance is being overcome    
+Happiness is the feeling that power increases - that resistance is being overcome    
 -Friedrich Nietzsche, late-19th century  
 
-> The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less    
+The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less    
 -Socrates, around 450 BC  
 
-> The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily    
+The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily    
 -Plato, 4th century BC  
 
-> Happiness depends upon ourselves    
+Happiness depends upon ourselves    
 -Aristotle, around 300 BC   
 
->  I have learned to seek my happiness by limiting my desires, rather than in attempting to satisfy them    
+I have learned to seek my happiness by limiting my desires, rather than in attempting to satisfy them    
 -John Stuart Mill, born in 1806  
 
-> The more man meditates upon good thoughts, the better will be his world and the world at large  
+The more man meditates upon good thoughts, the better will be his world and the world at large  
 -Confucius, around 500 BC  
 
-> The greatest blessings of mankind are within us and within our reach. A wise man is content with his lot, whatever it may be, without wishing for what he has not   
+The greatest blessings of mankind are within us and within our reach. A wise man is content with his lot, whatever it may be, without wishing for what he has not   
 -Seneca, born in 4 BC  
 
-> If you are depressed you are living in the past. If you are anxious you are living in the future. If you are at peace you are living in the present    
+If you are depressed you are living in the past. If you are anxious you are living in the future. If you are at peace you are living in the present    
 -Lao Tzu, around 600 BC  
 
-> The myriad things are complete in us. There is no greater joy than to reflect on ourselves and become sincere    
+The myriad things are complete in us. There is no greater joy than to reflect on ourselves and become sincere    
 -Mencius, around 350 BC  
 
-> Life is not a problem to be solved but a reality to be experienced    
+Life is not a problem to be solved but a reality to be experienced    
 -Soren Kierkegaard, early 19th-century  
 
-> Happiness is like a butterfly; the more you chase it, the more it will elude you, but if you turn your attention to other things, it will come and sit softly on your shoulder   
+Happiness is like a butterfly; the more you chase it, the more it will elude you, but if you turn your attention to other things, it will come and sit softly on your shoulder   
 -Henry David Thoreau, born in 1817   
 
-> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life    
+You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life    
 -Albert Camus, born in 1913  
 
-> By pleasure we mean the absence of pain in the body and trouble in the soul... It is... sober reasoning, searching out the grounds of choice and avoidance, and banishing those beliefs that lead to the tumult of the soul  
+By pleasure we mean the absence of pain in the body and trouble in the soul... It is... sober reasoning, searching out the grounds of choice and avoidance, and banishing those beliefs that lead to the tumult of the soul  
 -Epicurus, 341 BC  
 
-> Self-knowledge is no guarantee of happiness, but it is on the side of happiness and can supply the courage to fight for it     
+Self-knowledge is no guarantee of happiness, but it is on the side of happiness and can supply the courage to fight for it     
 -Simone de Beauvoir, born 1908
-

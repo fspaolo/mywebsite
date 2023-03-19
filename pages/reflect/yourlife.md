@@ -5,44 +5,44 @@ permalink: /reflect/yourlife.html
 
 # The Laughing Heart
 
-> Your life is your life
+Your life is your life
 
-> Don’t let it be clubbed into dank submission.
+Don’t let it be clubbed into dank submission.
 
-> Be on the watch.
+Be on the watch.
 
-> There are ways out.
+There are ways out.
 
-> There is a light somewhere.
+There is a light somewhere.
 
-> It may not be much light but
+It may not be much light but
 
-> It beats the darkness.
+It beats the darkness.
 
-> Be on the watch.
+Be on the watch.
 
-> The gods will offer you chances.
+The gods will offer you chances.
 
-> Know them.
+Know them.
 
-> Take them.
+Take them.
 
-> You can’t beat death but
+You can’t beat death but
 
-> You can beat death in life, sometimes.
+You can beat death in life, sometimes.
 
-> And the more often you learn to do it,
+And the more often you learn to do it,
 
-> The more light there will be.
+The more light there will be.
 
-> Your life is your life.
+Your life is your life.
 
-> Know it while you have it.
+Know it while you have it.
 
-> You are marvelous
+You are marvelous
 
-> The gods wait to delight
+The gods wait to delight
 
-> In you.
+In you.
 
 -[Charles Bukowski](https://blog.bestamericanpoetry.com/the_best_american_poetry/2011/09/bukowski.html)
