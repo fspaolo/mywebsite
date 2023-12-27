@@ -9,6 +9,18 @@ I study how human activities impact the global ocean and the Earth's climate. I 
 
 <br/>
 
+![Image](/assets/img/audacious.jpg)
+
+**Open Ocean Project:** Transforming ocean management by making the invisible visible.
+
+When it comes to ocean governance, there lies a simple truth: We can't manage what we can't see. Most of the ocean has gone unobserved and unmapped—a world of unknown. And without a comprehensive picture of what goes on beyond the horizon, we are powerless to make meaningful change But satellites are giving us eyes from space. Now, under the open ocean project, we will use these satellites to shine a light on all industrial human activity at sea–and make it freely available to the world.
+
+[Checkout the project](https://globalfishingwatch.org/open-ocean-project/) and [watch the video](https://www.youtube.com/watch?v=o-xit35X6ec)
+
+<br/>
+<br/>
+
+
 ![Image](/assets/img/antarctica-tcd.png)
 
 **Ice shelf melting:** Widespread slowdown in thinning rates of West Antarctic ice shelves.
