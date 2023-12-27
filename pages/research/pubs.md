@@ -10,7 +10,6 @@ Smith B., H.A. Fricker, A.S. Gardner, B. Medley, J. Nilsson, **F.S. Paolo**, N. 
 
 Gudmundsson G.H., **F.S. Paolo**, S. Adusumilli, H.A. Fricker, Instantaneous Antarctic ice sheet mass loss driven by thinning ice shelves, [Geophysical Research Letters (2019)](https://dx.doi.org/10.1029/2019GL085027)
 
-
 Adusumilli S., H.A. Fricker, M.R. Siegfried, L. Padman, **F.S. Paolo**, S.R.M. Ligtenberg, Variable Basal Melt Rates of Antarctic Peninsula Ice Shelves, 1994–2016, [Geophysical Research Letters (2018)](https://dx.doi.org/10.1002/2017GL076652)
 
 Minchew B.M., G.H. Gudmundsson, A.S. Gardner, **F.S. Paolo**, H.A. Fricker, Modeling the dynamic response of outlet glaciers to observed ice-shelf thinning in the Bellingshausen Sea Sector, West Antarctica, [Journal of Glaciology (2018)](https://dx.doi.org/10.1017/jog.2018.24)
