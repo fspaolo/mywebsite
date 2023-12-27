@@ -5,7 +5,7 @@ permalink: /research/index.html
 
 # Research Projects
 
-I study how human activities impact the global ocean and the Earth's climate. I develop machine learning algorithms to analyze petabytes of satellite data (imagery, altimetry, AIS) and search for patterns of change in the physical world. I am a strong advocate of open source and open data!
+I study how human activities impact the [global ocean] and the [Earth's climate](https://www.science.org/doi/10.1126/science.aaa0940). I develop machine learning algorithms to analyze petabytes of satellite data (imagery, altimetry, AIS) and search for patterns of change in the physical world. I am a strong advocate of open source and open data!
 
 <br/>
 
@@ -13,9 +13,7 @@ I study how human activities impact the global ocean and the Earth's climate. I 
 
 **Open Ocean Project:** Transforming ocean management by making the invisible visible.
 
-When it comes to ocean governance, there lies a simple truth: We can't manage what we can't see. Most of the ocean has gone unobserved and unmapped—a world of unknown. And without a comprehensive picture of what goes on beyond the horizon, we are powerless to make meaningful change But satellites are giving us eyes from space. Now, under the open ocean project, we will use these satellites to shine a light on all industrial human activity at sea–and make it freely available to the world.
-
-[Checkout the project](https://globalfishingwatch.org/open-ocean-project/) and [watch the video](https://www.youtube.com/watch?v=o-xit35X6ec)
+When it comes to ocean governance, there lies a simple truth: We can't manage what we can't see. Most of the ocean has gone unobserved and unmapped—a world of unknown. And without a comprehensive picture of what goes on beyond the horizon, we are powerless to make meaningful change But satellites are giving us eyes from space. Now, under the open ocean project, we will use these satellites to shine a light on all industrial human activity at sea–and make it freely available to the world. [Checkout the project](https://globalfishingwatch.org/open-ocean-project/) and [watch the video](https://www.youtube.com/watch?v=o-xit35X6ec)
 
 <br/>
 <br/>
