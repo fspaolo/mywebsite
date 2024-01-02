@@ -8,6 +8,7 @@ permalink: /research/index.html
 I study how human activities impact the [global ocean](http://www.nature.com/articles/s41586-023-06825-8) and the [Earth's climate](https://www.science.org/doi/10.1126/science.aaa0940). I develop machine learning algorithms to analyze petabytes of satellite data (imagery, altimetry, AIS) and search for patterns of change in the physical world. I am a strong advocate of open source and open data!
 
 <br/>
+-
 <br/>
 
 ![Image](/assets/img/audacious.jpg)
@@ -17,6 +18,7 @@ I study how human activities impact the [global ocean](http://www.nature.com/art
 When it comes to ocean governance, there lies a simple truth: We can't manage what we can't see. Most of the ocean has gone unobserved and unmapped—a world of unknown. And without a comprehensive picture of what goes on beyond the horizon, we are powerless to make meaningful change. But satellites are giving us eyes from space. Now, under the open ocean project, we will use these satellites to shine a light on all industrial human activity at sea–and make it freely available to the world. [Checkout the project](https://globalfishingwatch.org/open-ocean-project/) and [watch the video](https://www.youtube.com/watch?v=o-xit35X6ec)
 
 <br/>
+---
 <br/>
 
 
@@ -27,6 +29,7 @@ When it comes to ocean governance, there lies a simple truth: We can't manage wh
 Antarctica's floating ice shelves modulate discharge of grounded ice into the ocean by providing a backstress. Ice shelf thinning and grounding line retreat have reduced this backstress, driving rapid drawdown of key unstable areas of the Antarctic Ice Sheet, leading to sea-level rise. If ice shelf loss continues, it may initiate irreversible glacier retreat. We used 26 years (1992–2017) of satellite-derived Antarctic ice shelf thickness, flow, and basal melt rates to construct a time-dependent dataset of ice shelf thickness and basal melt. Our data revealed an overall pattern of thinning all around Antarctica. [Checkout the paper](https://tc.copernicus.org/articles/17/3409/2023/tc-17-3409-2023.html)
 
 <br/>
+---
 <br/>
 
 
