@@ -10,7 +10,7 @@ I study how human activities impact the [global ocean](http://www.nature.com/art
 <br/>
 <br/>
 
-![Image](/assets/img/audacious.jpg)
+![Image](/assets/img/oop.png)
 
 **Open Ocean Project:** Transforming ocean management by making the invisible visible.
 
