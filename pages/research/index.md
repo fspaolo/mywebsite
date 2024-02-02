@@ -10,6 +10,15 @@ I study how human activities impact the [global ocean](http://www.nature.com/art
 <br/>
 <br/>
 
+![Image](/assets/img/nature2024.png)
+
+**Ocean industrialization:** Satellite mapping reveals extensive industrial activity at sea. 
+
+The world’s population increasingly relies on the ocean for food, energy production and global trade, yet human activities at sea are not well quantified. We combine satellite imagery, vessel GPS data and deep-learning models to map industrial vessel activities and offshore energy infrastructure across the world’s coastal waters from 2017 to 2021. We find that 72–76% of the world’s industrial fishing vessels are not publicly tracked, with much of that fishing taking place around South Asia, Southeast Asia and Africa. We also find that 21–30% of transport and energy vessel activity is missing from public tracking systems. [Checkout the paper in Nature](https://www.nature.com/articles/s41586-023-06825-8)
+
+<br/>
+<br/>
+
 ![Image](/assets/img/oop.png)
 
 **Open Ocean Project:** Transforming ocean management by making the invisible visible.
