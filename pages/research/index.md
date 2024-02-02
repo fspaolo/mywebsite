@@ -11,6 +11,8 @@ I study how human activities impact the [global ocean](http://www.nature.com/art
 <br/>
 
 ![Image](assets/img/nature2024.jpg)
+![Image](assets/img/nature2024.png)
+![Image](assets/img/nature2024)
 
 **Ocean industrialization:** Satellite mapping reveals extensive industrial activity at sea. 
 
