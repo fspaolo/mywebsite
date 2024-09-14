@@ -5,9 +5,9 @@ permalink: /about/index.html
 
 # Who is Fernando?
 
-I'm Fernando Paolo, a Machine Learning Engineer and Research Scientist at [Global Fishing Watch](https://www.youtube.com/watch?v=tKxCuW-WWng), an international nonprofit organization. I develop algorightms to analyze global feeds of satellite radar and optical imagery, and use (deep) artificial neural networks to investigate human activity at sea and related environmental change.
+I'm Fernando Paolo, a Machine Learning Engineer and Research Scientist at [Global Fishing Watch](https://globalfishingwatch.org/), an international nonprofit organization. I develop algorightms to analyze global feeds of satellite radar and optical imagery, and use (deep) artificial neural networks to investigate human activity at sea and related environmental change.
 
-Before that, I worked at [NASA Jet Propulsion Lab](https://www.jpl.nasa.gov/), studying the role of the Cryosphere in the Earth's climate system and its implication on future sea-level change. I used high-performance computing to analyze three decades of radar and laser satellite measurements and quantify ice sheet loss.
+Before that, I worked at the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), studying the role of the Cryosphere in the Earth's climate system and its implication on future sea-level change. I used high-performance computing to analyze three decades of radar and laser satellite measurements and quantify ice sheet loss.
 
 Before that, I got my PhD in Geophysics from the [University of California](https://scripps.ucsd.edu/), San Diego, where I developed statistical methods for satellite data fusion and change detection to study ice-ocean-atmosphere interactions.
 
@@ -30,7 +30,7 @@ Fernando develops machine learning algorithms for global analysis of satellite d
 
 ## Beyond my research
 
-Besides studying the impact of humans in the environment and climate, in my "free" time I like to deepen my understanding on a variety of subjects, including our perception of reality and the link to psychological suffering; the relationship between conciousness, intelligence and experience; the parallels between modern physics and ancient mysticism in understanding the natural world; the implications of achieving artificial general intelligence; the limits of human performance, health and lifespan; and what actually makes life worth living; among others.
+In addition to studying the impact of humans on the environment and climate, in my “free” time I like to deepen my understanding of a variety of subjects, including our perception of reality and the connection to psychological suffering; the relationship between consciousness, intelligence and experience; the parallels between modern physics and ancient mysticism in understanding the natural world; the implications of achieving artificial general intelligence; the limits of human performance, health and longevity; and what really makes life worth living; among others.
 
 ## Why a minimal design?
 
