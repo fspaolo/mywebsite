@@ -30,7 +30,7 @@ News stories about my work, media interviews and comments.
 
 **BBC:** [How AI is being used to prevent illegal fishing](https://www.bbc.com/news/business-68564249)
 
-""We use information like the length of the vessel, plus environmental information as to where that vessel is located, the imaging of the area, the density of vessel traffic in the area, the state of the ocean, like the temperature - a bunch of information on where the vessel is operating," says Fernando Paolo, Global Fishing Watch's senior remote sensing machine learning engineer."
+"We use information like the length of the vessel, plus environmental information as to where that vessel is located, the imaging of the area, the density of vessel traffic in the area, the state of the ocean, like the temperature - a bunch of information on where the vessel is operating," says Fernando Paolo, Global Fishing Watch's senior remote sensing machine learning engineer."
 
 **GFW:** [Mapping Human Activity at Sea From Space](https://globalfishingwatch.org/mapping-human-activity-at-sea-from-space/)
 

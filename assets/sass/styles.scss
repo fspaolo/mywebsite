@@ -1,38 +1,39 @@
 @use "reset";
 @use "variables";
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:ital,wght@0,600;1,600&family=IBM+Plex+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
 
 body {
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'IBM Plex Sans', sans-serif;
+    line-height: 1.2;
 	background-color: var(--background-color);
 }
 
 .content {
 	padding: 2rem;
 	max-width: var(--page-width);
-	margin: 0;
+	margin: auto;
 }
 
 h1 {
-	font-size: var(--font-size);
+	font-family: 'IBM Plex Sans Condensed', sans-serif;
+    line-height: 1;
+	font-size: var(--font-size-head);
     //font-weight: bold;
-    text-transform: uppercase;
 	padding-bottom: 1.2rem;
 }
 
 h2 {
-	font-size: var(--font-size);
+	font-family: 'IBM Plex Sans Condensed', sans-serif;
+    line-height: 1;
+	font-size: var(--font-size-head);
     color: var(--header-color);
 	padding-top: 1.2rem;
 	padding-bottom: 1.2rem;
 }
-h2:before {
-   content: "# ";
-}
 
 p,
 ul {
-    font-size: var(--font-size);
+    font-size: var(--font-size-body);
     line-height: 1.25rem;
 	margin-bottom: 1.2rem;
 }
@@ -46,12 +47,12 @@ ul {
 }
 
 .by {
-	font-size: var(--font-size);
+	font-size: var(--font-size-body);
 	color: var(--byline-color);
 }
 
 .footer {
-	font-size: var(--font-size);
+	font-size: var(--font-size-body);
 	padding: 2rem;
 	padding-top: 0rem;
 	max-width: var(--page-width);
