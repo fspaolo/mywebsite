@@ -28,6 +28,14 @@ News stories about my work, media interviews and comments.
 
 ## Media coverage on papers
 
+**BBC:** [How AI is being used to prevent illegal fishing](https://www.bbc.com/news/business-68564249)
+
+""We use information like the length of the vessel, plus environmental information as to where that vessel is located, the imaging of the area, the density of vessel traffic in the area, the state of the ocean, like the temperature - a bunch of information on where the vessel is operating," says Fernando Paolo, Global Fishing Watch's senior remote sensing machine learning engineer."
+
+Massive international coverage of our Nature paper "Satellite mapping reveals extensive industrial activity at sea", [see articles](https://wakelet.com/wake/OrkY5KvXB5czQNfTXVt31)
+
+. 
+
 **Eos:** [Shrinking Ice Sheets Lifted Global Sea Level 14 Millimeters](https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters)
 
 > “With the unprecedented accuracy and precision of this novel measurement system, we are now able to detect the small signals far into the ice sheet interior, as well as map out the changes over narrow glaciers on high-slope terrain around the ice sheets,” said study coauthor Fernando S. Paolo of NASA’s Jet Propulsion Laboratory. “Previous altimeters struggled with these challenges. Because we used laser measurements over a fairly long time span (about 16 years), we are getting the overall trends of ice sheet mass loss with higher confidence.”
