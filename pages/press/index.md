@@ -32,6 +32,10 @@ News stories about my work, media interviews and comments.
 
 ""We use information like the length of the vessel, plus environmental information as to where that vessel is located, the imaging of the area, the density of vessel traffic in the area, the state of the ocean, like the temperature - a bunch of information on where the vessel is operating," says Fernando Paolo, Global Fishing Watch's senior remote sensing machine learning engineer."
 
+**GFW:** [Mapping Human Activity at Sea From Space](https://globalfishingwatch.org/mapping-human-activity-at-sea-from-space/)
+
+**Google:** [Mapping human activity at sea with AI](https://blog.google/outreach-initiatives/sustainability/global-fishing-watch-ai-data-human-activity-map/)
+
 Massive international coverage of our Nature paper "Satellite mapping reveals extensive industrial activity at sea", [see articles](https://wakelet.com/wake/OrkY5KvXB5czQNfTXVt31)
 
 . 
