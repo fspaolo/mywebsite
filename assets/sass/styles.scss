@@ -33,7 +33,7 @@ h2 {
 
 h3 {
     font-family: "Special Elite", system-ui;
-    font-size: var(--font-size-name);
+    font-size: var(--font-size-body);
     color: var(--font-color-name);
     line-height: 1;
 	padding-top: 1.1rem;
@@ -63,7 +63,7 @@ ul {
 
 .footer {
 	font-size: var(--font-size-body);
-    line-height: 1.5;
+    line-height: 1.2;
 	padding: 2rem;
 	padding-top: 0rem;
 	max-width: var(--page-width);
