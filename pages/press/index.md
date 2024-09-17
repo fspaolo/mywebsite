@@ -62,7 +62,7 @@ Massive international coverage of our Nature paper "Satellite mapping reveals ex
 [Science paper](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845)
 -->
 
-<p>&#9724;</p>
+<p>&#9723;</p>
 
 **IPCC Report:** [Cited multiple times on Chapters 3 and 4 in
 the United Nations's Intergovernmental Panel on Climate Change](https://www.ipcc.ch/srocc/)
@@ -91,7 +91,7 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 [IPCC Chapter 3: Polar Regions](https://www.ipcc.ch/srocc/chapter/chapter-3-2/)  
 [IPCC Chapter 4: Sea Level Rise](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
 
-.
+<p>&#9723;</p>
 
 **BBC:** [Climate change: Study underpins key idea in Antarctic ice loss](https://www.bbc.co.uk/news/amp/science-environment-50625396)
 
@@ -103,7 +103,7 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 **GRL:** [our paper on ice shelf dynamics](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085027)
 -->
 
-.
+<p>&#9723;</p>
 
 **BBC:** [El Nino's long reach to Antarctic ice](http://www.bbc.com/news/science-environment-42614412)
 
@@ -137,7 +137,7 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 [[pdf](https://www.dropbox.com/s/fa126h3fjma2c2z/012-017_notas_264.pdf?dl=0)]
 -->
 
-.
+<p>&#9723;</p>
 
 **Washington Post:** [This ice shelf is nearly the size of Scotland - and it could be at 'imminent risk'](http://www.washingtonpost.com/news/energy-environment/wp/2015/05/12/this-ice-shelf-is-nearly-the-size-of-scotland-and-scientists-are-worried-about-its-stability/?tid=sm_fb)
 
@@ -167,7 +167,7 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 
 **Scientific American:** [Massive Antarctic Ice Shelf Faces Imminent Risk of Collapse](http://www.scientificamerican.com/article/massive-antarctic-ice-shelf-faces-imminent-risk-of-collapse/)
 
-.
+<p>&#9723;</p>
 
 **Los Angeles Times:** [Antarctic ice shelves melting 70% faster, study shows](http://www.latimes.com/science/sciencenow/la-sci-sn-antarctic-ice-shelves-melting-faster-20150326-story.html)
 
@@ -294,5 +294,3 @@ driven by sub-ice oceanic melt (thinning) of ice shelves
 **ScienceNews:** [Wind may be driving the melting of East Antarctica’s largest glacier](https://www.sciencenews.org/article/wind-may-be-driving-melting-east-antarctica-totten-glacier)
 
 > “We have little data on the ocean and ice shelf conditions in this region,” says Fernando Paolo, a geophysicist at NASA’s Jet Propulsion Laboratory in Pasadena, Calif.  But the 14-year record used in the study is still somewhat short to infer a definitive link between wind-driven upwelling and ice shelf melt, he says. Still, he adds, these new data are a welcome addition to the pool of sparse observations, supporting the idea that Totten Glacier is very sensitive to changing oceanic conditions, much like the fast-thinning glaciers in West Antarctica.
-
-
