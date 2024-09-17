@@ -38,7 +38,7 @@ News stories about my work, media interviews and comments.
 
 Massive international coverage of our Nature paper "Satellite mapping reveals extensive industrial activity at sea", [see articles](https://wakelet.com/wake/OrkY5KvXB5czQNfTXVt31)
 
-<p>&#9633;</p>
+<p>&#9723;</p>
 
 **Eos:** [Shrinking Ice Sheets Lifted Global Sea Level 14 Millimeters](https://eos.org/articles/shrinking-ice-sheets-lifted-global-sea-level-14-millimeters)
 
@@ -62,7 +62,7 @@ Massive international coverage of our Nature paper "Satellite mapping reveals ex
 [Science paper](https://science.sciencemag.org/content/early/2020/04/29/science.aaz5845)
 -->
 
-.
+<p>&#9724;</p>
 
 **IPCC Report:** [Cited multiple times on Chapters 3 and 4 in
 the United Nations's Intergovernmental Panel on Climate Change](https://www.ipcc.ch/srocc/)
