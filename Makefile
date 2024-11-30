@@ -2,6 +2,7 @@ all:
 	npm run build
 	cp -rfv _site/* docs/
 	cp -rfv assets/img/* docs/assets/img/
+	cp -rfv CNAME docs/
 
 build:
 	npm run build

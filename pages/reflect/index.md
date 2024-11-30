@@ -18,11 +18,9 @@ permalink: /reflect/index.html
 [Essence of simplicity](simplicity.html)  
 [I set my hearth on learning](learning.html)  
 [Internationalization of Amazonia](amazonia.html)  
-<!--[Investment of societies](societies.html)  -->
 [Making work more efficient](efficiency.html)  
 [Message to future generations](generations.html)  
 [On the pursue of truth](truth.html)  
-<!--[Purpose of religion](religion.html)  -->
 [Regrets of the dying](regrets.html)  
 [Signs of noncompetitive states](states.html)  
 [The search for reason](reason.html)  
@@ -31,3 +29,5 @@ permalink: /reflect/index.html
 [Uncopyright mindset](uncopyright.html)  
 [What is happiness?](happiness.html)  
 [Who cares about them](whocares.html)  
+<!--[Investment of societies](societies.html)  -->
+<!--[Purpose of religion](religion.html)  -->
