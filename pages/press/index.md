@@ -26,6 +26,9 @@ News stories about my work, media interviews and comments.
 [Video (Spanish version)](https://www.youtube.com/watch?v=DvHXyn6t1lA&list=PLHy4NEP75tDnzONfhyLh9GLXI2li43OD7&index=5)
 -->
 
+**NPR:** [A moon mission, galaxy radio waves and tracking fishing boats](https://www.npr.org/player/embed/1223380446/1223380447)  
+
+
 ## Media coverage on papers
 
 **BBC:** [How AI is being used to prevent illegal fishing](https://www.bbc.com/news/business-68564249)
