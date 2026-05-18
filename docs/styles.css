@@ -40,6 +40,8 @@ td:not([align]), th:not([align]) { text-align: left; }
 body {
   font-family: 'Lato', sans-serif;
   background-color: var(--background-color);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 .content {
@@ -78,8 +80,8 @@ h3 {
 p, ul {
   font-size: var(--font-size-body);
   color: var(--font-color-body);
-  line-height: 1.5;
-  word-spacing: 0.05em;
+  line-height: 1.65;
+  word-spacing: 0.03em;
   margin-bottom: 1.2rem;
 }
 
@@ -171,7 +173,7 @@ a.project:hover p {
   grid-template-columns: 10rem 1fr;
   column-gap: 0.75rem;
   align-items: start;
-  padding: 0.35rem 0;
+  padding: 0.5rem 0;
 }
 
 .media-source {
@@ -182,8 +184,13 @@ a.project:hover p {
 }
 
 .media-outlet {
-  font-weight: bold;
-  font-size: 15px;
+  font-weight: normal;
+  font-size: 13px;
+  color: var(--font-color-name);
+}
+
+.media-entry a {
+  font-weight: 700;
 }
 
 .media-year-label {
