@@ -207,3 +207,15 @@ a.project:hover p {
   color: var(--byline-color);
   margin-left: 0.3rem;
 }
+
+@media (max-width: 600px) {
+  .media-entry {
+    display: block;
+    padding: 0.4rem 0;
+  }
+
+  .media-outlet {
+    display: block;
+    margin-bottom: 0.15rem;
+  }
+}
