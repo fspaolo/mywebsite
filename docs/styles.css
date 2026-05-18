@@ -26,9 +26,9 @@ td:not([align]), th:not([align]) { text-align: left; }
 /* Design tokens */
 :root {
   --page-width:      42rem;
-  --font-size-head:  34px;
-  --font-size-body:  19px;
-  --font-size-name:  21px;
+  --font-size-head:  30px;
+  --font-size-body:  17px;
+  --font-size-name:  19px;
   --font-color-body: #333;
   --font-color-name: #C02F1D;
   --background-color:#fff;
@@ -104,7 +104,7 @@ nav.nav {
   display: flex;
   justify-content: flex-end;
   gap: 2rem;
-  font-size: 16px;
+  font-size: 15px;
 }
 
 /* Misc */
@@ -159,7 +159,7 @@ a.project:hover p {
 
 /* Media page two-column layout */
 .media-intro {
-  font-size: 14px;
+  font-size: 13px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--byline-color);
@@ -187,7 +187,7 @@ a.project:hover p {
 }
 
 .media-year-label {
-  font-size: 14px;
+  font-size: 13px;
   color: var(--byline-color);
   margin-top: 2rem;
   margin-bottom: 0.2rem;
@@ -195,19 +195,7 @@ a.project:hover p {
 
 .media-tag {
   font-style: italic;
-  font-size: 14px;
+  font-size: 13px;
   color: var(--byline-color);
   margin-left: 0.3rem;
-}
-
-/* Mobile */
-@media (max-width: 600px) {
-  .media-entry {
-    grid-template-columns: 1fr;
-    padding: 0.5rem 0;
-  }
-
-  .media-outlet {
-    margin-bottom: 0.15rem;
-  }
 }
