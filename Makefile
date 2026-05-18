@@ -1,21 +1,9 @@
-all:
-	npm run build
-	cp -rfv _site/* docs/
-	cp -rfv assets/img/* docs/assets/img/
-	cp -rfv CNAME docs/
+preview:
+	cd docs && python3 -m http.server 8080
 
-build:
-	npm run build
+deploy:
+	git add docs/ CLAUDE.md AGENTS.md Makefile
+	git commit -m 'Update website'
+	git push
 
-copy:
-	cp -rfv _site/* docs/
-
-copy:
-	cp -rfv assets/img/* docs/assets/img/
-
-git:
-	git add docs/* docs/assets/img/*
-	git commit -am 'Update website'
-	git push 
-
-.PHONY: all build copy git
+.PHONY: preview deploy

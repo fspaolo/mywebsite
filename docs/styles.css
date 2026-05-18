@@ -1,0 +1,201 @@
+/* fpaolo.com — shared stylesheet */
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+/* minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
+html, body, p, ol, ul, li, dl, dt, dd,
+blockquote, figure, fieldset, legend, textarea,
+pre, iframe, hr, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; }
+ul { list-style: none; }
+button, input, select, textarea { margin: 0; }
+html { box-sizing: border-box; }
+*, *::before, *::after { box-sizing: border-box; }
+img, video { height: auto; max-width: 100%; }
+iframe { border: 0; }
+table { border-collapse: collapse; border-spacing: 0; }
+td, th { padding: 0; }
+td:not([align]), th:not([align]) { text-align: left; }
+
+/* Design tokens */
+:root {
+  --page-width:      42rem;
+  --font-size-head:  30px;
+  --font-size-body:  17px;
+  --font-size-name:  19px;
+  --font-color-body: #333;
+  --font-color-name: #C02F1D;
+  --background-color:#fff;
+  --byline-color:    #888;
+  --link-color:      #00a;
+}
+
+/* Base */
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: var(--background-color);
+}
+
+.content {
+  padding: 2rem;
+  max-width: var(--page-width);
+  margin: 0 auto;
+  margin-top: 1rem;
+}
+
+/* Headings */
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: var(--font-size-head);
+  line-height: 1.2;
+  padding-bottom: 1.1rem;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: var(--font-size-head);
+  line-height: 1.1;
+  padding-top: 1.1rem;
+  padding-bottom: 1.1rem;
+}
+
+h3 {
+  font-family: 'Special Elite', system-ui;
+  font-size: var(--font-size-body);
+  color: var(--font-color-name);
+  line-height: 1;
+  padding-top: 1.1rem;
+  padding-bottom: 0.5rem;
+}
+
+/* Body text */
+p, ul {
+  font-size: var(--font-size-body);
+  color: var(--font-color-body);
+  line-height: 1.5;
+  word-spacing: 0.05em;
+  margin-bottom: 1.2rem;
+}
+
+ul {
+  padding-inline-start: 1rem;
+}
+
+ul li {
+  list-style: disc;
+}
+
+.by {
+  font-size: var(--font-size-body);
+  color: var(--byline-color);
+}
+
+/* Top nav */
+nav.nav {
+  max-width: var(--page-width);
+  margin: 0 auto;
+  padding: 1.5rem 2rem 0.5rem;
+  display: flex;
+  justify-content: flex-end;
+  gap: 2rem;
+  font-size: 15px;
+}
+
+/* Misc */
+blockquote {
+  font-style: italic;
+}
+
+a:link, a:visited {
+  color: var(--font-color-body);
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: var(--link-color);
+  text-decoration: underline;
+}
+
+hr {
+  display: block;
+  margin-block-start: 0.5em;
+  margin-block-end: 1.2em;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 1px;
+}
+
+/* Research project cards */
+a.project {
+  display: block;
+  margin-bottom: 3rem;
+  color: var(--font-color-body);
+  text-decoration: none;
+}
+
+a.project img {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  object-position: center top;
+  margin-bottom: 0.5rem;
+}
+
+a.project p {
+  font-size: var(--font-size-body);
+  margin-bottom: 0;
+}
+
+a.project:hover p {
+  text-decoration: underline;
+}
+
+/* Media page two-column layout */
+.media-intro {
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--byline-color);
+  margin-bottom: 1.5rem;
+}
+
+.media-entry {
+  display: grid;
+  grid-template-columns: 10rem 1fr;
+  column-gap: 0.75rem;
+  align-items: start;
+  padding: 0.35rem 0;
+}
+
+.media-source {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.media-outlet {
+  font-weight: bold;
+  font-size: var(--font-size-body);
+}
+
+.media-year-label {
+  font-size: 13px;
+  color: var(--byline-color);
+  margin-top: 2rem;
+  margin-bottom: 0.2rem;
+}
+
+.media-tag {
+  font-style: italic;
+  font-size: 13px;
+  color: var(--byline-color);
+  margin-left: 0.3rem;
+}
