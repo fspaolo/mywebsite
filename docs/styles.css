@@ -26,9 +26,9 @@ td:not([align]), th:not([align]) { text-align: left; }
 /* Design tokens */
 :root {
   --page-width:      42rem;
-  --font-size-head:  30px;
-  --font-size-body:  17px;
-  --font-size-name:  19px;
+  --font-size-head:  32px;
+  --font-size-body:  18px;
+  --font-size-name:  20px;
   --font-color-body: #333;
   --font-color-name: #C02F1D;
   --background-color:#fff;
@@ -183,7 +183,7 @@ a.project:hover p {
 
 .media-outlet {
   font-weight: bold;
-  font-size: var(--font-size-body);
+  font-size: 15px;
 }
 
 .media-year-label {
