@@ -1,7 +1,7 @@
 /* fpaolo.com — shared stylesheet */
 
 /* Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap');
 
 /* minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
 html, body, p, ol, ul, li, dl, dt, dd,
@@ -23,9 +23,9 @@ td:not([align]), th:not([align]) { text-align: left; }
 
 /* Design tokens */
 :root {
-  --page-width:      42rem;
+  --page-width:      38rem;
   --font-size-head:  36px;
-  --font-size-body:  20px;
+  --font-size-body:  18px;
   --font-size-name:  20px;
   --font-color-body: #333;
   --font-color-name: #C02F1D;
@@ -36,7 +36,7 @@ td:not([align]), th:not([align]) { text-align: left; }
 
 /* Base */
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: var(--font-size-body);
   background-color: var(--background-color);
   -webkit-font-smoothing: antialiased;
@@ -52,7 +52,7 @@ body {
 
 /* Headings */
 h1 {
-  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: var(--font-size-head);
   font-weight: 600;
   line-height: 1.2;
@@ -60,7 +60,7 @@ h1 {
 }
 
 h2 {
-  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: var(--font-size-head);
   font-weight: 600;
   line-height: 1.1;
@@ -69,7 +69,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: var(--font-size-body);
   font-weight: 700;
   color: var(--font-color-name);
@@ -108,7 +108,6 @@ nav.nav {
   display: flex;
   justify-content: flex-end;
   gap: 2rem;
-  font-size: 0.8em;
 }
 
 /* Misc */
@@ -138,23 +137,31 @@ hr {
 
 /* Research project cards */
 a.project {
-  display: block;
-  margin-bottom: 3rem;
+  display: grid;
+  grid-template-columns: 1fr 9rem;
+  column-gap: 1.25rem;
+  margin-right: -10.25rem;
+  margin-bottom: 2rem;
   color: var(--font-color-body);
   text-decoration: none;
 }
 
 a.project img {
   width: 100%;
-  height: 240px;
+  height: 280px;
   object-fit: cover;
   object-position: center top;
-  margin-bottom: 0.5rem;
+  display: block;
+  border: 1px solid #ddd;
 }
 
 a.project p {
-  font-size: var(--font-size-body);
+  font-size: 13px;
+  line-height: 1.5;
+  color: #333;
   margin-bottom: 0;
+  align-self: end;
+  padding-bottom: 0.75rem;
 }
 
 a.project:hover p {
@@ -186,14 +193,14 @@ a.project:hover p {
 }
 
 .media-outlet {
-  font-weight: normal;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
   font-size: 16px;
   color: var(--font-color-name);
 }
 
 .media-entry a {
   font-size: 18px;
-  font-weight: 700;
 }
 
 .media-year-label {
@@ -214,6 +221,15 @@ a.project:hover p {
   :root {
     --font-size-body: 22px;
     --font-size-head: 38px;
+  }
+
+  a.project {
+    grid-template-columns: 1fr;
+    margin-right: 0;
+  }
+
+  a.project img {
+    height: 220px;
   }
 
   .media-entry {
