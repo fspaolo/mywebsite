@@ -37,6 +37,7 @@ td:not([align]), th:not([align]) { text-align: left; }
 /* Base */
 body {
   font-family: 'Lato', sans-serif;
+  font-size: var(--font-size-body);
   background-color: var(--background-color);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -81,7 +82,7 @@ h3 {
 p, ul {
   font-size: var(--font-size-body);
   color: var(--font-color-body);
-  line-height: 1.55;
+  line-height: 1.45;
   word-spacing: 0.03em;
   margin-bottom: 1.2rem;
 }
@@ -107,7 +108,7 @@ nav.nav {
   display: flex;
   justify-content: flex-end;
   gap: 2rem;
-  font-size: 15px;
+  font-size: 0.8em;
 }
 
 /* Misc */
@@ -162,7 +163,7 @@ a.project:hover p {
 
 /* Media page two-column layout */
 .media-intro {
-  font-size: 13px;
+  font-size: 15px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--byline-color);
@@ -186,16 +187,17 @@ a.project:hover p {
 
 .media-outlet {
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   color: var(--font-color-name);
 }
 
 .media-entry a {
+  font-size: 18px;
   font-weight: 700;
 }
 
 .media-year-label {
-  font-size: 13px;
+  font-size: 15px;
   color: var(--byline-color);
   margin-top: 2rem;
   margin-bottom: 0.2rem;
@@ -203,7 +205,7 @@ a.project:hover p {
 
 .media-tag {
   font-style: italic;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--byline-color);
   margin-left: 0.3rem;
 }
