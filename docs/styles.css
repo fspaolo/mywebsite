@@ -210,7 +210,7 @@ a.project:hover p {
 }
 
 .media-entry a {
-  font-size: 18px;
+  font-size: var(--font-size-body);
 }
 
 .media-year-label {
