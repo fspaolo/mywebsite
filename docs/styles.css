@@ -54,7 +54,7 @@ body {
 h1 {
   font-family: 'PT Sans', sans-serif;
   font-size: var(--font-size-head);
-  font-weight: 600;
+  font-weight: 400;
   line-height: 1.2;
   padding-bottom: 1.1rem;
 }
@@ -82,7 +82,7 @@ h3 {
 p, ul {
   font-size: var(--font-size-body);
   color: var(--font-color-body);
-  line-height: 1.45;
+  line-height: 1.55;
   word-spacing: 0.03em;
   margin-bottom: 1.2rem;
 }
@@ -93,6 +93,15 @@ ul {
 
 ul li {
   list-style: disc;
+}
+
+.quote::before {
+  content: '';
+  display: block;
+  width: 2.5rem;
+  height: 2px;
+  background-color: var(--font-color-name);
+  margin-bottom: 0.75rem;
 }
 
 .by {
