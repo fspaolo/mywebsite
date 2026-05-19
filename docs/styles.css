@@ -165,7 +165,7 @@ a.project img {
 }
 
 a.project p {
-  font-size: 13px;
+  font-size: 14px;
   line-height: 1.5;
   color: #333;
   margin-bottom: 0;
@@ -227,7 +227,7 @@ a.project:hover p {
   margin-left: 0.3rem;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   :root {
     --font-size-body: 19px;
     --font-size-head: 36px;
