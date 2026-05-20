@@ -243,6 +243,7 @@ a.project:hover p {
   }
 
   a.project p {
+    font-size: 15px;
     margin-top: 0.75rem;
     padding-bottom: 0;
   }
