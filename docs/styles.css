@@ -23,7 +23,7 @@ td:not([align]), th:not([align]) { text-align: left; }
 
 /* Design tokens */
 :root {
-  --page-width:      38rem;
+  --page-width:      40rem;
   --font-size-head:  36px;
   --font-size-body:  19px;
   --font-size-name:  20px;
@@ -47,7 +47,7 @@ body {
   padding: 2rem;
   max-width: var(--page-width);
   margin: 0 auto;
-  margin-top: 1rem;
+  margin-top: 2rem;
 }
 
 /* Headings */
@@ -113,10 +113,21 @@ ul li {
 nav.nav {
   max-width: var(--page-width);
   margin: 0 auto;
-  padding: 1.5rem 2rem 0.5rem;
+  padding: 2rem 2rem 1rem;
   display: flex;
   justify-content: flex-end;
   gap: 2rem;
+  border-bottom: 1px solid #eee;
+}
+
+nav.nav a {
+  text-decoration: none;
+}
+
+nav.nav a.active {
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 4px;
 }
 
 /* Misc */
@@ -147,9 +158,9 @@ hr {
 /* Research project cards */
 a.project {
   display: grid;
-  grid-template-columns: 1fr 9rem;
-  column-gap: 1.25rem;
-  margin-right: -10.25rem;
+  grid-template-columns: 1fr 13rem;
+  column-gap: 0.75rem;
+  margin-right: -13.75rem;
   margin-bottom: 2rem;
   color: var(--font-color-body);
   text-decoration: none;
@@ -157,24 +168,50 @@ a.project {
 
 a.project img {
   width: 100%;
-  height: 280px;
+  aspect-ratio: 2.1 / 1;
+  height: auto;
   object-fit: cover;
   object-position: center top;
   display: block;
   border: 1px solid #ddd;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+a.project:hover img {
+  opacity: 0.92;
+  transform: translateY(-1px);
+}
+
+.project-caption {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0.5rem 0;
+}
+
+.project-tag {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--byline-color);
+  margin-bottom: 0.2rem;
+}
+
+.project-stat {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--font-color-body);
+  margin-bottom: 0.4rem;
 }
 
 a.project p {
   font-size: 14px;
-  line-height: 1.5;
-  color: #333;
+  line-height: 1.6;
+  color: #444;
   margin-bottom: 0;
-  align-self: end;
-  padding-bottom: 0.75rem;
-}
-
-a.project:hover p {
-  text-decoration: underline;
 }
 
 /* Media page two-column layout */
@@ -238,14 +275,12 @@ a.project:hover p {
     margin-right: 0;
   }
 
-  a.project img {
-    height: 220px;
+  .project-caption {
+    padding-top: 0.75rem;
   }
 
   a.project p {
     font-size: 15px;
-    margin-top: 0.75rem;
-    padding-bottom: 0;
   }
 
   .media-intro { font-size: 15px; }
