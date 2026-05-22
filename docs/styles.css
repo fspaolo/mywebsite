@@ -198,13 +198,23 @@ a.project:hover img {
   margin-bottom: 0.2rem;
 }
 
-.project-stat {
+a.project .project-headline {
   font-family: 'PT Sans', sans-serif;
-  font-size: 2rem;
+  font-size: 15px;
   font-weight: 700;
-  line-height: 1;
+  line-height: 1.25;
   color: var(--font-color-body);
-  margin-bottom: 0.4rem;
+  margin-top: 0.2rem;
+  margin-bottom: 0.3rem;
+}
+
+a.project .project-meta {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  color: var(--byline-color);
+  margin-top: 0.5rem;
+  margin-bottom: 0;
 }
 
 a.project p {
@@ -281,6 +291,14 @@ a.project p {
 
   a.project p {
     font-size: 15px;
+  }
+
+  a.project .project-headline {
+    font-size: 15px;
+  }
+
+  a.project .project-meta {
+    font-size: 11px;
   }
 
   .media-intro { font-size: 15px; }
