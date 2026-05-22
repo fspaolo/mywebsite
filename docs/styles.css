@@ -232,14 +232,21 @@ a.project p {
 
 .media-outlet {
   font-family: 'PT Sans', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 14px;
-  color: #666;
+  color: var(--font-color-name);
 }
 
 .media-entry a {
   font-size: 17px;
   line-height: 1.4;
+  text-decoration: underline;
+  text-decoration-color: #ccc;
+  text-underline-offset: 3px;
+}
+
+.media-entry a:hover {
+  text-decoration-color: var(--link-color);
 }
 
 .media-year-label {
