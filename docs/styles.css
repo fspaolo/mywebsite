@@ -234,10 +234,11 @@ a.project p {
   font-family: 'PT Sans', sans-serif;
   font-weight: 700;
   font-size: 14px;
-  color: #a03828;
+  color: var(--font-color-name);
 }
 
-.media-entry a {
+.media-entry a,
+.media-entry > span:not(.media-outlet) {
   font-size: 17px;
   line-height: 1.4;
 }
@@ -288,7 +289,7 @@ a.project p {
 
   .media-entry {
     display: block;
-    border-left: 2px solid #a03828;
+    border-left: 2px solid var(--font-color-name);
     padding: 0.2rem 0 0.2rem 0.75rem;
     margin-bottom: 0.8rem;
   }
