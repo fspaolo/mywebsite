@@ -185,36 +185,17 @@ a.project:hover img {
 .project-caption {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  padding: 0.5rem 0;
+  justify-content: flex-end;
+  padding: 0 0 0.25rem 0;
 }
 
 .project-tag {
   font-family: 'PT Sans', sans-serif;
-  font-size: 11px;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--byline-color);
-  margin-bottom: 0.2rem;
-}
-
-a.project .project-headline {
-  font-family: 'PT Sans', sans-serif;
-  font-size: 15px;
+  font-size: inherit;
   font-weight: 700;
-  line-height: 1.25;
-  color: var(--font-color-body);
-  margin-top: 0.2rem;
-  margin-bottom: 0.3rem;
-}
-
-a.project .project-meta {
-  font-family: 'PT Sans', sans-serif;
-  font-size: 11px;
-  letter-spacing: 0.04em;
-  color: var(--byline-color);
-  margin-top: 0.5rem;
-  margin-bottom: 0;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--font-color-name);
 }
 
 a.project p {
@@ -291,14 +272,6 @@ a.project p {
 
   a.project p {
     font-size: 15px;
-  }
-
-  a.project .project-headline {
-    font-size: 15px;
-  }
-
-  a.project .project-meta {
-    font-size: 11px;
   }
 
   .media-intro { font-size: 15px; }
