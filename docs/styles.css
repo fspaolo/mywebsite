@@ -232,21 +232,14 @@ a.project p {
 
 .media-outlet {
   font-family: 'PT Sans', sans-serif;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 14px;
-  color: var(--font-color-name);
+  color: #a03828;
 }
 
 .media-entry a {
   font-size: 17px;
   line-height: 1.4;
-  text-decoration: underline;
-  text-decoration-color: #ccc;
-  text-underline-offset: 3px;
-}
-
-.media-entry a:hover {
-  text-decoration-color: var(--link-color);
 }
 
 .media-year-label {
@@ -295,7 +288,7 @@ a.project p {
 
   .media-entry {
     display: block;
-    border-left: 2px solid #ddd;
+    border-left: 2px solid #a03828;
     padding: 0.2rem 0 0.2rem 0.75rem;
     margin-bottom: 0.8rem;
   }
