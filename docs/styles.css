@@ -272,10 +272,21 @@ a.project p {
   a.project {
     grid-template-columns: 1fr;
     margin-right: 0;
+    margin-bottom: 3rem;
+  }
+
+  a.project img {
+    aspect-ratio: 2.8 / 1;
   }
 
   .project-caption {
-    padding-top: 0.75rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0;
+  }
+
+  a.project .project-tag {
+    display: block;
+    margin-bottom: 0.2rem;
   }
 
   a.project p {
