@@ -271,17 +271,17 @@ a.project p {
 
   a.project {
     grid-template-columns: 1fr;
-    margin-right: 0;
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
     margin-bottom: 3rem;
   }
 
   a.project img {
-    aspect-ratio: 2.8 / 1;
+    aspect-ratio: 2 / 1;
   }
 
   .project-caption {
-    padding-top: 0.6rem;
-    padding-bottom: 0;
+    padding: 0.6rem 1rem 0;
   }
 
   a.project .project-tag {
@@ -290,7 +290,7 @@ a.project p {
   }
 
   a.project p {
-    font-size: 15px;
+    font-size: 14px;
   }
 
   .media-intro { font-size: 14px; }
