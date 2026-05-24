@@ -300,7 +300,8 @@ a.project p {
     margin-bottom: 0.1rem;
   }
 
-  .media-entry a { font-size: 15px; }
+  .media-entry a,
+  .media-entry > span:not(.media-outlet) { font-size: 15px; }
 
   .media-outlet { font-size: 13px; }
 }
