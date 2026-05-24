@@ -295,25 +295,18 @@ a.project p {
 
   .media-entry {
     display: block;
-    position: relative;
-    padding: 0.2rem 0 0.2rem 0.75rem;
-    margin-bottom: 0.8rem;
-  }
-
-  .media-entry::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0.15rem;
-    width: 2px;
-    height: 2.2rem;
-    background: var(--font-color-name);
+    padding: 0.15rem 0;
+    margin-bottom: 0.75rem;
   }
 
   .media-entry a { font-size: 16px; }
 
   .media-outlet {
     display: block;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #999;
     margin-bottom: 0.1rem;
   }
 }
