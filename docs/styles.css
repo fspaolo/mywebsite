@@ -29,7 +29,7 @@ td:not([align]), th:not([align]) { text-align: left; }
   --font-size-name:  20px;
   --font-color-body: #333;
   --font-color-name: #C02F1D;
-  --background-color:#fff;
+  --background-color:#fafaf8;
   --byline-color:    #888;
   --link-color:      #00a;
 }
